@@ -1,0 +1,8 @@
+donor_id,donor_name,donor_type
+1,USAID,NGO
+2,ECHO,NGO
+4,UNHCR,Government
+5,WFP,Government
+6,DFID,UN Agency
+7,Norad,NGO
+8,GIZ,UN Agency
