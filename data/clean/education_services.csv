@@ -1,0 +1,2999 @@
+education_id,beneficiary_id,school_code,education_level,country,enrollment_date,status
+1,4604,SCH-063,Primary,South Sudan,2025-03-19,Enrolled
+2,1542,SCH-071,Secondary,Uganda,2024-07-30,Enrolled
+3,3310,SCH-028,Vocational,Somalia,2024-09-24,Dropped
+4,2551,SCH-029,Vocational,Ethiopia,2025-09-17,Dropped
+6,4039,SCH-019,Adult Learning,South Sudan,2025-08-17,Dropped
+7,4263,SCH-056,Adult Learning,Ethiopia,2025-02-03,Dropped
+8,813,SCH-027,Vocational,Ethiopia,2024-10-14,Completed
+9,3395,SCH-038,Vocational,Somalia,2026-04-03,Dropped
+10,3313,SCH-059,Secondary,Uganda,2025-02-27,Dropped
+11,3181,SCH-062,Adult Learning,Kenya,2024-07-26,Completed
+12,2860,SCH-076,Primary,Uganda,2024-10-07,Completed
+13,4390,SCH-029,Primary,South Sudan,2025-11-15,Enrolled
+14,869,SCH-058,Primary,South Sudan,2026-06-07,Enrolled
+15,558,SCH-034,Secondary,Somalia,2026-04-17,Dropped
+17,4439,SCH-018,Secondary,Ethiopia,2024-08-06,Enrolled
+18,2214,SCH-064,Secondary,Uganda,2025-01-13,Enrolled
+19,3488,SCH-018,Primary,Uganda,2026-05-15,Dropped
+20,4653,SCH-069,Adult Learning,Somalia,2024-09-22,Enrolled
+21,2841,SCH-026,Primary,Kenya,2024-07-28,Enrolled
+22,3326,SCH-064,Vocational,Uganda,2024-09-13,Completed
+23,4111,SCH-014,Vocational,Uganda,2024-12-15,Enrolled
+24,1968,SCH-061,Secondary,South Sudan,2025-10-01,Completed
+25,3030,SCH-053,Secondary,Uganda,2025-11-13,Completed
+26,4032,SCH-013,Secondary,Ethiopia,2026-02-06,Enrolled
+27,2986,SCH-028,Primary,Ethiopia,2026-04-07,Completed
+28,4812,SCH-034,Primary,Ethiopia,2024-07-21,Completed
+29,4476,SCH-005,Vocational,Uganda,2025-09-03,Completed
+30,4647,SCH-020,Adult Learning,South Sudan,2025-08-18,Completed
+31,4751,SCH-074,Vocational,Somalia,2026-01-24,Dropped
+32,55,SCH-064,Secondary,South Sudan,2024-12-08,Enrolled
+33,4635,SCH-009,Vocational,Kenya,2025-01-03,Enrolled
+34,4433,SCH-034,Secondary,Kenya,2025-09-30,Dropped
+35,4899,SCH-074,Secondary,Kenya,2026-04-28,Dropped
+36,4808,SCH-020,Secondary,Uganda,2024-09-17,Completed
+37,640,SCH-068,Secondary,South Sudan,2025-12-27,Dropped
+38,2222,SCH-058,Adult Learning,Ethiopia,2025-06-07,Enrolled
+39,548,SCH-061,Secondary,Somalia,2025-05-28,Completed
+40,3296,SCH-050,Secondary,South Sudan,2025-03-25,Completed
+41,3955,SCH-023,Adult Learning,Ethiopia,2025-03-29,Enrolled
+42,3797,SCH-037,Primary,Kenya,2025-11-10,Enrolled
+43,4822,SCH-001,Secondary,Uganda,2024-08-04,Enrolled
+44,3219,SCH-022,Adult Learning,Kenya,2025-01-13,Enrolled
+45,4487,SCH-049,Secondary,Uganda,2025-06-10,Completed
+46,4184,SCH-038,Vocational,Ethiopia,2025-04-05,Completed
+47,2375,SCH-045,Primary,Ethiopia,2026-02-09,Completed
+48,2268,SCH-005,Primary,Uganda,2024-08-30,Enrolled
+49,1645,SCH-020,Secondary,Ethiopia,2025-11-17,Enrolled
+50,3165,SCH-011,Secondary,Uganda,2025-02-11,Completed
+51,4897,SCH-008,Primary,South Sudan,2024-08-06,Dropped
+52,2095,SCH-041,Vocational,South Sudan,2026-06-10,Enrolled
+53,329,SCH-027,Primary,Ethiopia,2026-02-23,Enrolled
+54,3954,SCH-008,Vocational,Uganda,2024-11-29,Enrolled
+55,578,SCH-011,Adult Learning,Ethiopia,2024-12-17,Completed
+56,1146,SCH-077,Secondary,Somalia,2025-12-11,Completed
+57,1204,SCH-013,Primary,South Sudan,2024-12-17,Completed
+58,4318,SCH-068,Primary,Uganda,2025-03-20,Enrolled
+59,4140,SCH-051,Vocational,Uganda,2025-01-13,Dropped
+60,4261,SCH-014,Primary,Somalia,2025-10-06,Enrolled
+61,1253,SCH-060,Adult Learning,South Sudan,2025-01-11,Enrolled
+62,4689,SCH-033,Vocational,Somalia,2024-08-14,Enrolled
+63,1783,SCH-005,Secondary,South Sudan,2024-09-27,Dropped
+64,2372,SCH-023,Vocational,Somalia,2025-03-08,Completed
+65,1823,SCH-069,Adult Learning,South Sudan,2024-09-29,Enrolled
+66,1646,SCH-052,Primary,Somalia,2025-06-10,Dropped
+67,4072,SCH-069,Secondary,Somalia,2025-03-11,Completed
+68,1687,SCH-056,Primary,Somalia,2025-09-03,Dropped
+69,2315,SCH-032,Secondary,Ethiopia,2026-04-01,Enrolled
+70,1151,SCH-037,Adult Learning,South Sudan,2025-07-03,Dropped
+71,4775,SCH-078,Secondary,Somalia,2025-06-05,Completed
+72,2926,SCH-040,Secondary,Uganda,2024-08-19,Completed
+73,3068,SCH-013,Vocational,Somalia,2025-01-02,Completed
+74,1267,SCH-063,Secondary,Kenya,2025-04-20,Enrolled
+75,3139,SCH-058,Secondary,South Sudan,2025-11-20,Dropped
+76,2693,SCH-073,Adult Learning,Ethiopia,2026-04-14,Enrolled
+77,4760,SCH-032,Secondary,Kenya,2025-12-10,Dropped
+78,2808,SCH-053,Primary,South Sudan,2026-05-15,Completed
+79,1980,SCH-071,Secondary,Uganda,2025-02-16,Dropped
+80,334,SCH-037,Primary,Ethiopia,2025-04-19,Dropped
+81,265,SCH-013,Vocational,Uganda,2025-03-10,Completed
+82,3559,SCH-015,Secondary,Somalia,2025-09-18,Enrolled
+83,4128,SCH-073,Secondary,Kenya,2026-05-31,Completed
+84,1067,SCH-048,Primary,Uganda,2025-01-12,Enrolled
+85,4614,SCH-037,Primary,Ethiopia,2025-05-06,Dropped
+86,512,SCH-071,Secondary,Uganda,2026-07-02,Dropped
+87,4363,SCH-041,Adult Learning,South Sudan,2025-08-03,Completed
+88,518,SCH-019,Vocational,Kenya,2024-10-30,Dropped
+89,2975,SCH-052,Secondary,Uganda,2024-11-29,Enrolled
+90,1850,SCH-010,Adult Learning,Kenya,2026-06-26,Completed
+91,4752,SCH-061,Primary,Ethiopia,2026-03-27,Completed
+92,3522,SCH-006,Secondary,Uganda,2025-07-27,Dropped
+93,1853,SCH-024,Primary,Ethiopia,2026-01-14,Completed
+94,1753,SCH-026,Primary,South Sudan,2025-09-21,Enrolled
+95,4597,SCH-065,Vocational,South Sudan,2025-05-01,Completed
+96,3875,SCH-033,Primary,Uganda,2024-12-05,Dropped
+97,281,SCH-070,Adult Learning,Kenya,2025-11-28,Dropped
+98,3539,SCH-079,Vocational,Uganda,2026-07-15,Enrolled
+99,2941,SCH-005,Adult Learning,Ethiopia,2024-11-12,Dropped
+100,227,SCH-002,Adult Learning,Uganda,2024-09-11,Completed
+101,1349,SCH-066,Secondary,Uganda,2025-06-19,Dropped
+102,3220,SCH-074,Vocational,Somalia,2025-12-01,Dropped
+103,2410,SCH-075,Primary,Somalia,2025-07-01,Enrolled
+104,4703,SCH-071,Adult Learning,Ethiopia,2025-05-16,Enrolled
+105,2199,SCH-062,Secondary,South Sudan,2026-05-01,Enrolled
+106,1896,SCH-070,Primary,Somalia,2025-12-28,Completed
+107,4168,SCH-073,Vocational,Uganda,2024-08-23,Dropped
+108,3316,SCH-013,Primary,Kenya,2026-06-01,Completed
+109,4203,SCH-034,Adult Learning,Ethiopia,2025-10-15,Enrolled
+110,3990,SCH-043,Adult Learning,Ethiopia,2026-07-03,Completed
+111,484,SCH-029,Adult Learning,Kenya,2025-08-22,Completed
+112,1995,SCH-071,Adult Learning,Uganda,2025-04-08,Completed
+113,3159,SCH-054,Vocational,Kenya,2026-03-05,Dropped
+114,4654,SCH-066,Vocational,Uganda,2026-05-04,Completed
+115,2853,SCH-038,Secondary,Somalia,2025-02-04,Dropped
+116,1453,SCH-018,Vocational,Kenya,2024-09-12,Dropped
+117,2375,SCH-002,Vocational,Kenya,2024-12-24,Completed
+118,4228,SCH-006,Primary,Kenya,2025-01-19,Enrolled
+119,3733,SCH-025,Vocational,Somalia,2024-12-01,Dropped
+120,2622,SCH-077,Adult Learning,Somalia,2024-12-11,Enrolled
+121,321,SCH-027,Vocational,Uganda,2025-11-25,Completed
+122,1113,SCH-076,Adult Learning,Kenya,2025-04-01,Enrolled
+123,1907,SCH-027,Adult Learning,South Sudan,2025-03-21,Enrolled
+124,3213,SCH-041,Secondary,Ethiopia,2025-10-07,Enrolled
+125,3830,SCH-046,Vocational,Somalia,2025-01-12,Completed
+126,385,SCH-002,Adult Learning,South Sudan,2025-01-13,Enrolled
+127,1868,SCH-017,Primary,Ethiopia,2025-12-10,Completed
+128,3558,SCH-040,Adult Learning,South Sudan,2024-11-27,Dropped
+129,2772,SCH-045,Secondary,South Sudan,2026-01-30,Completed
+130,3216,SCH-050,Vocational,South Sudan,2025-09-13,Dropped
+131,1707,SCH-027,Vocational,Uganda,2026-01-09,Enrolled
+132,2607,SCH-024,Adult Learning,Uganda,2026-06-17,Enrolled
+133,3088,SCH-041,Secondary,South Sudan,2024-10-15,Completed
+134,2744,SCH-044,Secondary,Ethiopia,2024-08-15,Dropped
+135,1876,SCH-026,Secondary,South Sudan,2026-01-05,Dropped
+136,4024,SCH-044,Adult Learning,Somalia,2025-06-12,Completed
+137,106,SCH-037,Adult Learning,Uganda,2024-12-15,Dropped
+138,2610,SCH-015,Secondary,South Sudan,2024-08-02,Completed
+139,2346,SCH-062,Primary,Kenya,2026-03-21,Enrolled
+140,3145,SCH-036,Adult Learning,Kenya,2026-06-15,Dropped
+141,4649,SCH-003,Vocational,South Sudan,2024-11-19,Completed
+142,1123,SCH-011,Vocational,Uganda,2025-12-14,Enrolled
+143,525,SCH-079,Secondary,Kenya,2024-08-03,Completed
+144,2826,SCH-024,Adult Learning,South Sudan,2025-02-24,Completed
+145,1349,SCH-015,Vocational,South Sudan,2025-07-26,Dropped
+146,4057,SCH-056,Primary,Ethiopia,2025-06-09,Enrolled
+147,4603,SCH-050,Adult Learning,Kenya,2024-11-25,Dropped
+148,4108,SCH-058,Vocational,South Sudan,2025-05-01,Completed
+149,1708,SCH-057,Primary,Ethiopia,2026-03-09,Dropped
+150,609,SCH-077,Primary,Uganda,2026-02-08,Enrolled
+151,552,SCH-052,Secondary,Uganda,2025-04-12,Completed
+152,4229,SCH-010,Adult Learning,South Sudan,2025-12-11,Completed
+153,4623,SCH-018,Primary,Kenya,2024-12-15,Dropped
+154,3160,SCH-008,Vocational,Kenya,2026-03-05,Completed
+155,1834,SCH-008,Secondary,Somalia,2025-04-24,Dropped
+156,4613,SCH-076,Adult Learning,Ethiopia,2026-02-02,Dropped
+157,1210,SCH-014,Secondary,Kenya,2025-11-16,Dropped
+158,3930,SCH-052,Primary,Kenya,2025-07-15,Completed
+159,4608,SCH-010,Vocational,Uganda,2025-11-25,Dropped
+160,930,SCH-028,Vocational,Ethiopia,2025-08-05,Completed
+161,4655,SCH-057,Secondary,South Sudan,2025-04-27,Completed
+162,4235,SCH-040,Primary,Kenya,2026-06-10,Enrolled
+163,447,SCH-065,Primary,Uganda,2024-10-03,Dropped
+164,1193,SCH-063,Primary,Somalia,2025-03-31,Dropped
+165,2377,SCH-009,Primary,Ethiopia,2025-12-21,Completed
+166,1933,SCH-073,Secondary,Somalia,2026-04-30,Enrolled
+167,238,SCH-044,Adult Learning,South Sudan,2025-08-24,Completed
+168,730,SCH-040,Adult Learning,Somalia,2026-02-21,Enrolled
+169,440,SCH-011,Adult Learning,South Sudan,2025-06-17,Dropped
+170,1286,SCH-057,Primary,Uganda,2025-06-21,Completed
+171,3504,SCH-003,Adult Learning,South Sudan,2024-09-18,Completed
+172,1904,SCH-071,Primary,South Sudan,2024-11-21,Dropped
+173,3743,SCH-063,Primary,South Sudan,2026-02-12,Dropped
+174,3921,SCH-013,Secondary,South Sudan,2025-01-04,Enrolled
+175,555,SCH-049,Primary,Kenya,2024-11-02,Completed
+176,1294,SCH-015,Vocational,Ethiopia,2024-10-13,Completed
+177,2042,SCH-006,Primary,Somalia,2026-04-04,Dropped
+178,574,SCH-014,Secondary,Somalia,2025-03-03,Dropped
+179,4545,SCH-070,Adult Learning,South Sudan,2026-01-18,Enrolled
+180,1141,SCH-002,Secondary,South Sudan,2026-05-26,Dropped
+181,1017,SCH-007,Primary,Uganda,2025-07-17,Dropped
+182,2329,SCH-072,Vocational,Ethiopia,2025-10-08,Dropped
+183,2771,SCH-017,Vocational,Somalia,2026-02-09,Dropped
+184,3983,SCH-011,Secondary,South Sudan,2025-12-11,Completed
+185,2116,SCH-018,Secondary,Uganda,2024-09-23,Completed
+186,1773,SCH-035,Vocational,Uganda,2024-08-28,Completed
+187,3713,SCH-038,Primary,Uganda,2025-09-29,Completed
+188,3929,SCH-041,Vocational,Somalia,2026-07-16,Dropped
+189,1271,SCH-017,Primary,Uganda,2026-07-13,Dropped
+190,3232,SCH-015,Adult Learning,Ethiopia,2024-09-07,Dropped
+191,3371,SCH-059,Primary,South Sudan,2025-03-14,Enrolled
+192,3315,SCH-078,Secondary,South Sudan,2025-04-11,Enrolled
+193,2243,SCH-012,Secondary,Uganda,2025-10-10,Dropped
+194,3324,SCH-046,Secondary,South Sudan,2025-07-25,Enrolled
+195,4889,SCH-047,Adult Learning,Somalia,2026-01-03,Completed
+196,3894,SCH-075,Secondary,Uganda,2024-09-01,Completed
+197,4496,SCH-052,Primary,Uganda,2025-06-14,Enrolled
+198,2482,SCH-075,Vocational,Kenya,2025-02-28,Dropped
+199,1329,SCH-035,Secondary,Uganda,2024-12-22,Dropped
+200,1855,SCH-011,Adult Learning,South Sudan,2024-11-12,Enrolled
+201,3943,SCH-077,Secondary,Kenya,2024-10-16,Enrolled
+202,896,SCH-033,Primary,Uganda,2025-07-30,Completed
+203,4627,SCH-024,Secondary,Kenya,2026-01-03,Completed
+204,4444,SCH-067,Primary,Ethiopia,2025-02-02,Dropped
+205,3041,SCH-006,Primary,South Sudan,2025-05-10,Dropped
+206,2339,SCH-019,Secondary,Kenya,2025-03-12,Enrolled
+207,4621,SCH-014,Secondary,Uganda,2026-03-14,Completed
+208,1889,SCH-028,Secondary,Ethiopia,2025-06-28,Dropped
+209,1875,SCH-045,Primary,South Sudan,2024-12-16,Dropped
+210,2697,SCH-021,Adult Learning,Kenya,2026-07-13,Dropped
+211,3922,SCH-043,Secondary,Ethiopia,2025-04-26,Dropped
+212,26,SCH-029,Adult Learning,Ethiopia,2025-10-23,Dropped
+213,2862,SCH-006,Primary,Uganda,2024-08-10,Dropped
+214,3404,SCH-073,Vocational,Somalia,2025-03-04,Enrolled
+215,4188,SCH-052,Adult Learning,Uganda,2026-06-29,Enrolled
+216,2017,SCH-049,Secondary,Somalia,2025-06-28,Enrolled
+217,965,SCH-034,Secondary,Ethiopia,2024-08-12,Completed
+218,4212,SCH-031,Primary,Uganda,2025-08-23,Dropped
+219,4163,SCH-049,Vocational,Kenya,2026-03-08,Dropped
+220,1507,SCH-053,Secondary,Uganda,2024-08-21,Completed
+221,789,SCH-038,Primary,South Sudan,2025-06-05,Dropped
+222,4438,SCH-056,Secondary,Somalia,2026-06-28,Dropped
+223,1291,SCH-026,Secondary,South Sudan,2025-03-29,Enrolled
+224,985,SCH-028,Secondary,Somalia,2024-12-08,Enrolled
+225,284,SCH-040,Secondary,Uganda,2024-10-22,Completed
+226,1429,SCH-071,Secondary,Somalia,2024-11-26,Dropped
+227,2750,SCH-002,Vocational,Somalia,2026-02-22,Dropped
+228,311,SCH-042,Primary,South Sudan,2026-02-28,Dropped
+229,419,SCH-044,Secondary,Somalia,2026-05-23,Dropped
+230,2224,SCH-053,Adult Learning,Kenya,2025-05-04,Completed
+231,2202,SCH-037,Adult Learning,Uganda,2025-04-19,Enrolled
+232,568,SCH-008,Secondary,Kenya,2026-06-10,Completed
+233,3978,SCH-020,Primary,Somalia,2025-05-21,Completed
+234,166,SCH-022,Primary,Kenya,2025-11-22,Enrolled
+235,4623,SCH-019,Primary,Ethiopia,2025-11-07,Enrolled
+236,4984,SCH-062,Secondary,Ethiopia,2025-01-15,Enrolled
+237,2684,SCH-041,Primary,Uganda,2026-06-14,Enrolled
+238,4420,SCH-048,Primary,Ethiopia,2025-03-25,Enrolled
+239,3412,SCH-027,Adult Learning,Ethiopia,2024-10-23,Dropped
+240,2290,SCH-048,Primary,Uganda,2025-09-19,Dropped
+241,3211,SCH-007,Adult Learning,Somalia,2026-07-12,Completed
+242,1814,SCH-076,Primary,Somalia,2026-05-23,Completed
+243,1462,SCH-053,Vocational,South Sudan,2024-07-27,Completed
+244,3164,SCH-026,Vocational,Ethiopia,2025-01-25,Completed
+245,4300,SCH-020,Primary,Kenya,2025-10-08,Enrolled
+246,1141,SCH-035,Primary,Ethiopia,2025-05-10,Enrolled
+247,1649,SCH-037,Primary,Somalia,2025-10-31,Completed
+248,4648,SCH-015,Secondary,South Sudan,2024-12-15,Dropped
+249,2345,SCH-058,Vocational,Kenya,2025-08-05,Enrolled
+250,1894,SCH-027,Secondary,Uganda,2025-07-03,Enrolled
+251,4155,SCH-066,Primary,Kenya,2024-11-09,Dropped
+252,2289,SCH-078,Vocational,Kenya,2026-03-24,Completed
+253,2256,SCH-061,Primary,Uganda,2025-06-09,Completed
+254,1657,SCH-026,Vocational,South Sudan,2025-04-04,Dropped
+255,4463,SCH-009,Secondary,Ethiopia,2026-04-24,Completed
+256,2224,SCH-039,Primary,Ethiopia,2024-09-24,Dropped
+257,2446,SCH-019,Adult Learning,South Sudan,2025-08-11,Completed
+258,1496,SCH-009,Secondary,Kenya,2025-02-04,Dropped
+259,4656,SCH-062,Primary,Ethiopia,2024-07-26,Dropped
+260,1366,SCH-054,Adult Learning,Ethiopia,2025-10-24,Dropped
+261,4065,SCH-059,Primary,South Sudan,2025-07-26,Dropped
+262,4073,SCH-046,Vocational,Uganda,2026-02-01,Completed
+263,912,SCH-029,Primary,South Sudan,2026-05-21,Completed
+264,4742,SCH-024,Adult Learning,Uganda,2026-01-24,Dropped
+265,3006,SCH-012,Adult Learning,Somalia,2024-08-30,Dropped
+266,2634,SCH-046,Primary,Kenya,2024-12-03,Dropped
+267,2826,SCH-061,Primary,Somalia,2025-03-26,Completed
+268,1372,SCH-073,Vocational,Kenya,2025-06-05,Enrolled
+269,843,SCH-025,Primary,Ethiopia,2026-04-09,Dropped
+270,3319,SCH-014,Primary,South Sudan,2025-04-03,Completed
+271,4508,SCH-061,Secondary,Ethiopia,2025-12-15,Completed
+272,141,SCH-046,Adult Learning,Uganda,2025-07-01,Dropped
+273,2706,SCH-008,Vocational,Uganda,2025-03-15,Dropped
+274,4486,SCH-068,Primary,Ethiopia,2025-08-21,Dropped
+275,1748,SCH-014,Adult Learning,Kenya,2025-02-26,Completed
+276,1409,SCH-051,Secondary,Kenya,2025-11-04,Enrolled
+277,4735,SCH-053,Secondary,Ethiopia,2025-05-19,Completed
+278,475,SCH-027,Primary,South Sudan,2026-02-05,Dropped
+279,2824,SCH-052,Vocational,Uganda,2026-03-16,Enrolled
+280,2271,SCH-030,Secondary,Uganda,2025-09-27,Enrolled
+281,125,SCH-053,Adult Learning,Uganda,2026-04-22,Completed
+282,3513,SCH-034,Secondary,Somalia,2026-05-22,Enrolled
+283,1496,SCH-020,Vocational,Uganda,2026-05-09,Completed
+284,4813,SCH-023,Adult Learning,Ethiopia,2025-09-10,Dropped
+285,2932,SCH-001,Vocational,Uganda,2025-04-03,Enrolled
+286,1424,SCH-052,Secondary,Kenya,2024-07-24,Completed
+287,1490,SCH-052,Adult Learning,Ethiopia,2025-06-24,Dropped
+288,839,SCH-051,Adult Learning,Ethiopia,2025-10-13,Completed
+289,1041,SCH-028,Vocational,Kenya,2025-11-06,Enrolled
+290,3596,SCH-034,Adult Learning,Ethiopia,2026-02-27,Completed
+291,2987,SCH-076,Adult Learning,Uganda,2025-09-25,Enrolled
+292,4007,SCH-046,Primary,South Sudan,2026-04-06,Dropped
+293,4580,SCH-059,Vocational,Kenya,2025-01-23,Enrolled
+294,3589,SCH-057,Adult Learning,Kenya,2026-01-03,Dropped
+295,473,SCH-020,Vocational,Somalia,2024-10-28,Completed
+296,112,SCH-058,Secondary,Somalia,2025-04-17,Completed
+297,1062,SCH-035,Secondary,Uganda,2025-08-09,Dropped
+298,1537,SCH-070,Adult Learning,South Sudan,2024-09-07,Enrolled
+299,1802,SCH-013,Primary,Uganda,2024-07-23,Enrolled
+300,829,SCH-021,Adult Learning,Somalia,2025-09-25,Dropped
+301,1495,SCH-069,Vocational,Ethiopia,2025-06-13,Completed
+302,2395,SCH-065,Primary,Ethiopia,2024-12-22,Dropped
+303,1496,SCH-027,Vocational,Uganda,2024-11-20,Enrolled
+304,3395,SCH-019,Adult Learning,Kenya,2025-07-03,Dropped
+305,1154,SCH-030,Secondary,Uganda,2026-06-26,Completed
+306,3124,SCH-031,Primary,Uganda,2026-06-11,Completed
+307,1474,SCH-026,Secondary,Ethiopia,2025-12-19,Completed
+308,276,SCH-009,Vocational,Uganda,2026-01-13,Dropped
+309,4809,SCH-072,Secondary,Uganda,2025-09-03,Enrolled
+310,4947,SCH-074,Adult Learning,South Sudan,2024-10-29,Enrolled
+311,3291,SCH-023,Secondary,Uganda,2026-01-14,Enrolled
+312,3245,SCH-070,Secondary,Somalia,2024-08-31,Dropped
+313,2169,SCH-076,Secondary,Somalia,2024-08-03,Enrolled
+314,1481,SCH-052,Primary,Ethiopia,2025-01-30,Dropped
+315,4922,SCH-016,Secondary,Ethiopia,2026-07-03,Enrolled
+316,1549,SCH-038,Vocational,South Sudan,2025-09-09,Completed
+317,2926,SCH-004,Secondary,South Sudan,2025-08-11,Dropped
+318,1911,SCH-007,Primary,Uganda,2024-12-01,Completed
+319,3228,SCH-075,Vocational,Somalia,2026-01-18,Dropped
+320,108,SCH-054,Secondary,South Sudan,2026-03-25,Completed
+321,3821,SCH-006,Primary,Somalia,2026-03-21,Completed
+322,4486,SCH-028,Adult Learning,South Sudan,2026-07-12,Completed
+323,4514,SCH-006,Adult Learning,South Sudan,2024-11-29,Enrolled
+324,620,SCH-029,Adult Learning,Kenya,2025-02-27,Dropped
+325,2845,SCH-014,Adult Learning,South Sudan,2025-07-28,Enrolled
+326,3938,SCH-050,Primary,Kenya,2025-02-21,Dropped
+327,4519,SCH-077,Vocational,South Sudan,2025-07-13,Enrolled
+328,4479,SCH-054,Vocational,South Sudan,2025-07-15,Enrolled
+329,3519,SCH-071,Secondary,Somalia,2025-02-14,Dropped
+330,3166,SCH-055,Vocational,Ethiopia,2025-10-10,Dropped
+331,2843,SCH-057,Primary,South Sudan,2024-12-12,Enrolled
+332,4977,SCH-006,Secondary,South Sudan,2026-04-24,Enrolled
+333,2792,SCH-020,Adult Learning,Uganda,2025-10-12,Dropped
+334,3861,SCH-034,Adult Learning,South Sudan,2025-07-13,Enrolled
+335,668,SCH-080,Vocational,Somalia,2024-11-07,Dropped
+336,2641,SCH-026,Adult Learning,Kenya,2025-09-24,Dropped
+337,167,SCH-069,Secondary,South Sudan,2024-08-22,Completed
+338,2206,SCH-071,Adult Learning,Uganda,2025-04-21,Completed
+339,738,SCH-072,Primary,Kenya,2026-04-13,Completed
+340,2683,SCH-043,Primary,Uganda,2025-09-22,Dropped
+341,3485,SCH-037,Secondary,Ethiopia,2026-04-22,Dropped
+342,1399,SCH-077,Adult Learning,Ethiopia,2025-01-12,Enrolled
+343,4776,SCH-017,Vocational,Uganda,2026-01-10,Completed
+344,771,SCH-005,Secondary,Kenya,2025-07-04,Completed
+345,4085,SCH-013,Vocational,South Sudan,2026-02-21,Dropped
+346,832,SCH-012,Adult Learning,Ethiopia,2025-09-27,Completed
+347,3856,SCH-037,Vocational,Kenya,2024-11-26,Dropped
+348,910,SCH-037,Vocational,South Sudan,2024-12-02,Dropped
+349,1170,SCH-018,Secondary,Kenya,2024-11-14,Dropped
+350,4379,SCH-033,Primary,Somalia,2024-12-14,Enrolled
+351,671,SCH-043,Vocational,Ethiopia,2025-02-20,Dropped
+352,708,SCH-068,Primary,Somalia,2026-01-09,Dropped
+353,124,SCH-039,Vocational,Kenya,2025-12-26,Completed
+354,3753,SCH-045,Secondary,Somalia,2025-04-11,Dropped
+355,4800,SCH-025,Secondary,Uganda,2025-06-23,Completed
+356,375,SCH-072,Vocational,South Sudan,2026-07-13,Completed
+357,3858,SCH-042,Vocational,South Sudan,2026-03-11,Dropped
+358,2544,SCH-052,Adult Learning,Ethiopia,2024-11-23,Enrolled
+359,2741,SCH-080,Primary,Ethiopia,2025-01-17,Dropped
+360,2327,SCH-053,Secondary,Uganda,2024-10-07,Enrolled
+361,4691,SCH-045,Primary,South Sudan,2026-07-18,Enrolled
+362,1614,SCH-045,Primary,Uganda,2025-06-16,Completed
+363,3329,SCH-006,Adult Learning,South Sudan,2025-04-24,Completed
+364,477,SCH-037,Vocational,Somalia,2025-02-15,Completed
+365,434,SCH-016,Primary,Kenya,2025-03-07,Dropped
+366,2461,SCH-044,Primary,Ethiopia,2024-10-06,Completed
+367,3709,SCH-051,Vocational,Kenya,2025-06-18,Enrolled
+368,516,SCH-076,Vocational,South Sudan,2026-04-26,Completed
+369,4233,SCH-004,Primary,Ethiopia,2025-02-02,Dropped
+370,25,SCH-023,Vocational,Somalia,2026-02-28,Completed
+371,1802,SCH-022,Secondary,Uganda,2025-08-08,Completed
+372,560,SCH-055,Vocational,Kenya,2025-07-14,Enrolled
+373,3730,SCH-018,Vocational,Somalia,2024-11-27,Dropped
+374,687,SCH-058,Adult Learning,Somalia,2024-08-18,Completed
+375,1317,SCH-066,Primary,Kenya,2025-10-23,Completed
+376,85,SCH-067,Secondary,Ethiopia,2024-10-03,Completed
+377,847,SCH-079,Secondary,Uganda,2026-02-14,Enrolled
+378,3673,SCH-060,Secondary,South Sudan,2024-09-10,Enrolled
+379,3679,SCH-061,Adult Learning,Somalia,2025-11-12,Dropped
+380,1209,SCH-067,Vocational,Kenya,2025-11-12,Completed
+381,4112,SCH-049,Adult Learning,Somalia,2024-10-09,Enrolled
+382,4488,SCH-037,Secondary,Ethiopia,2024-12-15,Dropped
+383,2059,SCH-070,Primary,South Sudan,2026-01-05,Enrolled
+384,1830,SCH-070,Secondary,Kenya,2026-05-13,Dropped
+385,1835,SCH-077,Vocational,Uganda,2025-11-29,Enrolled
+386,2355,SCH-027,Secondary,Uganda,2024-11-23,Dropped
+387,2394,SCH-070,Secondary,Uganda,2024-08-07,Dropped
+388,3616,SCH-021,Vocational,Kenya,2025-01-12,Enrolled
+389,4480,SCH-034,Primary,Kenya,2024-11-30,Enrolled
+390,2904,SCH-019,Secondary,Somalia,2026-04-20,Enrolled
+391,79,SCH-037,Vocational,Kenya,2025-10-09,Enrolled
+392,1232,SCH-006,Primary,Ethiopia,2025-09-05,Enrolled
+393,3718,SCH-080,Vocational,Uganda,2026-02-19,Dropped
+394,3441,SCH-009,Primary,Kenya,2024-12-01,Dropped
+395,3567,SCH-030,Adult Learning,Somalia,2026-04-05,Completed
+396,3270,SCH-063,Primary,South Sudan,2025-07-15,Enrolled
+397,2340,SCH-040,Vocational,Kenya,2025-05-01,Dropped
+398,1956,SCH-030,Secondary,Ethiopia,2025-04-03,Dropped
+399,3989,SCH-001,Secondary,Kenya,2024-09-06,Enrolled
+400,1781,SCH-062,Vocational,Kenya,2026-04-25,Completed
+401,2288,SCH-043,Vocational,Somalia,2025-06-16,Completed
+402,4387,SCH-036,Adult Learning,Uganda,2025-09-14,Enrolled
+403,3029,SCH-022,Primary,Somalia,2026-07-01,Dropped
+404,3125,SCH-068,Vocational,Kenya,2025-02-19,Dropped
+405,3376,SCH-025,Secondary,Somalia,2025-09-15,Completed
+406,775,SCH-020,Vocational,Uganda,2026-01-06,Enrolled
+407,4166,SCH-045,Secondary,Uganda,2026-04-08,Dropped
+408,4814,SCH-028,Vocational,Uganda,2025-12-27,Dropped
+409,4614,SCH-043,Adult Learning,Ethiopia,2024-11-12,Dropped
+410,4764,SCH-050,Primary,Uganda,2026-01-16,Completed
+411,715,SCH-051,Vocational,Kenya,2025-04-22,Enrolled
+412,1346,SCH-067,Primary,South Sudan,2025-11-12,Dropped
+413,1929,SCH-078,Vocational,Uganda,2024-09-14,Enrolled
+414,1191,SCH-009,Vocational,Ethiopia,2024-10-04,Dropped
+415,2492,SCH-041,Adult Learning,Kenya,2026-05-03,Enrolled
+416,4576,SCH-022,Vocational,Somalia,2025-11-10,Enrolled
+417,4709,SCH-052,Vocational,Somalia,2024-09-11,Completed
+418,3410,SCH-055,Primary,Ethiopia,2025-11-30,Enrolled
+419,108,SCH-020,Adult Learning,Uganda,2025-03-20,Enrolled
+420,4803,SCH-006,Adult Learning,Uganda,2025-11-02,Completed
+421,1488,SCH-015,Adult Learning,Kenya,2026-01-08,Completed
+422,3699,SCH-032,Secondary,Uganda,2024-08-28,Dropped
+423,2912,SCH-026,Secondary,Ethiopia,2024-11-29,Enrolled
+424,1779,SCH-028,Secondary,Somalia,2026-01-07,Enrolled
+425,2941,SCH-021,Adult Learning,Ethiopia,2024-11-06,Dropped
+426,2940,SCH-075,Adult Learning,South Sudan,2026-02-26,Completed
+427,1319,SCH-073,Primary,Ethiopia,2024-12-20,Completed
+428,2215,SCH-012,Vocational,South Sudan,2025-10-08,Dropped
+429,976,SCH-065,Primary,South Sudan,2026-03-24,Completed
+430,3087,SCH-025,Vocational,Kenya,2025-07-30,Completed
+431,3859,SCH-050,Vocational,Kenya,2026-06-05,Enrolled
+432,3606,SCH-019,Vocational,Kenya,2025-02-20,Enrolled
+433,646,SCH-042,Vocational,Kenya,2025-08-16,Completed
+434,2192,SCH-073,Adult Learning,South Sudan,2024-12-03,Dropped
+435,2946,SCH-031,Adult Learning,Kenya,2024-08-25,Dropped
+436,3976,SCH-059,Primary,Uganda,2026-05-31,Dropped
+437,4545,SCH-058,Secondary,Kenya,2025-05-10,Completed
+438,1947,SCH-050,Vocational,Somalia,2025-03-13,Enrolled
+439,1262,SCH-001,Vocational,Uganda,2025-01-17,Completed
+440,2942,SCH-072,Adult Learning,Ethiopia,2024-11-16,Dropped
+441,2111,SCH-016,Primary,South Sudan,2025-07-21,Enrolled
+442,1501,SCH-064,Secondary,South Sudan,2025-11-11,Dropped
+443,4221,SCH-037,Primary,Kenya,2024-08-15,Enrolled
+444,1526,SCH-070,Secondary,Somalia,2026-06-11,Completed
+445,4084,SCH-002,Vocational,South Sudan,2026-04-30,Dropped
+446,1346,SCH-067,Primary,Kenya,2026-03-24,Dropped
+447,4961,SCH-062,Primary,South Sudan,2025-05-13,Enrolled
+448,1436,SCH-004,Secondary,Ethiopia,2025-09-19,Enrolled
+449,3261,SCH-032,Adult Learning,Kenya,2025-06-07,Completed
+450,2074,SCH-070,Secondary,Kenya,2024-11-13,Dropped
+451,1762,SCH-044,Adult Learning,Uganda,2025-12-11,Dropped
+452,267,SCH-067,Vocational,Ethiopia,2024-10-04,Completed
+453,1098,SCH-041,Vocational,Kenya,2025-09-15,Enrolled
+454,2349,SCH-071,Secondary,South Sudan,2025-01-24,Dropped
+455,3576,SCH-002,Secondary,Somalia,2025-04-18,Enrolled
+456,2036,SCH-032,Vocational,Uganda,2025-04-22,Enrolled
+457,4556,SCH-039,Secondary,Ethiopia,2025-10-01,Completed
+458,3823,SCH-058,Adult Learning,Somalia,2024-12-14,Completed
+459,1008,SCH-027,Primary,Kenya,2025-11-30,Dropped
+460,501,SCH-041,Primary,Somalia,2026-04-25,Completed
+461,3125,SCH-061,Primary,Uganda,2024-08-20,Dropped
+462,908,SCH-038,Vocational,Somalia,2025-01-09,Enrolled
+463,2003,SCH-004,Secondary,Somalia,2024-11-11,Dropped
+464,2362,SCH-054,Adult Learning,Kenya,2025-01-12,Completed
+465,426,SCH-014,Vocational,Ethiopia,2025-06-20,Enrolled
+466,3176,SCH-043,Primary,Ethiopia,2026-03-14,Dropped
+467,3655,SCH-003,Secondary,Ethiopia,2026-03-01,Completed
+468,2722,SCH-049,Secondary,Uganda,2025-09-26,Enrolled
+469,759,SCH-066,Primary,Uganda,2025-09-19,Enrolled
+470,886,SCH-040,Vocational,Kenya,2026-06-13,Enrolled
+471,1083,SCH-017,Secondary,Uganda,2026-01-11,Enrolled
+472,1526,SCH-056,Secondary,South Sudan,2024-11-14,Dropped
+473,96,SCH-078,Secondary,South Sudan,2024-11-26,Completed
+474,871,SCH-062,Vocational,Somalia,2025-09-09,Completed
+475,4015,SCH-007,Secondary,Somalia,2024-09-30,Enrolled
+476,3250,SCH-012,Adult Learning,Somalia,2025-01-07,Completed
+477,4077,SCH-056,Adult Learning,Ethiopia,2025-08-02,Completed
+478,1713,SCH-013,Secondary,South Sudan,2024-10-29,Dropped
+479,2696,SCH-073,Secondary,South Sudan,2025-08-22,Completed
+480,1410,SCH-004,Adult Learning,Ethiopia,2025-10-26,Completed
+481,3878,SCH-046,Adult Learning,Somalia,2025-02-04,Completed
+482,1000,SCH-031,Secondary,Ethiopia,2025-04-24,Enrolled
+483,1847,SCH-023,Vocational,South Sudan,2025-08-10,Completed
+484,598,SCH-032,Adult Learning,South Sudan,2026-05-07,Dropped
+485,3158,SCH-048,Adult Learning,Ethiopia,2024-08-11,Dropped
+486,119,SCH-064,Adult Learning,Uganda,2025-01-26,Dropped
+487,2070,SCH-021,Secondary,Uganda,2026-01-06,Completed
+488,4141,SCH-005,Adult Learning,South Sudan,2025-10-14,Enrolled
+489,843,SCH-071,Secondary,Uganda,2025-09-30,Dropped
+490,1073,SCH-011,Primary,Uganda,2024-12-27,Dropped
+491,3660,SCH-041,Primary,South Sudan,2026-03-31,Enrolled
+492,16,SCH-069,Vocational,South Sudan,2025-05-09,Dropped
+493,4030,SCH-048,Secondary,Kenya,2026-03-31,Completed
+494,2234,SCH-057,Vocational,Uganda,2025-10-28,Enrolled
+495,2495,SCH-026,Vocational,Uganda,2024-12-15,Dropped
+496,2200,SCH-031,Primary,Somalia,2025-04-12,Dropped
+497,3799,SCH-057,Primary,South Sudan,2024-11-17,Enrolled
+498,4236,SCH-075,Secondary,Kenya,2026-04-16,Dropped
+499,1355,SCH-057,Adult Learning,Kenya,2025-08-24,Enrolled
+500,2195,SCH-026,Adult Learning,Somalia,2024-12-09,Dropped
+501,4525,SCH-047,Vocational,South Sudan,2025-07-29,Completed
+502,2379,SCH-013,Secondary,South Sudan,2024-12-21,Completed
+503,844,SCH-068,Vocational,Uganda,2025-02-13,Completed
+504,3673,SCH-048,Adult Learning,Kenya,2025-10-15,Dropped
+505,4130,SCH-001,Adult Learning,Uganda,2024-09-25,Dropped
+506,3625,SCH-062,Vocational,Kenya,2026-05-22,Completed
+507,1564,SCH-008,Adult Learning,Ethiopia,2025-05-12,Dropped
+508,1220,SCH-018,Vocational,South Sudan,2026-07-02,Enrolled
+509,3585,SCH-005,Primary,Somalia,2026-04-28,Dropped
+510,1238,SCH-015,Vocational,Kenya,2025-05-03,Completed
+511,149,SCH-041,Vocational,Kenya,2025-07-05,Enrolled
+512,4345,SCH-067,Vocational,Somalia,2025-12-17,Completed
+513,4024,SCH-038,Vocational,Somalia,2025-06-23,Completed
+514,2942,SCH-061,Primary,Kenya,2024-11-03,Dropped
+515,3663,SCH-023,Adult Learning,Kenya,2025-09-24,Dropped
+516,1131,SCH-019,Adult Learning,Uganda,2024-10-12,Enrolled
+517,4780,SCH-062,Vocational,South Sudan,2025-04-05,Completed
+518,2168,SCH-077,Adult Learning,South Sudan,2026-05-18,Completed
+519,3955,SCH-066,Secondary,Uganda,2026-02-20,Dropped
+520,1013,SCH-059,Vocational,Ethiopia,2026-06-04,Dropped
+521,1180,SCH-050,Vocational,Uganda,2025-12-13,Dropped
+522,1864,SCH-030,Primary,South Sudan,2025-02-18,Enrolled
+523,129,SCH-003,Vocational,Somalia,2025-11-17,Dropped
+524,3065,SCH-043,Secondary,Somalia,2025-08-21,Enrolled
+525,2757,SCH-019,Vocational,Ethiopia,2025-01-31,Completed
+526,1363,SCH-020,Secondary,Somalia,2026-02-01,Enrolled
+527,4412,SCH-055,Vocational,Ethiopia,2026-03-04,Enrolled
+528,1683,SCH-057,Secondary,Uganda,2026-01-31,Enrolled
+529,2154,SCH-021,Adult Learning,Ethiopia,2024-08-02,Completed
+530,615,SCH-032,Vocational,Somalia,2024-12-26,Completed
+531,826,SCH-036,Primary,Kenya,2026-01-08,Enrolled
+532,273,SCH-036,Secondary,South Sudan,2026-05-03,Dropped
+533,4927,SCH-060,Primary,Uganda,2026-02-20,Dropped
+534,1118,SCH-065,Secondary,South Sudan,2025-06-14,Completed
+535,365,SCH-029,Vocational,South Sudan,2025-10-21,Completed
+536,2205,SCH-064,Vocational,Somalia,2026-05-09,Dropped
+537,3652,SCH-080,Primary,South Sudan,2025-10-24,Dropped
+538,745,SCH-028,Vocational,Somalia,2025-07-07,Enrolled
+539,3859,SCH-014,Adult Learning,Kenya,2025-02-22,Enrolled
+540,4664,SCH-018,Vocational,Somalia,2026-06-26,Enrolled
+541,3277,SCH-071,Adult Learning,South Sudan,2024-12-17,Enrolled
+542,1197,SCH-041,Vocational,Uganda,2025-08-13,Dropped
+543,1616,SCH-051,Adult Learning,Kenya,2024-09-26,Completed
+544,3741,SCH-073,Primary,Uganda,2025-10-10,Completed
+545,1700,SCH-022,Vocational,Kenya,2026-06-04,Enrolled
+546,3098,SCH-042,Vocational,Kenya,2025-02-06,Completed
+547,4183,SCH-019,Vocational,South Sudan,2025-02-19,Enrolled
+548,671,SCH-010,Primary,Uganda,2025-07-24,Completed
+549,2700,SCH-012,Primary,South Sudan,2025-10-01,Dropped
+550,4862,SCH-041,Vocational,South Sudan,2025-01-08,Dropped
+551,2238,SCH-006,Secondary,Ethiopia,2025-01-31,Completed
+552,1263,SCH-046,Primary,Somalia,2025-02-22,Completed
+553,4320,SCH-008,Primary,Somalia,2026-03-10,Dropped
+554,2085,SCH-041,Secondary,Kenya,2025-11-13,Completed
+555,220,SCH-080,Secondary,Ethiopia,2025-03-07,Enrolled
+556,961,SCH-002,Vocational,South Sudan,2026-03-11,Completed
+557,2659,SCH-018,Secondary,Kenya,2024-11-27,Dropped
+558,2573,SCH-023,Vocational,South Sudan,2026-05-20,Completed
+559,2612,SCH-041,Secondary,Uganda,2025-10-07,Enrolled
+560,1727,SCH-073,Adult Learning,Ethiopia,2025-04-13,Completed
+561,4361,SCH-029,Primary,South Sudan,2026-04-06,Enrolled
+562,4088,SCH-075,Primary,Kenya,2025-10-13,Completed
+563,1624,SCH-025,Vocational,Somalia,2024-12-25,Enrolled
+564,2223,SCH-022,Secondary,Somalia,2025-06-09,Enrolled
+565,289,SCH-010,Adult Learning,Somalia,2026-02-21,Enrolled
+566,2405,SCH-011,Primary,Ethiopia,2026-03-02,Dropped
+567,4776,SCH-074,Secondary,Ethiopia,2024-12-18,Enrolled
+568,3091,SCH-078,Vocational,South Sudan,2025-10-29,Dropped
+569,947,SCH-006,Secondary,Somalia,2026-05-21,Enrolled
+570,3931,SCH-026,Primary,Ethiopia,2025-01-18,Enrolled
+571,3269,SCH-075,Vocational,Ethiopia,2025-08-10,Completed
+572,4269,SCH-079,Vocational,Somalia,2025-12-15,Enrolled
+573,4577,SCH-036,Adult Learning,Somalia,2024-09-02,Enrolled
+574,1549,SCH-024,Vocational,South Sudan,2025-07-31,Enrolled
+575,1622,SCH-062,Secondary,Somalia,2026-02-16,Dropped
+576,2456,SCH-035,Secondary,Ethiopia,2025-05-27,Completed
+577,4696,SCH-080,Adult Learning,Kenya,2026-02-17,Dropped
+578,1477,SCH-037,Vocational,Somalia,2024-10-13,Completed
+579,1947,SCH-058,Vocational,Kenya,2025-11-07,Enrolled
+580,34,SCH-074,Adult Learning,Ethiopia,2025-04-11,Completed
+581,1407,SCH-018,Primary,Ethiopia,2026-04-30,Dropped
+582,4632,SCH-062,Secondary,Somalia,2026-04-01,Dropped
+583,3138,SCH-043,Secondary,Ethiopia,2025-04-02,Enrolled
+584,1789,SCH-033,Primary,Somalia,2026-05-16,Dropped
+585,4447,SCH-072,Secondary,South Sudan,2025-12-04,Dropped
+586,1975,SCH-080,Adult Learning,Ethiopia,2026-04-30,Completed
+587,4548,SCH-004,Vocational,Kenya,2024-09-30,Enrolled
+588,325,SCH-013,Primary,Ethiopia,2025-09-15,Completed
+589,2524,SCH-023,Adult Learning,Ethiopia,2025-01-30,Dropped
+590,3283,SCH-032,Secondary,Ethiopia,2024-12-28,Completed
+591,1551,SCH-057,Secondary,South Sudan,2025-02-17,Enrolled
+592,2402,SCH-059,Vocational,Ethiopia,2026-03-28,Dropped
+593,2499,SCH-057,Vocational,South Sudan,2024-12-01,Dropped
+594,2456,SCH-011,Secondary,Ethiopia,2025-03-30,Enrolled
+595,1440,SCH-062,Secondary,Uganda,2025-03-05,Completed
+596,4087,SCH-020,Adult Learning,Uganda,2026-04-29,Completed
+597,3153,SCH-022,Adult Learning,Kenya,2024-08-18,Enrolled
+598,4510,SCH-026,Primary,Somalia,2024-11-09,Enrolled
+599,3176,SCH-002,Vocational,Ethiopia,2025-04-07,Dropped
+600,4887,SCH-022,Primary,Kenya,2024-08-28,Dropped
+601,1864,SCH-021,Secondary,Ethiopia,2025-09-22,Dropped
+602,4233,SCH-039,Vocational,South Sudan,2025-06-01,Completed
+603,1712,SCH-042,Secondary,South Sudan,2025-12-10,Completed
+604,1187,SCH-035,Secondary,South Sudan,2024-08-19,Dropped
+605,3869,SCH-007,Adult Learning,Somalia,2024-12-03,Completed
+606,1948,SCH-063,Adult Learning,Uganda,2024-08-07,Dropped
+607,1508,SCH-075,Vocational,Somalia,2024-07-20,Dropped
+608,1913,SCH-061,Adult Learning,Somalia,2025-05-31,Dropped
+609,2924,SCH-025,Vocational,Uganda,2025-12-12,Completed
+610,513,SCH-040,Primary,Kenya,2025-01-22,Dropped
+611,4126,SCH-032,Secondary,South Sudan,2025-08-31,Completed
+612,3990,SCH-074,Vocational,Uganda,2026-06-15,Enrolled
+613,332,SCH-048,Primary,Uganda,2025-04-08,Dropped
+614,3698,SCH-065,Secondary,Somalia,2026-05-02,Enrolled
+615,1034,SCH-020,Secondary,Uganda,2026-03-26,Enrolled
+616,961,SCH-031,Adult Learning,Ethiopia,2026-04-10,Enrolled
+617,513,SCH-016,Vocational,South Sudan,2026-04-22,Dropped
+618,2586,SCH-079,Primary,Kenya,2024-10-07,Enrolled
+619,921,SCH-070,Adult Learning,South Sudan,2025-09-09,Enrolled
+620,3476,SCH-021,Primary,Uganda,2026-01-25,Completed
+621,4812,SCH-063,Primary,Ethiopia,2025-11-02,Completed
+622,672,SCH-003,Vocational,Uganda,2026-03-24,Completed
+623,2530,SCH-021,Secondary,Uganda,2024-10-08,Dropped
+624,2216,SCH-028,Vocational,Kenya,2025-05-20,Enrolled
+625,1190,SCH-010,Primary,Uganda,2025-07-05,Enrolled
+626,1336,SCH-039,Adult Learning,South Sudan,2026-01-14,Completed
+627,93,SCH-054,Secondary,Uganda,2024-09-10,Completed
+628,2163,SCH-043,Primary,Somalia,2025-11-04,Dropped
+629,4824,SCH-062,Primary,South Sudan,2024-07-24,Completed
+630,1177,SCH-049,Secondary,Somalia,2025-02-01,Enrolled
+631,1078,SCH-025,Primary,Kenya,2025-07-18,Completed
+632,3698,SCH-013,Secondary,Kenya,2024-11-01,Completed
+633,607,SCH-057,Vocational,Ethiopia,2026-02-19,Dropped
+634,367,SCH-020,Secondary,Ethiopia,2025-03-27,Completed
+635,499,SCH-080,Adult Learning,South Sudan,2026-02-21,Enrolled
+636,1516,SCH-078,Primary,Ethiopia,2024-12-11,Completed
+637,4968,SCH-065,Secondary,Ethiopia,2025-10-15,Completed
+638,3757,SCH-035,Secondary,South Sudan,2026-03-27,Dropped
+639,4538,SCH-029,Vocational,South Sudan,2025-02-01,Enrolled
+640,4375,SCH-027,Secondary,South Sudan,2025-09-08,Enrolled
+641,420,SCH-079,Primary,Uganda,2026-01-22,Enrolled
+642,3013,SCH-019,Adult Learning,South Sudan,2025-07-21,Dropped
+643,1017,SCH-055,Vocational,Kenya,2024-12-18,Completed
+644,1709,SCH-078,Vocational,Uganda,2025-06-24,Completed
+645,1754,SCH-052,Secondary,Kenya,2026-04-14,Completed
+646,2648,SCH-031,Secondary,Kenya,2025-10-16,Completed
+647,1778,SCH-025,Primary,Somalia,2025-12-12,Completed
+648,90,SCH-057,Secondary,Ethiopia,2025-03-08,Enrolled
+649,447,SCH-069,Adult Learning,South Sudan,2025-08-10,Completed
+650,4066,SCH-031,Vocational,Somalia,2026-03-18,Enrolled
+651,3106,SCH-056,Adult Learning,Somalia,2025-02-21,Dropped
+652,3541,SCH-015,Primary,South Sudan,2026-03-15,Completed
+653,2683,SCH-051,Primary,Somalia,2026-03-27,Enrolled
+654,3463,SCH-067,Secondary,Somalia,2025-07-04,Dropped
+655,3149,SCH-005,Adult Learning,Kenya,2024-10-16,Completed
+656,2138,SCH-065,Adult Learning,South Sudan,2026-07-18,Enrolled
+657,1391,SCH-053,Secondary,Ethiopia,2025-08-22,Completed
+658,955,SCH-034,Primary,Somalia,2024-11-28,Enrolled
+659,1230,SCH-001,Vocational,Uganda,2025-11-22,Dropped
+660,4107,SCH-028,Adult Learning,Somalia,2024-08-02,Completed
+661,3281,SCH-032,Vocational,Kenya,2026-06-21,Dropped
+662,3894,SCH-026,Primary,South Sudan,2026-01-28,Dropped
+663,4155,SCH-005,Vocational,South Sudan,2024-09-04,Enrolled
+664,3207,SCH-032,Primary,South Sudan,2026-01-30,Dropped
+665,2203,SCH-011,Secondary,South Sudan,2024-12-19,Dropped
+666,2515,SCH-060,Adult Learning,South Sudan,2025-07-23,Dropped
+667,505,SCH-080,Adult Learning,South Sudan,2026-01-02,Completed
+668,4971,SCH-039,Secondary,Somalia,2025-07-09,Completed
+669,4198,SCH-071,Vocational,Uganda,2025-01-02,Completed
+670,2851,SCH-055,Secondary,Somalia,2025-07-30,Enrolled
+671,4122,SCH-058,Vocational,Uganda,2026-06-15,Enrolled
+672,2067,SCH-017,Primary,South Sudan,2025-06-03,Enrolled
+673,1575,SCH-040,Adult Learning,South Sudan,2025-12-25,Completed
+674,4189,SCH-012,Adult Learning,Kenya,2026-01-16,Dropped
+675,1563,SCH-080,Primary,Ethiopia,2025-07-02,Completed
+676,2282,SCH-012,Vocational,Ethiopia,2026-02-24,Completed
+677,4809,SCH-017,Adult Learning,Ethiopia,2024-09-07,Dropped
+678,2873,SCH-072,Adult Learning,Uganda,2025-08-22,Enrolled
+679,332,SCH-079,Vocational,South Sudan,2025-06-16,Dropped
+680,4225,SCH-079,Secondary,Kenya,2025-11-18,Enrolled
+681,2279,SCH-022,Adult Learning,Kenya,2026-01-21,Dropped
+682,3831,SCH-026,Vocational,Somalia,2026-02-15,Enrolled
+683,3604,SCH-015,Secondary,Uganda,2026-01-23,Dropped
+684,4790,SCH-039,Primary,Somalia,2025-11-01,Dropped
+685,4212,SCH-037,Vocational,Kenya,2026-04-26,Completed
+686,4944,SCH-024,Adult Learning,Uganda,2025-06-13,Enrolled
+687,3221,SCH-046,Adult Learning,Kenya,2025-08-10,Enrolled
+688,3250,SCH-036,Secondary,South Sudan,2025-10-24,Enrolled
+689,4659,SCH-070,Secondary,South Sudan,2024-09-26,Completed
+690,4767,SCH-055,Primary,South Sudan,2025-05-31,Dropped
+691,3326,SCH-042,Primary,Uganda,2026-06-13,Enrolled
+692,2519,SCH-019,Vocational,South Sudan,2025-09-05,Dropped
+693,1176,SCH-076,Secondary,South Sudan,2026-01-13,Completed
+694,4239,SCH-051,Vocational,Ethiopia,2025-01-26,Dropped
+695,1450,SCH-011,Vocational,South Sudan,2026-02-26,Enrolled
+696,1003,SCH-079,Secondary,Uganda,2025-03-07,Dropped
+697,1178,SCH-021,Secondary,Somalia,2024-11-07,Dropped
+698,1186,SCH-003,Adult Learning,Uganda,2025-05-12,Enrolled
+699,779,SCH-024,Primary,South Sudan,2025-08-22,Enrolled
+700,3081,SCH-066,Secondary,South Sudan,2025-10-19,Dropped
+701,4834,SCH-079,Primary,Somalia,2026-01-17,Completed
+702,1233,SCH-030,Secondary,Ethiopia,2024-08-21,Dropped
+703,1321,SCH-001,Vocational,Somalia,2025-07-24,Dropped
+704,929,SCH-042,Secondary,South Sudan,2026-03-14,Enrolled
+705,3505,SCH-046,Secondary,Uganda,2025-01-11,Dropped
+706,4148,SCH-056,Secondary,Uganda,2025-05-23,Enrolled
+707,3287,SCH-064,Vocational,South Sudan,2025-08-16,Dropped
+708,1008,SCH-040,Primary,Kenya,2025-09-03,Dropped
+709,2951,SCH-062,Primary,Somalia,2024-12-11,Dropped
+710,697,SCH-038,Secondary,Somalia,2025-06-09,Completed
+711,84,SCH-017,Adult Learning,Uganda,2024-12-01,Completed
+712,2787,SCH-055,Secondary,South Sudan,2024-10-12,Enrolled
+713,247,SCH-049,Primary,Ethiopia,2024-07-24,Enrolled
+714,4762,SCH-010,Primary,Kenya,2024-11-29,Completed
+715,427,SCH-037,Primary,Kenya,2025-06-17,Completed
+716,1777,SCH-023,Primary,Somalia,2026-03-20,Dropped
+717,928,SCH-009,Adult Learning,Kenya,2026-01-09,Enrolled
+718,1530,SCH-023,Adult Learning,Ethiopia,2025-10-20,Completed
+719,4323,SCH-055,Primary,Uganda,2025-08-19,Completed
+720,2822,SCH-048,Vocational,Uganda,2025-02-06,Dropped
+721,59,SCH-031,Vocational,South Sudan,2025-05-16,Completed
+722,3055,SCH-055,Secondary,Kenya,2024-10-23,Completed
+723,1297,SCH-030,Vocational,Kenya,2024-11-29,Enrolled
+724,3774,SCH-068,Vocational,Somalia,2025-03-03,Enrolled
+725,3424,SCH-020,Adult Learning,Ethiopia,2025-09-15,Completed
+726,3279,SCH-044,Adult Learning,Ethiopia,2025-04-23,Completed
+727,2869,SCH-025,Secondary,Uganda,2024-12-12,Enrolled
+728,2128,SCH-033,Secondary,Uganda,2025-07-12,Enrolled
+729,3421,SCH-009,Secondary,Kenya,2024-12-24,Completed
+730,2922,SCH-041,Vocational,Somalia,2025-07-01,Enrolled
+731,4130,SCH-010,Secondary,Ethiopia,2026-05-15,Dropped
+732,3641,SCH-051,Secondary,Ethiopia,2025-01-01,Completed
+733,2486,SCH-069,Secondary,Ethiopia,2024-07-30,Dropped
+734,2649,SCH-010,Vocational,Kenya,2025-03-04,Dropped
+735,1168,SCH-040,Secondary,South Sudan,2026-02-10,Completed
+736,4826,SCH-063,Vocational,Uganda,2025-07-01,Completed
+737,155,SCH-057,Vocational,Ethiopia,2025-12-17,Dropped
+738,4711,SCH-055,Vocational,South Sudan,2026-02-03,Completed
+739,1072,SCH-069,Vocational,Somalia,2025-04-06,Dropped
+740,4958,SCH-066,Secondary,Ethiopia,2025-03-16,Completed
+741,1824,SCH-078,Primary,Uganda,2026-07-14,Enrolled
+742,720,SCH-052,Secondary,Uganda,2024-10-29,Completed
+743,2012,SCH-077,Adult Learning,Ethiopia,2025-12-06,Enrolled
+744,2501,SCH-043,Primary,Ethiopia,2024-11-11,Enrolled
+745,2511,SCH-016,Secondary,Kenya,2025-06-09,Enrolled
+746,2127,SCH-056,Vocational,Kenya,2025-11-03,Completed
+747,3676,SCH-014,Adult Learning,Uganda,2024-08-16,Completed
+748,4727,SCH-022,Adult Learning,Uganda,2024-10-08,Enrolled
+749,4069,SCH-005,Adult Learning,Somalia,2024-09-14,Dropped
+750,2171,SCH-039,Primary,Ethiopia,2025-09-24,Dropped
+751,4248,SCH-079,Primary,Somalia,2026-04-29,Completed
+752,746,SCH-060,Secondary,South Sudan,2025-10-22,Enrolled
+753,518,SCH-073,Adult Learning,Ethiopia,2026-06-11,Enrolled
+754,3776,SCH-077,Primary,Ethiopia,2026-04-27,Dropped
+755,1382,SCH-002,Adult Learning,Kenya,2026-03-17,Enrolled
+756,4934,SCH-072,Primary,Ethiopia,2025-11-10,Enrolled
+757,4349,SCH-066,Vocational,Ethiopia,2024-10-28,Dropped
+758,4070,SCH-042,Adult Learning,Uganda,2026-03-07,Dropped
+759,3478,SCH-052,Secondary,Kenya,2024-09-09,Enrolled
+760,186,SCH-007,Vocational,Somalia,2024-09-29,Completed
+761,837,SCH-080,Vocational,Somalia,2025-06-28,Completed
+762,1535,SCH-080,Primary,Somalia,2025-07-04,Enrolled
+763,2612,SCH-026,Vocational,Kenya,2025-02-28,Completed
+764,441,SCH-031,Adult Learning,Ethiopia,2025-06-04,Enrolled
+765,369,SCH-068,Adult Learning,Somalia,2025-06-03,Enrolled
+766,628,SCH-012,Vocational,Kenya,2025-03-24,Completed
+767,2268,SCH-051,Adult Learning,Ethiopia,2025-05-22,Completed
+768,2239,SCH-068,Primary,Kenya,2026-02-24,Dropped
+769,555,SCH-009,Primary,South Sudan,2025-06-27,Enrolled
+770,4961,SCH-010,Primary,Ethiopia,2026-03-12,Dropped
+771,4743,SCH-039,Adult Learning,Kenya,2025-08-07,Completed
+772,2925,SCH-035,Primary,South Sudan,2025-07-29,Dropped
+773,1727,SCH-021,Primary,Ethiopia,2024-09-30,Enrolled
+774,1151,SCH-079,Primary,Somalia,2025-06-27,Dropped
+775,823,SCH-052,Vocational,Kenya,2025-06-14,Enrolled
+776,68,SCH-059,Vocational,South Sudan,2026-02-11,Enrolled
+777,4525,SCH-073,Secondary,Somalia,2025-07-28,Enrolled
+778,1271,SCH-061,Adult Learning,Kenya,2025-06-16,Enrolled
+779,3447,SCH-026,Primary,South Sudan,2024-10-03,Enrolled
+780,194,SCH-075,Adult Learning,Uganda,2026-01-24,Completed
+781,1388,SCH-053,Primary,Kenya,2025-11-02,Enrolled
+782,2921,SCH-022,Primary,South Sudan,2024-08-25,Dropped
+783,2047,SCH-009,Adult Learning,South Sudan,2024-08-12,Completed
+784,3549,SCH-049,Vocational,Somalia,2025-09-18,Completed
+785,4888,SCH-020,Primary,Uganda,2026-07-05,Completed
+786,4988,SCH-079,Adult Learning,Ethiopia,2026-03-17,Enrolled
+787,1240,SCH-014,Adult Learning,Somalia,2026-05-26,Dropped
+788,2883,SCH-048,Secondary,Ethiopia,2024-10-23,Completed
+789,3198,SCH-061,Secondary,Ethiopia,2026-03-12,Enrolled
+790,755,SCH-022,Secondary,South Sudan,2025-10-20,Enrolled
+791,274,SCH-017,Vocational,South Sudan,2024-11-01,Enrolled
+792,3566,SCH-057,Primary,Kenya,2026-02-26,Enrolled
+793,575,SCH-002,Vocational,Uganda,2025-11-27,Enrolled
+794,1050,SCH-079,Adult Learning,Ethiopia,2024-09-16,Enrolled
+795,719,SCH-013,Vocational,Ethiopia,2025-01-11,Dropped
+796,2173,SCH-061,Adult Learning,Somalia,2024-11-26,Completed
+797,4222,SCH-011,Secondary,South Sudan,2025-06-17,Enrolled
+798,729,SCH-036,Adult Learning,Somalia,2024-11-21,Dropped
+799,1120,SCH-060,Primary,Ethiopia,2026-01-08,Completed
+800,4014,SCH-063,Secondary,Ethiopia,2025-11-04,Dropped
+801,667,SCH-069,Secondary,South Sudan,2026-03-07,Completed
+802,4844,SCH-056,Adult Learning,South Sudan,2024-09-18,Dropped
+803,1590,SCH-055,Vocational,South Sudan,2026-01-04,Dropped
+804,3709,SCH-054,Adult Learning,Ethiopia,2025-08-18,Completed
+805,3754,SCH-080,Adult Learning,Somalia,2025-03-02,Dropped
+806,4496,SCH-071,Primary,Kenya,2025-04-23,Completed
+807,4537,SCH-019,Adult Learning,Uganda,2025-09-12,Enrolled
+808,2424,SCH-040,Secondary,South Sudan,2024-11-06,Enrolled
+809,4186,SCH-023,Adult Learning,Somalia,2025-09-13,Dropped
+810,3226,SCH-067,Secondary,Uganda,2025-07-03,Completed
+811,2361,SCH-027,Secondary,Somalia,2024-10-19,Completed
+812,2935,SCH-054,Vocational,Kenya,2025-07-16,Completed
+813,4733,SCH-054,Vocational,Uganda,2024-08-13,Dropped
+814,989,SCH-014,Vocational,Kenya,2025-07-02,Dropped
+815,2468,SCH-042,Vocational,Ethiopia,2026-05-28,Completed
+816,113,SCH-013,Secondary,South Sudan,2026-05-20,Dropped
+817,551,SCH-042,Vocational,Somalia,2024-12-02,Enrolled
+818,4800,SCH-049,Secondary,Kenya,2024-09-16,Enrolled
+819,3704,SCH-005,Primary,South Sudan,2026-04-19,Enrolled
+820,2193,SCH-066,Adult Learning,South Sudan,2026-06-03,Enrolled
+821,2094,SCH-045,Primary,Kenya,2026-02-11,Enrolled
+822,4169,SCH-075,Secondary,Somalia,2025-02-17,Enrolled
+823,4188,SCH-065,Adult Learning,Uganda,2025-07-22,Enrolled
+824,1228,SCH-027,Secondary,Kenya,2025-02-16,Dropped
+825,289,SCH-059,Adult Learning,Somalia,2026-02-07,Enrolled
+826,3389,SCH-004,Vocational,Uganda,2025-11-15,Completed
+827,3596,SCH-061,Adult Learning,Kenya,2025-04-23,Dropped
+828,4428,SCH-031,Vocational,Ethiopia,2024-08-13,Enrolled
+829,597,SCH-060,Vocational,Uganda,2025-10-26,Dropped
+830,2954,SCH-057,Primary,Somalia,2026-04-14,Enrolled
+831,1333,SCH-011,Secondary,Kenya,2024-10-04,Completed
+832,2820,SCH-063,Adult Learning,Ethiopia,2025-09-10,Dropped
+833,3657,SCH-008,Adult Learning,Somalia,2026-02-28,Dropped
+834,3846,SCH-056,Primary,Uganda,2024-09-29,Completed
+835,440,SCH-054,Vocational,Somalia,2025-01-09,Completed
+836,1637,SCH-044,Primary,Ethiopia,2025-03-25,Completed
+837,933,SCH-039,Secondary,Ethiopia,2025-08-15,Enrolled
+838,2972,SCH-030,Vocational,Uganda,2024-11-14,Dropped
+839,3176,SCH-038,Adult Learning,Ethiopia,2025-04-23,Enrolled
+840,4269,SCH-033,Adult Learning,Somalia,2026-05-26,Enrolled
+841,595,SCH-002,Secondary,Ethiopia,2024-07-19,Completed
+842,3990,SCH-050,Adult Learning,Ethiopia,2024-07-21,Dropped
+843,3599,SCH-015,Primary,Uganda,2025-10-19,Completed
+844,1313,SCH-064,Adult Learning,South Sudan,2026-01-15,Completed
+845,2926,SCH-001,Secondary,Kenya,2025-09-27,Completed
+846,1523,SCH-020,Secondary,Kenya,2024-07-25,Completed
+847,4832,SCH-061,Vocational,Ethiopia,2025-08-15,Completed
+848,3312,SCH-044,Primary,Uganda,2025-07-04,Enrolled
+849,27,SCH-003,Secondary,Somalia,2024-09-26,Dropped
+850,2353,SCH-057,Primary,Uganda,2025-12-27,Dropped
+851,3188,SCH-033,Primary,South Sudan,2025-09-23,Enrolled
+852,223,SCH-029,Primary,Ethiopia,2025-03-06,Enrolled
+853,1883,SCH-042,Primary,Somalia,2026-03-27,Enrolled
+854,846,SCH-063,Primary,Somalia,2024-09-09,Completed
+855,3220,SCH-046,Secondary,Kenya,2024-11-11,Completed
+856,4548,SCH-003,Vocational,Ethiopia,2026-06-11,Completed
+857,4639,SCH-023,Vocational,Kenya,2025-01-04,Dropped
+858,631,SCH-078,Adult Learning,South Sudan,2024-12-17,Enrolled
+859,426,SCH-056,Vocational,Ethiopia,2025-01-12,Completed
+860,3376,SCH-030,Adult Learning,Uganda,2025-06-26,Completed
+861,2951,SCH-079,Secondary,Ethiopia,2025-03-29,Completed
+862,1351,SCH-006,Secondary,South Sudan,2025-08-26,Completed
+863,3419,SCH-045,Primary,Ethiopia,2026-04-07,Enrolled
+864,2012,SCH-005,Secondary,Ethiopia,2024-09-13,Dropped
+865,1603,SCH-012,Vocational,Kenya,2026-02-19,Dropped
+866,142,SCH-003,Primary,South Sudan,2026-05-06,Dropped
+867,4191,SCH-002,Vocational,Ethiopia,2026-01-07,Enrolled
+868,3561,SCH-039,Vocational,Uganda,2026-04-15,Enrolled
+869,4131,SCH-003,Primary,South Sudan,2026-03-02,Completed
+870,244,SCH-035,Vocational,Kenya,2024-09-28,Dropped
+871,358,SCH-033,Vocational,Uganda,2024-12-14,Dropped
+872,312,SCH-058,Primary,Uganda,2025-05-08,Completed
+873,3797,SCH-017,Vocational,Uganda,2025-08-24,Completed
+874,2626,SCH-025,Secondary,Ethiopia,2025-12-19,Dropped
+875,4831,SCH-052,Adult Learning,South Sudan,2026-07-15,Dropped
+876,607,SCH-009,Primary,South Sudan,2025-04-20,Dropped
+877,2816,SCH-003,Secondary,Kenya,2026-06-16,Dropped
+878,765,SCH-001,Secondary,Somalia,2026-04-15,Completed
+879,78,SCH-076,Vocational,Ethiopia,2025-11-09,Dropped
+880,1008,SCH-026,Secondary,Kenya,2026-02-26,Dropped
+881,4455,SCH-054,Vocational,Kenya,2025-02-19,Enrolled
+882,211,SCH-074,Adult Learning,Ethiopia,2024-11-17,Enrolled
+883,659,SCH-004,Vocational,South Sudan,2025-12-23,Enrolled
+884,2457,SCH-034,Primary,Kenya,2025-01-08,Dropped
+885,4430,SCH-047,Primary,Somalia,2025-01-29,Dropped
+886,596,SCH-027,Primary,Somalia,2026-03-20,Enrolled
+887,299,SCH-079,Primary,Ethiopia,2025-01-06,Completed
+888,2512,SCH-080,Vocational,South Sudan,2026-03-03,Enrolled
+889,3622,SCH-039,Vocational,Kenya,2026-03-30,Enrolled
+890,4850,SCH-074,Vocational,South Sudan,2026-03-12,Completed
+891,4614,SCH-004,Adult Learning,Uganda,2024-11-05,Dropped
+892,3201,SCH-056,Adult Learning,Uganda,2024-08-16,Completed
+893,82,SCH-067,Secondary,Uganda,2026-01-27,Dropped
+894,1912,SCH-041,Vocational,Ethiopia,2025-03-08,Dropped
+895,3775,SCH-007,Adult Learning,Uganda,2024-11-16,Dropped
+896,2235,SCH-010,Adult Learning,Somalia,2026-07-04,Dropped
+897,3209,SCH-046,Adult Learning,Ethiopia,2026-04-20,Enrolled
+898,4784,SCH-039,Vocational,Uganda,2026-04-12,Completed
+899,1671,SCH-012,Secondary,Somalia,2026-05-05,Completed
+900,3462,SCH-023,Vocational,Ethiopia,2025-06-04,Dropped
+901,3779,SCH-016,Primary,Ethiopia,2025-03-16,Dropped
+902,1965,SCH-078,Secondary,Kenya,2024-08-11,Completed
+903,222,SCH-059,Secondary,Uganda,2026-02-13,Dropped
+904,4576,SCH-044,Primary,Somalia,2025-12-03,Enrolled
+905,2903,SCH-012,Vocational,Kenya,2025-09-24,Completed
+906,2821,SCH-029,Adult Learning,Somalia,2024-08-07,Completed
+907,1619,SCH-019,Secondary,Kenya,2025-07-02,Completed
+908,1584,SCH-017,Primary,Kenya,2025-05-04,Completed
+909,2009,SCH-004,Secondary,Ethiopia,2025-07-08,Dropped
+910,3412,SCH-031,Primary,Somalia,2025-06-11,Dropped
+911,1248,SCH-028,Vocational,Ethiopia,2025-03-26,Enrolled
+912,1420,SCH-057,Secondary,Ethiopia,2026-01-01,Dropped
+913,2901,SCH-023,Secondary,Uganda,2026-03-09,Completed
+914,1112,SCH-012,Secondary,Kenya,2024-09-09,Dropped
+915,4965,SCH-017,Adult Learning,Uganda,2024-11-16,Enrolled
+916,4822,SCH-042,Vocational,South Sudan,2026-03-21,Enrolled
+917,1757,SCH-060,Secondary,Uganda,2025-01-20,Enrolled
+918,1469,SCH-010,Adult Learning,South Sudan,2026-05-30,Completed
+919,1272,SCH-036,Secondary,South Sudan,2026-06-18,Enrolled
+920,4321,SCH-003,Primary,Kenya,2024-08-17,Enrolled
+921,922,SCH-054,Vocational,Kenya,2026-01-13,Completed
+922,1606,SCH-008,Adult Learning,Somalia,2026-05-11,Completed
+923,4649,SCH-040,Primary,Kenya,2025-10-16,Completed
+924,4939,SCH-003,Vocational,South Sudan,2026-02-01,Completed
+925,3007,SCH-072,Secondary,Uganda,2025-06-04,Completed
+926,145,SCH-075,Primary,Kenya,2026-01-06,Enrolled
+927,1954,SCH-003,Adult Learning,Uganda,2026-04-17,Completed
+928,679,SCH-051,Vocational,South Sudan,2025-12-05,Completed
+929,2772,SCH-068,Secondary,Kenya,2024-10-08,Enrolled
+930,2303,SCH-041,Vocational,South Sudan,2026-04-15,Enrolled
+931,2787,SCH-032,Vocational,Uganda,2024-08-17,Dropped
+932,1959,SCH-036,Secondary,Kenya,2025-09-11,Dropped
+933,3507,SCH-056,Primary,Kenya,2024-10-04,Enrolled
+934,3770,SCH-078,Primary,Uganda,2025-03-15,Completed
+935,2401,SCH-080,Primary,Somalia,2026-03-22,Enrolled
+936,124,SCH-034,Adult Learning,Somalia,2025-03-23,Dropped
+937,1234,SCH-034,Adult Learning,Kenya,2025-11-12,Dropped
+938,2895,SCH-067,Adult Learning,South Sudan,2025-10-14,Completed
+939,4600,SCH-030,Vocational,Kenya,2024-07-29,Enrolled
+940,292,SCH-006,Primary,Kenya,2024-07-22,Completed
+941,2702,SCH-003,Vocational,Kenya,2026-03-05,Enrolled
+942,410,SCH-046,Vocational,Ethiopia,2025-11-24,Completed
+943,718,SCH-053,Primary,Ethiopia,2024-09-13,Completed
+944,838,SCH-015,Adult Learning,Ethiopia,2026-03-29,Dropped
+945,3877,SCH-050,Secondary,Uganda,2025-05-02,Enrolled
+946,1250,SCH-037,Primary,Somalia,2025-12-12,Enrolled
+947,608,SCH-046,Primary,Uganda,2026-02-14,Enrolled
+948,4636,SCH-065,Vocational,Uganda,2025-11-05,Completed
+949,983,SCH-068,Adult Learning,Ethiopia,2025-08-06,Dropped
+950,4672,SCH-004,Adult Learning,Ethiopia,2025-09-04,Enrolled
+951,852,SCH-077,Primary,Ethiopia,2025-02-08,Completed
+952,549,SCH-009,Secondary,Uganda,2026-07-09,Enrolled
+953,1119,SCH-004,Adult Learning,Uganda,2025-02-16,Enrolled
+954,2965,SCH-017,Secondary,Somalia,2025-08-23,Dropped
+955,4128,SCH-031,Adult Learning,Ethiopia,2024-12-12,Dropped
+956,766,SCH-067,Secondary,Kenya,2026-05-31,Enrolled
+957,1406,SCH-061,Adult Learning,Uganda,2025-05-24,Enrolled
+958,3858,SCH-064,Primary,Kenya,2026-03-03,Dropped
+959,3914,SCH-067,Secondary,Ethiopia,2025-07-23,Enrolled
+960,721,SCH-063,Vocational,South Sudan,2024-11-30,Completed
+961,4250,SCH-051,Adult Learning,Ethiopia,2026-05-18,Completed
+962,473,SCH-063,Primary,South Sudan,2026-06-18,Enrolled
+963,1843,SCH-062,Vocational,Kenya,2025-09-02,Dropped
+964,4021,SCH-075,Adult Learning,Uganda,2025-03-25,Completed
+965,1721,SCH-027,Adult Learning,Somalia,2024-12-16,Dropped
+966,697,SCH-003,Primary,South Sudan,2025-10-18,Enrolled
+967,4170,SCH-048,Primary,Kenya,2025-05-08,Enrolled
+968,895,SCH-010,Primary,Kenya,2025-12-08,Completed
+969,1953,SCH-004,Vocational,Somalia,2025-07-23,Dropped
+970,3582,SCH-066,Adult Learning,South Sudan,2026-03-09,Completed
+971,4763,SCH-006,Secondary,Somalia,2025-05-10,Enrolled
+972,448,SCH-004,Secondary,South Sudan,2025-01-25,Dropped
+973,2090,SCH-049,Secondary,South Sudan,2024-10-11,Enrolled
+974,3828,SCH-023,Primary,South Sudan,2025-10-21,Dropped
+975,690,SCH-074,Primary,Ethiopia,2025-06-10,Enrolled
+976,3791,SCH-051,Primary,Somalia,2024-12-14,Completed
+977,2368,SCH-062,Primary,Kenya,2025-11-23,Completed
+978,3508,SCH-066,Vocational,South Sudan,2026-03-10,Completed
+979,3423,SCH-078,Adult Learning,Somalia,2026-01-08,Dropped
+980,671,SCH-062,Adult Learning,Ethiopia,2026-02-15,Dropped
+981,1913,SCH-018,Vocational,South Sudan,2025-11-07,Enrolled
+982,3631,SCH-023,Vocational,South Sudan,2024-12-04,Completed
+983,279,SCH-013,Primary,Ethiopia,2025-09-17,Enrolled
+984,1846,SCH-045,Adult Learning,Kenya,2025-01-25,Dropped
+985,3678,SCH-043,Primary,Uganda,2025-11-06,Dropped
+986,1274,SCH-057,Secondary,Kenya,2025-10-13,Enrolled
+987,4978,SCH-035,Secondary,South Sudan,2025-07-24,Completed
+988,4155,SCH-054,Adult Learning,South Sudan,2026-03-01,Dropped
+989,1162,SCH-018,Secondary,Kenya,2025-04-22,Completed
+990,4455,SCH-074,Vocational,Kenya,2026-03-26,Dropped
+991,707,SCH-050,Secondary,Kenya,2024-07-31,Completed
+992,618,SCH-061,Primary,Ethiopia,2025-07-29,Completed
+993,138,SCH-006,Vocational,South Sudan,2024-12-29,Dropped
+994,808,SCH-014,Adult Learning,Somalia,2026-05-18,Enrolled
+995,2246,SCH-026,Vocational,Uganda,2025-03-12,Enrolled
+996,3831,SCH-068,Adult Learning,Kenya,2024-11-24,Enrolled
+997,3131,SCH-044,Adult Learning,Somalia,2025-09-07,Completed
+998,4560,SCH-052,Adult Learning,Kenya,2025-12-09,Dropped
+999,4468,SCH-030,Vocational,Uganda,2025-03-21,Dropped
+1000,3978,SCH-051,Adult Learning,Ethiopia,2024-07-26,Completed
+1001,3466,SCH-011,Adult Learning,Ethiopia,2024-09-06,Enrolled
+1002,1138,SCH-029,Primary,Uganda,2025-11-27,Enrolled
+1003,1558,SCH-055,Adult Learning,South Sudan,2025-01-07,Enrolled
+1004,3660,SCH-051,Primary,South Sudan,2025-11-06,Enrolled
+1005,2952,SCH-032,Adult Learning,Ethiopia,2025-03-10,Completed
+1006,3319,SCH-004,Adult Learning,Somalia,2026-06-05,Dropped
+1007,2284,SCH-035,Adult Learning,Ethiopia,2025-05-18,Completed
+1008,4758,SCH-045,Adult Learning,South Sudan,2025-04-24,Dropped
+1009,2355,SCH-038,Primary,Somalia,2025-01-05,Completed
+1010,866,SCH-020,Adult Learning,Kenya,2025-10-11,Completed
+1011,3121,SCH-011,Adult Learning,Ethiopia,2024-11-29,Enrolled
+1012,4360,SCH-023,Vocational,Somalia,2024-10-03,Completed
+1013,271,SCH-041,Primary,Ethiopia,2025-03-24,Completed
+1014,1737,SCH-027,Vocational,Kenya,2024-11-12,Completed
+1015,620,SCH-051,Adult Learning,Ethiopia,2025-03-29,Enrolled
+1016,1380,SCH-036,Vocational,South Sudan,2025-07-31,Dropped
+1017,349,SCH-034,Adult Learning,Uganda,2025-07-11,Enrolled
+1018,4103,SCH-044,Secondary,Uganda,2025-12-17,Dropped
+1019,2628,SCH-048,Adult Learning,South Sudan,2024-11-21,Dropped
+1020,3933,SCH-028,Secondary,Kenya,2024-08-13,Dropped
+1021,4259,SCH-040,Secondary,Somalia,2026-06-02,Dropped
+1022,2411,SCH-074,Adult Learning,South Sudan,2025-07-02,Dropped
+1023,1341,SCH-036,Adult Learning,Uganda,2025-08-17,Completed
+1024,3966,SCH-057,Adult Learning,Kenya,2024-12-06,Completed
+1025,4287,SCH-033,Primary,South Sudan,2025-06-30,Completed
+1026,2152,SCH-059,Adult Learning,South Sudan,2024-07-21,Dropped
+1027,2405,SCH-050,Vocational,Somalia,2025-03-27,Dropped
+1028,1871,SCH-037,Vocational,Kenya,2024-10-14,Dropped
+1029,3407,SCH-023,Primary,Uganda,2025-06-09,Enrolled
+1030,1616,SCH-022,Vocational,South Sudan,2024-11-30,Completed
+1031,1048,SCH-044,Primary,South Sudan,2026-02-21,Dropped
+1032,1878,SCH-009,Primary,Somalia,2025-05-25,Enrolled
+1033,2527,SCH-006,Adult Learning,Kenya,2025-07-11,Completed
+1034,3034,SCH-048,Vocational,Uganda,2025-04-14,Completed
+1035,2763,SCH-014,Vocational,Uganda,2025-12-19,Dropped
+1036,2957,SCH-041,Vocational,Somalia,2025-03-31,Completed
+1037,1438,SCH-013,Vocational,Ethiopia,2024-09-23,Dropped
+1038,2037,SCH-042,Primary,Somalia,2025-03-03,Enrolled
+1039,2629,SCH-035,Secondary,South Sudan,2026-06-02,Completed
+1040,1058,SCH-001,Primary,Uganda,2024-08-16,Enrolled
+1041,1598,SCH-008,Primary,Ethiopia,2025-04-03,Dropped
+1042,3991,SCH-069,Adult Learning,Somalia,2024-07-24,Completed
+1043,4439,SCH-062,Secondary,Uganda,2025-11-06,Dropped
+1044,864,SCH-046,Secondary,South Sudan,2025-04-11,Completed
+1045,3444,SCH-023,Secondary,Kenya,2025-11-03,Dropped
+1046,4139,SCH-043,Vocational,Kenya,2025-12-27,Enrolled
+1047,3538,SCH-057,Vocational,Uganda,2025-07-15,Enrolled
+1048,3285,SCH-056,Primary,South Sudan,2024-12-31,Enrolled
+1049,1429,SCH-030,Adult Learning,Uganda,2026-07-10,Enrolled
+1050,1391,SCH-026,Vocational,Ethiopia,2025-01-17,Enrolled
+1051,4574,SCH-049,Secondary,Kenya,2026-07-19,Enrolled
+1052,2406,SCH-047,Adult Learning,Uganda,2024-12-24,Completed
+1053,4334,SCH-043,Secondary,Somalia,2025-11-05,Dropped
+1054,1204,SCH-060,Adult Learning,South Sudan,2024-12-18,Enrolled
+1055,1847,SCH-032,Vocational,Kenya,2025-01-18,Completed
+1056,1526,SCH-023,Vocational,Ethiopia,2025-12-09,Dropped
+1057,3176,SCH-032,Primary,Uganda,2026-01-01,Completed
+1058,3471,SCH-047,Vocational,Kenya,2026-06-12,Completed
+1059,4955,SCH-077,Secondary,South Sudan,2025-09-17,Completed
+1060,2384,SCH-018,Primary,South Sudan,2026-07-13,Dropped
+1061,131,SCH-014,Primary,South Sudan,2025-03-31,Completed
+1062,1559,SCH-007,Adult Learning,Somalia,2025-02-08,Dropped
+1063,4240,SCH-004,Adult Learning,South Sudan,2025-02-14,Completed
+1064,3369,SCH-040,Secondary,Uganda,2024-11-19,Dropped
+1065,4925,SCH-061,Vocational,Kenya,2024-08-27,Completed
+1066,2072,SCH-028,Vocational,Somalia,2025-02-01,Dropped
+1067,2666,SCH-077,Primary,Ethiopia,2025-10-27,Dropped
+1068,3777,SCH-042,Vocational,Kenya,2025-03-16,Enrolled
+1069,2465,SCH-027,Vocational,South Sudan,2025-11-25,Dropped
+1070,3028,SCH-001,Vocational,Somalia,2025-12-30,Enrolled
+1071,4178,SCH-058,Adult Learning,South Sudan,2025-11-15,Completed
+1072,2056,SCH-071,Secondary,Ethiopia,2024-12-25,Completed
+1073,4746,SCH-069,Vocational,Uganda,2025-04-06,Dropped
+1074,2485,SCH-032,Vocational,Ethiopia,2025-01-26,Completed
+1075,3232,SCH-051,Vocational,Ethiopia,2026-07-17,Completed
+1076,2743,SCH-021,Secondary,South Sudan,2024-11-10,Dropped
+1077,2112,SCH-011,Adult Learning,South Sudan,2024-07-21,Enrolled
+1078,1458,SCH-077,Secondary,Somalia,2025-06-06,Dropped
+1079,638,SCH-072,Primary,Uganda,2025-07-01,Completed
+1080,450,SCH-001,Secondary,Somalia,2026-07-09,Dropped
+1081,2989,SCH-057,Primary,South Sudan,2025-01-30,Completed
+1082,180,SCH-031,Vocational,Kenya,2026-01-16,Enrolled
+1083,3985,SCH-011,Secondary,South Sudan,2025-06-10,Completed
+1084,2683,SCH-062,Primary,South Sudan,2026-07-04,Completed
+1085,1562,SCH-015,Secondary,Kenya,2025-09-19,Completed
+1086,1896,SCH-020,Vocational,Somalia,2024-11-12,Completed
+1087,3086,SCH-015,Secondary,Ethiopia,2025-03-10,Completed
+1088,2746,SCH-052,Secondary,South Sudan,2024-08-14,Dropped
+1089,4012,SCH-050,Secondary,Uganda,2025-10-13,Completed
+1090,228,SCH-033,Primary,South Sudan,2025-05-26,Completed
+1091,873,SCH-019,Adult Learning,Somalia,2025-05-17,Dropped
+1092,377,SCH-065,Secondary,South Sudan,2025-07-07,Completed
+1093,74,SCH-027,Adult Learning,Uganda,2026-04-07,Enrolled
+1094,802,SCH-048,Adult Learning,South Sudan,2025-04-14,Dropped
+1095,405,SCH-018,Vocational,Kenya,2024-11-23,Completed
+1096,4767,SCH-080,Primary,South Sudan,2026-04-04,Dropped
+1097,3437,SCH-059,Vocational,South Sudan,2025-04-26,Dropped
+1098,565,SCH-031,Adult Learning,Ethiopia,2025-03-01,Dropped
+1099,1038,SCH-078,Vocational,South Sudan,2025-02-06,Enrolled
+1100,1132,SCH-001,Adult Learning,Kenya,2024-10-26,Enrolled
+1101,2795,SCH-067,Primary,Uganda,2025-08-26,Dropped
+1102,4338,SCH-032,Adult Learning,Uganda,2024-12-21,Dropped
+1103,4661,SCH-053,Adult Learning,Uganda,2024-08-21,Enrolled
+1104,489,SCH-025,Primary,South Sudan,2026-01-16,Enrolled
+1105,3857,SCH-050,Secondary,South Sudan,2025-07-16,Completed
+1106,3064,SCH-044,Primary,Kenya,2024-09-07,Completed
+1107,4338,SCH-050,Vocational,South Sudan,2025-07-23,Dropped
+1108,2115,SCH-018,Secondary,Ethiopia,2024-10-26,Enrolled
+1109,4753,SCH-033,Secondary,Somalia,2026-03-03,Completed
+1110,2639,SCH-037,Secondary,Ethiopia,2025-02-19,Enrolled
+1111,1783,SCH-041,Vocational,Somalia,2024-10-22,Dropped
+1112,3185,SCH-073,Adult Learning,South Sudan,2024-10-14,Completed
+1113,2302,SCH-077,Adult Learning,Kenya,2024-10-28,Dropped
+1114,839,SCH-059,Secondary,Somalia,2026-05-14,Completed
+1115,3881,SCH-062,Vocational,South Sudan,2025-03-23,Enrolled
+1116,3275,SCH-052,Primary,Ethiopia,2025-12-13,Dropped
+1117,1365,SCH-025,Vocational,Uganda,2025-05-19,Completed
+1118,2145,SCH-048,Secondary,Ethiopia,2025-08-31,Dropped
+1119,3660,SCH-042,Vocational,South Sudan,2025-04-05,Enrolled
+1120,2263,SCH-040,Primary,Ethiopia,2024-11-16,Enrolled
+1121,4908,SCH-072,Secondary,Somalia,2025-04-24,Enrolled
+1122,1978,SCH-010,Vocational,Kenya,2025-01-15,Dropped
+1123,5000,SCH-029,Secondary,Uganda,2024-09-10,Completed
+1124,1896,SCH-031,Secondary,Ethiopia,2025-03-10,Enrolled
+1125,3800,SCH-005,Vocational,Ethiopia,2026-02-02,Dropped
+1126,430,SCH-040,Adult Learning,Ethiopia,2025-06-30,Enrolled
+1127,1337,SCH-041,Vocational,South Sudan,2025-03-16,Dropped
+1128,3832,SCH-012,Primary,Kenya,2026-04-07,Dropped
+1129,4198,SCH-029,Vocational,Ethiopia,2026-01-31,Completed
+1130,2184,SCH-033,Secondary,Kenya,2026-02-23,Completed
+1131,3364,SCH-065,Primary,South Sudan,2026-04-14,Enrolled
+1132,954,SCH-003,Adult Learning,Somalia,2026-03-07,Enrolled
+1133,152,SCH-029,Vocational,Uganda,2025-01-07,Dropped
+1134,2025,SCH-075,Adult Learning,Ethiopia,2025-05-06,Completed
+1135,1502,SCH-053,Vocational,Somalia,2025-10-27,Dropped
+1136,955,SCH-065,Secondary,Kenya,2026-05-16,Enrolled
+1137,3961,SCH-033,Secondary,Somalia,2025-11-11,Completed
+1138,771,SCH-058,Vocational,Uganda,2024-08-16,Dropped
+1139,4167,SCH-059,Adult Learning,Kenya,2026-06-28,Completed
+1140,4144,SCH-022,Adult Learning,Kenya,2025-06-28,Dropped
+1141,74,SCH-037,Adult Learning,Uganda,2025-11-16,Enrolled
+1142,3428,SCH-034,Adult Learning,South Sudan,2024-09-08,Dropped
+1143,4474,SCH-070,Adult Learning,South Sudan,2024-10-19,Completed
+1144,536,SCH-019,Vocational,South Sudan,2025-11-10,Completed
+1145,52,SCH-075,Adult Learning,Ethiopia,2025-08-02,Completed
+1146,4281,SCH-041,Vocational,Uganda,2024-09-05,Enrolled
+1147,1864,SCH-006,Adult Learning,Uganda,2024-12-28,Enrolled
+1148,3815,SCH-055,Secondary,Somalia,2025-10-18,Dropped
+1149,4800,SCH-037,Vocational,Uganda,2025-07-16,Completed
+1150,3590,SCH-041,Secondary,Ethiopia,2024-12-13,Dropped
+1151,1930,SCH-057,Secondary,Ethiopia,2025-08-09,Dropped
+1152,4684,SCH-061,Secondary,Uganda,2025-12-17,Completed
+1153,3573,SCH-079,Secondary,Kenya,2025-02-27,Enrolled
+1154,4237,SCH-068,Secondary,Somalia,2025-07-13,Completed
+1155,1629,SCH-074,Primary,South Sudan,2024-09-09,Dropped
+1156,1757,SCH-009,Vocational,Ethiopia,2025-05-09,Enrolled
+1157,2709,SCH-060,Primary,Somalia,2024-10-29,Dropped
+1158,4424,SCH-052,Primary,Uganda,2025-09-12,Enrolled
+1159,2882,SCH-022,Vocational,Uganda,2025-08-23,Dropped
+1160,2830,SCH-030,Adult Learning,Somalia,2026-04-24,Completed
+1161,4635,SCH-027,Secondary,Ethiopia,2024-09-16,Dropped
+1162,3991,SCH-062,Primary,Somalia,2026-05-25,Completed
+1163,120,SCH-023,Vocational,Kenya,2025-08-31,Completed
+1164,2256,SCH-078,Primary,Somalia,2025-02-25,Completed
+1165,4575,SCH-025,Vocational,Somalia,2025-02-23,Completed
+1166,311,SCH-025,Secondary,South Sudan,2024-12-03,Completed
+1167,4648,SCH-004,Primary,Ethiopia,2025-10-10,Dropped
+1168,2026,SCH-077,Adult Learning,Kenya,2025-04-09,Completed
+1169,232,SCH-002,Vocational,Somalia,2024-09-07,Enrolled
+1170,2742,SCH-009,Primary,Ethiopia,2026-01-09,Enrolled
+1171,4828,SCH-057,Secondary,Uganda,2025-12-19,Dropped
+1172,2966,SCH-040,Adult Learning,Kenya,2025-02-20,Completed
+1173,2433,SCH-022,Primary,South Sudan,2026-01-08,Dropped
+1174,3384,SCH-006,Adult Learning,Ethiopia,2026-06-06,Dropped
+1175,3565,SCH-052,Secondary,Kenya,2026-06-30,Enrolled
+1176,4312,SCH-053,Secondary,South Sudan,2025-12-11,Enrolled
+1177,710,SCH-058,Primary,Uganda,2025-06-25,Enrolled
+1178,850,SCH-074,Primary,Uganda,2025-06-23,Enrolled
+1179,3558,SCH-007,Vocational,Kenya,2025-04-30,Dropped
+1180,1524,SCH-051,Secondary,Kenya,2025-08-15,Completed
+1181,66,SCH-076,Vocational,Ethiopia,2025-05-10,Enrolled
+1182,436,SCH-075,Adult Learning,Somalia,2025-07-22,Completed
+1183,1643,SCH-057,Adult Learning,Uganda,2025-09-21,Enrolled
+1184,4371,SCH-022,Secondary,South Sudan,2026-01-26,Enrolled
+1185,4139,SCH-035,Primary,Kenya,2025-04-08,Completed
+1186,3,SCH-022,Vocational,Ethiopia,2025-12-17,Enrolled
+1187,1050,SCH-047,Vocational,Ethiopia,2026-05-08,Completed
+1188,2728,SCH-033,Adult Learning,Ethiopia,2025-02-04,Completed
+1189,461,SCH-030,Adult Learning,South Sudan,2024-10-26,Completed
+1190,1965,SCH-050,Vocational,Ethiopia,2025-12-15,Enrolled
+1191,1042,SCH-049,Adult Learning,Kenya,2025-12-28,Enrolled
+1192,3463,SCH-076,Adult Learning,Kenya,2026-04-09,Completed
+1193,4191,SCH-054,Vocational,Kenya,2025-03-31,Enrolled
+1194,456,SCH-006,Secondary,Ethiopia,2025-08-31,Completed
+1195,1591,SCH-020,Vocational,Somalia,2025-12-05,Dropped
+1196,3724,SCH-045,Vocational,Ethiopia,2025-05-27,Dropped
+1197,3306,SCH-012,Adult Learning,Kenya,2025-01-27,Completed
+1198,3451,SCH-072,Adult Learning,Uganda,2026-03-12,Completed
+1199,209,SCH-066,Secondary,South Sudan,2025-01-05,Completed
+1200,1172,SCH-030,Primary,Ethiopia,2024-08-17,Enrolled
+1201,2033,SCH-074,Adult Learning,South Sudan,2024-10-08,Completed
+1202,3179,SCH-037,Adult Learning,Ethiopia,2025-07-28,Completed
+1203,4052,SCH-060,Primary,Uganda,2024-11-21,Completed
+1204,3801,SCH-044,Primary,South Sudan,2025-08-26,Dropped
+1205,3457,SCH-002,Primary,Uganda,2025-01-21,Enrolled
+1206,1899,SCH-026,Vocational,Kenya,2025-11-26,Dropped
+1207,2854,SCH-009,Secondary,South Sudan,2026-01-22,Dropped
+1208,439,SCH-058,Primary,Kenya,2026-02-19,Completed
+1209,155,SCH-023,Primary,Ethiopia,2025-11-18,Enrolled
+1210,3955,SCH-049,Vocational,Somalia,2025-02-16,Completed
+1211,2322,SCH-078,Vocational,Somalia,2024-11-14,Enrolled
+1212,4455,SCH-067,Secondary,South Sudan,2026-05-06,Dropped
+1213,668,SCH-008,Adult Learning,Somalia,2024-11-24,Enrolled
+1214,4695,SCH-054,Primary,Ethiopia,2025-06-30,Enrolled
+1215,4482,SCH-054,Adult Learning,Kenya,2025-12-30,Enrolled
+1216,1769,SCH-055,Vocational,Uganda,2024-09-06,Dropped
+1217,1260,SCH-062,Secondary,Kenya,2026-05-21,Dropped
+1218,3577,SCH-060,Adult Learning,Uganda,2025-11-16,Completed
+1219,511,SCH-050,Secondary,Kenya,2024-08-29,Enrolled
+1220,3551,SCH-033,Secondary,Kenya,2025-04-01,Completed
+1221,4513,SCH-050,Primary,Uganda,2025-12-23,Dropped
+1222,804,SCH-041,Adult Learning,Somalia,2026-07-09,Dropped
+1223,1745,SCH-076,Secondary,Uganda,2024-09-28,Completed
+1224,2096,SCH-064,Secondary,Uganda,2026-02-25,Dropped
+1225,4094,SCH-031,Vocational,Uganda,2026-07-03,Dropped
+1226,255,SCH-058,Adult Learning,Uganda,2026-02-04,Completed
+1227,2112,SCH-078,Vocational,Uganda,2026-05-27,Completed
+1228,2324,SCH-080,Vocational,Somalia,2024-12-27,Completed
+1229,1157,SCH-047,Secondary,Kenya,2025-11-14,Enrolled
+1230,2267,SCH-021,Secondary,South Sudan,2025-01-29,Completed
+1231,861,SCH-026,Adult Learning,Ethiopia,2025-03-30,Dropped
+1232,4606,SCH-058,Adult Learning,Uganda,2026-07-03,Enrolled
+1233,3961,SCH-018,Adult Learning,Ethiopia,2024-08-18,Dropped
+1234,3996,SCH-059,Primary,South Sudan,2024-10-01,Enrolled
+1235,352,SCH-034,Vocational,Somalia,2025-11-11,Dropped
+1236,1830,SCH-071,Secondary,South Sudan,2024-07-19,Dropped
+1237,1187,SCH-061,Secondary,Uganda,2025-09-16,Enrolled
+1238,2216,SCH-035,Primary,Kenya,2024-09-17,Dropped
+1239,2380,SCH-012,Adult Learning,Ethiopia,2024-09-28,Dropped
+1240,2375,SCH-008,Secondary,Somalia,2025-04-27,Enrolled
+1241,4306,SCH-029,Adult Learning,South Sudan,2026-05-13,Enrolled
+1242,3258,SCH-068,Secondary,Uganda,2024-10-28,Enrolled
+1243,918,SCH-057,Adult Learning,South Sudan,2025-05-23,Dropped
+1244,4659,SCH-069,Secondary,Somalia,2025-10-19,Completed
+1245,2215,SCH-055,Secondary,Kenya,2025-04-01,Dropped
+1246,716,SCH-070,Vocational,Somalia,2025-09-10,Dropped
+1247,4003,SCH-004,Secondary,South Sudan,2025-05-25,Enrolled
+1248,3210,SCH-060,Primary,Uganda,2025-10-19,Enrolled
+1249,2083,SCH-034,Adult Learning,Ethiopia,2025-06-06,Dropped
+1250,350,SCH-038,Secondary,Somalia,2025-08-08,Completed
+1251,4845,SCH-071,Secondary,South Sudan,2024-12-12,Dropped
+1252,4470,SCH-004,Vocational,Kenya,2026-01-25,Completed
+1253,1460,SCH-057,Secondary,Ethiopia,2025-05-08,Completed
+1254,1702,SCH-055,Vocational,Somalia,2026-03-02,Enrolled
+1255,3717,SCH-038,Vocational,Uganda,2026-05-09,Enrolled
+1256,4188,SCH-065,Vocational,Kenya,2024-12-23,Completed
+1257,3522,SCH-068,Primary,South Sudan,2026-04-02,Enrolled
+1258,178,SCH-067,Adult Learning,Uganda,2024-07-31,Dropped
+1259,1159,SCH-052,Secondary,Kenya,2025-02-05,Dropped
+1260,3293,SCH-047,Primary,Somalia,2024-11-12,Enrolled
+1261,1821,SCH-045,Adult Learning,South Sudan,2026-03-29,Enrolled
+1262,3271,SCH-020,Vocational,Kenya,2026-03-26,Enrolled
+1263,983,SCH-027,Secondary,Kenya,2025-06-16,Completed
+1264,232,SCH-063,Vocational,Kenya,2026-03-04,Dropped
+1265,4362,SCH-070,Adult Learning,Kenya,2026-06-17,Dropped
+1266,1276,SCH-026,Vocational,Kenya,2024-12-18,Enrolled
+1267,2111,SCH-066,Vocational,Uganda,2025-06-15,Completed
+1268,3894,SCH-041,Adult Learning,Somalia,2025-08-23,Dropped
+1269,3563,SCH-040,Vocational,Somalia,2024-11-14,Completed
+1270,136,SCH-066,Vocational,Somalia,2025-07-18,Completed
+1271,3332,SCH-036,Adult Learning,Somalia,2025-12-19,Dropped
+1272,1932,SCH-025,Adult Learning,Uganda,2026-05-30,Enrolled
+1273,4699,SCH-027,Vocational,South Sudan,2026-04-28,Completed
+1274,1914,SCH-031,Vocational,Somalia,2025-01-29,Dropped
+1275,4426,SCH-045,Primary,South Sudan,2024-09-13,Completed
+1276,332,SCH-054,Secondary,Kenya,2025-03-14,Enrolled
+1277,3407,SCH-014,Adult Learning,Ethiopia,2025-12-27,Completed
+1278,3401,SCH-003,Adult Learning,Ethiopia,2026-03-18,Completed
+1279,2502,SCH-064,Secondary,Somalia,2026-04-20,Dropped
+1280,1675,SCH-008,Vocational,South Sudan,2024-07-23,Dropped
+1281,2098,SCH-019,Adult Learning,Uganda,2026-07-03,Dropped
+1282,170,SCH-014,Vocational,Uganda,2025-04-08,Dropped
+1283,3715,SCH-008,Adult Learning,South Sudan,2025-12-02,Completed
+1284,2965,SCH-047,Primary,South Sudan,2024-08-10,Enrolled
+1285,3096,SCH-012,Primary,Ethiopia,2025-10-29,Enrolled
+1286,272,SCH-038,Primary,Kenya,2024-10-30,Completed
+1287,484,SCH-022,Secondary,South Sudan,2024-10-03,Dropped
+1288,2395,SCH-021,Primary,South Sudan,2025-11-17,Enrolled
+1289,1013,SCH-055,Vocational,South Sudan,2026-01-11,Enrolled
+1290,4941,SCH-026,Primary,Kenya,2024-10-23,Enrolled
+1291,4118,SCH-078,Secondary,Somalia,2026-01-27,Enrolled
+1292,758,SCH-066,Secondary,Uganda,2025-12-19,Completed
+1293,897,SCH-008,Vocational,South Sudan,2026-01-12,Dropped
+1294,4913,SCH-072,Vocational,Ethiopia,2025-09-24,Enrolled
+1295,4515,SCH-070,Secondary,Somalia,2026-01-09,Completed
+1296,1949,SCH-066,Primary,Somalia,2025-05-27,Completed
+1297,2364,SCH-024,Adult Learning,Uganda,2026-06-04,Completed
+1298,1021,SCH-050,Vocational,Ethiopia,2025-05-07,Completed
+1299,3935,SCH-023,Primary,South Sudan,2025-01-10,Enrolled
+1300,727,SCH-030,Adult Learning,Kenya,2025-11-17,Enrolled
+1301,2532,SCH-014,Adult Learning,Ethiopia,2025-06-10,Dropped
+1302,4992,SCH-056,Primary,South Sudan,2025-04-05,Dropped
+1303,3877,SCH-033,Vocational,South Sudan,2025-07-23,Enrolled
+1304,1354,SCH-072,Secondary,Uganda,2025-04-25,Enrolled
+1305,382,SCH-075,Adult Learning,Somalia,2024-10-18,Enrolled
+1306,1093,SCH-063,Adult Learning,Kenya,2026-04-25,Completed
+1307,2255,SCH-015,Adult Learning,Ethiopia,2025-01-30,Completed
+1308,2185,SCH-077,Primary,Uganda,2024-10-23,Completed
+1309,4231,SCH-016,Adult Learning,Somalia,2025-11-19,Completed
+1310,1835,SCH-045,Secondary,South Sudan,2025-06-01,Enrolled
+1311,2226,SCH-045,Secondary,Kenya,2025-01-05,Completed
+1312,4241,SCH-008,Vocational,Uganda,2026-05-02,Enrolled
+1313,2645,SCH-032,Primary,South Sudan,2025-03-05,Dropped
+1314,1896,SCH-014,Vocational,Somalia,2025-04-06,Dropped
+1315,255,SCH-057,Vocational,Uganda,2026-02-18,Dropped
+1316,3694,SCH-061,Vocational,Somalia,2026-02-17,Completed
+1317,4674,SCH-021,Adult Learning,South Sudan,2024-09-30,Completed
+1318,3858,SCH-071,Adult Learning,Kenya,2025-06-08,Dropped
+1319,3402,SCH-027,Adult Learning,South Sudan,2026-02-07,Dropped
+1320,97,SCH-074,Secondary,Ethiopia,2025-09-16,Enrolled
+1321,3358,SCH-040,Adult Learning,Somalia,2024-08-16,Completed
+1322,1664,SCH-006,Adult Learning,Uganda,2025-03-28,Enrolled
+1323,3562,SCH-056,Secondary,Uganda,2024-12-28,Enrolled
+1324,2556,SCH-041,Primary,South Sudan,2026-06-24,Enrolled
+1325,2211,SCH-061,Secondary,Ethiopia,2025-02-11,Completed
+1326,2567,SCH-007,Secondary,Kenya,2025-03-13,Dropped
+1327,2940,SCH-059,Adult Learning,Kenya,2026-04-28,Dropped
+1328,4032,SCH-035,Secondary,Kenya,2026-01-29,Completed
+1329,3481,SCH-033,Adult Learning,South Sudan,2025-10-06,Dropped
+1330,4685,SCH-002,Vocational,Kenya,2024-09-14,Enrolled
+1331,3879,SCH-041,Adult Learning,Uganda,2026-03-05,Enrolled
+1332,588,SCH-029,Adult Learning,Kenya,2025-10-15,Completed
+1333,1313,SCH-062,Primary,Somalia,2026-06-21,Completed
+1334,4775,SCH-080,Primary,Kenya,2025-09-07,Enrolled
+1335,3088,SCH-044,Secondary,Somalia,2026-05-06,Dropped
+1336,2733,SCH-062,Secondary,South Sudan,2024-09-17,Dropped
+1337,3650,SCH-059,Primary,South Sudan,2025-05-26,Dropped
+1338,1863,SCH-072,Vocational,Ethiopia,2025-02-28,Completed
+1339,1850,SCH-023,Secondary,Ethiopia,2025-02-19,Completed
+1340,4329,SCH-050,Secondary,Uganda,2026-01-01,Enrolled
+1341,4730,SCH-016,Vocational,Uganda,2026-02-13,Enrolled
+1342,619,SCH-067,Adult Learning,Kenya,2025-05-05,Completed
+1343,4091,SCH-074,Secondary,Ethiopia,2024-12-31,Enrolled
+1344,1509,SCH-022,Adult Learning,South Sudan,2025-05-27,Enrolled
+1345,447,SCH-019,Primary,Ethiopia,2026-07-13,Enrolled
+1346,4171,SCH-023,Adult Learning,Somalia,2025-11-06,Completed
+1347,328,SCH-040,Secondary,South Sudan,2024-10-09,Enrolled
+1348,597,SCH-035,Secondary,Ethiopia,2025-02-13,Dropped
+1349,1362,SCH-047,Vocational,Ethiopia,2025-03-28,Enrolled
+1350,3268,SCH-039,Secondary,Kenya,2024-08-02,Dropped
+1351,2118,SCH-069,Vocational,Ethiopia,2025-10-29,Dropped
+1352,2042,SCH-044,Primary,Kenya,2024-11-26,Completed
+1353,1571,SCH-070,Vocational,Uganda,2025-07-02,Completed
+1354,1521,SCH-064,Adult Learning,Somalia,2025-07-24,Completed
+1355,2284,SCH-025,Secondary,Ethiopia,2025-06-19,Completed
+1356,579,SCH-018,Secondary,South Sudan,2025-11-11,Completed
+1357,2177,SCH-057,Primary,Uganda,2025-11-08,Completed
+1358,2386,SCH-029,Adult Learning,Somalia,2025-05-28,Completed
+1359,545,SCH-039,Adult Learning,Ethiopia,2025-08-20,Dropped
+1360,1279,SCH-074,Primary,Uganda,2025-02-02,Completed
+1361,728,SCH-028,Adult Learning,South Sudan,2024-07-28,Completed
+1362,2567,SCH-079,Adult Learning,Uganda,2025-06-02,Dropped
+1363,674,SCH-063,Primary,South Sudan,2025-10-23,Enrolled
+1364,4980,SCH-040,Primary,South Sudan,2024-11-01,Dropped
+1365,3739,SCH-059,Vocational,Ethiopia,2026-07-02,Enrolled
+1366,4899,SCH-003,Secondary,Ethiopia,2026-05-23,Completed
+1367,3179,SCH-066,Adult Learning,South Sudan,2024-08-28,Completed
+1368,760,SCH-055,Adult Learning,Ethiopia,2025-03-24,Dropped
+1369,3704,SCH-020,Secondary,Somalia,2025-12-13,Completed
+1370,2081,SCH-047,Vocational,Somalia,2026-01-06,Completed
+1371,197,SCH-030,Adult Learning,Uganda,2025-05-13,Completed
+1372,4772,SCH-051,Secondary,Ethiopia,2026-07-14,Completed
+1373,2942,SCH-013,Adult Learning,Ethiopia,2025-06-28,Dropped
+1374,1806,SCH-011,Primary,South Sudan,2025-12-09,Dropped
+1375,2605,SCH-064,Adult Learning,Uganda,2025-03-31,Completed
+1376,2596,SCH-059,Secondary,Ethiopia,2026-05-31,Dropped
+1377,3221,SCH-006,Vocational,Ethiopia,2026-01-27,Enrolled
+1378,1790,SCH-001,Adult Learning,Kenya,2025-10-20,Completed
+1379,2070,SCH-069,Vocational,Ethiopia,2024-08-09,Dropped
+1380,616,SCH-013,Adult Learning,Ethiopia,2025-01-12,Dropped
+1381,1128,SCH-012,Primary,Kenya,2024-11-07,Completed
+1382,1564,SCH-043,Vocational,Somalia,2024-08-22,Dropped
+1383,1184,SCH-058,Vocational,Kenya,2025-03-11,Dropped
+1384,155,SCH-003,Secondary,Kenya,2025-10-07,Completed
+1385,3250,SCH-029,Secondary,Somalia,2026-06-07,Enrolled
+1386,1764,SCH-057,Vocational,South Sudan,2025-03-20,Enrolled
+1387,231,SCH-030,Primary,Ethiopia,2024-10-14,Enrolled
+1388,4089,SCH-025,Adult Learning,Ethiopia,2025-06-22,Enrolled
+1389,749,SCH-009,Vocational,Ethiopia,2025-04-08,Enrolled
+1390,1023,SCH-047,Primary,Kenya,2025-11-01,Enrolled
+1391,2047,SCH-048,Adult Learning,Ethiopia,2025-09-03,Enrolled
+1392,1148,SCH-037,Primary,Ethiopia,2025-10-26,Completed
+1393,2957,SCH-055,Adult Learning,South Sudan,2024-10-14,Completed
+1394,3411,SCH-068,Secondary,Uganda,2025-09-19,Dropped
+1395,4144,SCH-038,Primary,Kenya,2026-03-19,Enrolled
+1396,2623,SCH-016,Adult Learning,Somalia,2024-12-19,Enrolled
+1397,3052,SCH-052,Vocational,Somalia,2024-08-17,Dropped
+1398,3498,SCH-073,Primary,Kenya,2024-10-22,Dropped
+1399,4887,SCH-074,Primary,Somalia,2025-10-15,Completed
+1400,4110,SCH-041,Secondary,Uganda,2024-11-14,Completed
+1401,3705,SCH-076,Adult Learning,Ethiopia,2025-06-22,Enrolled
+1402,1490,SCH-028,Secondary,Uganda,2024-10-12,Dropped
+1403,3058,SCH-049,Primary,Somalia,2025-06-21,Dropped
+1404,144,SCH-005,Secondary,Ethiopia,2026-06-04,Enrolled
+1405,1418,SCH-004,Adult Learning,Somalia,2025-01-29,Dropped
+1406,4290,SCH-058,Vocational,Ethiopia,2026-02-21,Enrolled
+1407,80,SCH-044,Vocational,Ethiopia,2025-04-21,Completed
+1408,2355,SCH-054,Primary,Ethiopia,2025-02-22,Completed
+1409,1473,SCH-052,Secondary,Uganda,2024-09-27,Enrolled
+1410,1502,SCH-019,Primary,Uganda,2025-04-12,Enrolled
+1411,2830,SCH-032,Primary,Somalia,2024-12-21,Enrolled
+1412,1649,SCH-046,Vocational,Kenya,2025-10-30,Completed
+1413,3228,SCH-020,Secondary,Ethiopia,2024-10-18,Enrolled
+1414,2828,SCH-065,Vocational,South Sudan,2024-12-20,Enrolled
+1415,3539,SCH-076,Primary,Kenya,2025-12-03,Enrolled
+1416,4201,SCH-080,Secondary,South Sudan,2024-12-03,Enrolled
+1417,2592,SCH-027,Vocational,Uganda,2024-12-21,Enrolled
+1418,2468,SCH-016,Primary,Uganda,2025-04-30,Enrolled
+1419,4348,SCH-052,Primary,Uganda,2024-08-26,Completed
+1420,1775,SCH-075,Adult Learning,Somalia,2026-04-23,Dropped
+1421,2936,SCH-022,Primary,Uganda,2025-02-17,Dropped
+1422,3515,SCH-027,Secondary,Ethiopia,2025-07-12,Dropped
+1423,4683,SCH-003,Vocational,Kenya,2024-08-10,Dropped
+1424,3330,SCH-043,Secondary,Somalia,2024-08-20,Dropped
+1425,20,SCH-054,Secondary,South Sudan,2026-03-17,Dropped
+1426,4420,SCH-051,Vocational,Somalia,2025-07-29,Dropped
+1427,4010,SCH-076,Primary,South Sudan,2025-07-03,Completed
+1428,2220,SCH-041,Primary,South Sudan,2024-07-26,Completed
+1429,4679,SCH-022,Vocational,Ethiopia,2026-02-03,Dropped
+1430,4582,SCH-047,Adult Learning,Uganda,2024-07-28,Dropped
+1431,952,SCH-007,Adult Learning,Uganda,2025-07-28,Enrolled
+1432,1463,SCH-041,Primary,Uganda,2025-02-08,Enrolled
+1433,2986,SCH-030,Vocational,South Sudan,2026-03-06,Enrolled
+1434,2591,SCH-070,Adult Learning,Somalia,2025-02-02,Dropped
+1435,458,SCH-056,Secondary,South Sudan,2026-01-31,Dropped
+1436,2346,SCH-021,Secondary,South Sudan,2025-04-02,Enrolled
+1437,2487,SCH-005,Vocational,Uganda,2026-02-23,Dropped
+1438,3217,SCH-074,Adult Learning,South Sudan,2026-02-09,Dropped
+1439,1266,SCH-052,Secondary,Somalia,2026-04-17,Dropped
+1440,148,SCH-011,Secondary,Ethiopia,2025-12-28,Dropped
+1441,1747,SCH-051,Primary,South Sudan,2024-11-07,Dropped
+1442,1241,SCH-012,Primary,Ethiopia,2026-03-19,Dropped
+1443,4361,SCH-047,Secondary,Ethiopia,2025-01-09,Enrolled
+1444,4246,SCH-022,Primary,Somalia,2025-01-30,Completed
+1445,1638,SCH-016,Primary,Ethiopia,2026-01-02,Dropped
+1446,36,SCH-072,Primary,Ethiopia,2025-12-07,Enrolled
+1447,4727,SCH-065,Primary,Uganda,2024-11-14,Completed
+1448,2302,SCH-066,Vocational,Ethiopia,2025-01-02,Completed
+1449,3446,SCH-040,Primary,Ethiopia,2025-03-10,Dropped
+1450,2195,SCH-067,Adult Learning,Uganda,2025-05-11,Enrolled
+1451,4211,SCH-078,Primary,Kenya,2025-01-29,Completed
+1452,189,SCH-023,Vocational,South Sudan,2025-02-08,Dropped
+1453,3355,SCH-049,Vocational,South Sudan,2025-05-03,Completed
+1454,4850,SCH-053,Secondary,Ethiopia,2025-08-14,Enrolled
+1455,1656,SCH-023,Adult Learning,Ethiopia,2026-04-07,Enrolled
+1456,4466,SCH-039,Secondary,Kenya,2024-08-20,Completed
+1457,463,SCH-023,Primary,Kenya,2024-11-16,Dropped
+1458,2913,SCH-047,Adult Learning,Somalia,2025-04-15,Enrolled
+1459,1146,SCH-056,Primary,Kenya,2025-09-02,Dropped
+1460,4368,SCH-075,Primary,Somalia,2024-08-17,Completed
+1461,537,SCH-050,Primary,Ethiopia,2025-04-10,Dropped
+1462,3860,SCH-004,Vocational,Somalia,2026-02-22,Enrolled
+1463,1157,SCH-069,Vocational,Ethiopia,2025-04-03,Enrolled
+1464,2660,SCH-056,Vocational,Uganda,2024-11-09,Dropped
+1465,949,SCH-007,Adult Learning,South Sudan,2025-09-01,Enrolled
+1466,495,SCH-043,Primary,Ethiopia,2026-02-19,Enrolled
+1467,1259,SCH-056,Vocational,Ethiopia,2024-11-11,Completed
+1468,3062,SCH-024,Primary,Ethiopia,2024-11-21,Enrolled
+1469,796,SCH-072,Secondary,Kenya,2025-03-06,Dropped
+1470,3797,SCH-046,Secondary,Ethiopia,2026-01-26,Completed
+1471,1825,SCH-060,Adult Learning,South Sudan,2026-01-22,Completed
+1472,3440,SCH-034,Adult Learning,Somalia,2025-08-16,Dropped
+1473,365,SCH-015,Vocational,South Sudan,2026-06-08,Enrolled
+1474,910,SCH-036,Primary,Uganda,2026-01-25,Enrolled
+1475,4613,SCH-025,Secondary,Ethiopia,2025-08-21,Completed
+1476,425,SCH-076,Primary,Kenya,2024-08-21,Dropped
+1477,1976,SCH-071,Primary,South Sudan,2025-09-29,Completed
+1478,54,SCH-002,Adult Learning,South Sudan,2025-07-05,Dropped
+1479,1098,SCH-016,Adult Learning,Ethiopia,2025-11-23,Dropped
+1480,4074,SCH-002,Adult Learning,Uganda,2025-12-03,Dropped
+1481,1772,SCH-016,Adult Learning,Kenya,2026-04-08,Dropped
+1482,4723,SCH-007,Primary,Somalia,2024-07-20,Enrolled
+1483,2178,SCH-002,Primary,Kenya,2025-11-04,Enrolled
+1484,4080,SCH-024,Primary,Somalia,2026-06-29,Enrolled
+1485,4,SCH-002,Primary,South Sudan,2026-05-03,Enrolled
+1486,1339,SCH-052,Vocational,Kenya,2025-10-06,Completed
+1487,3802,SCH-044,Adult Learning,Somalia,2025-01-15,Completed
+1488,3106,SCH-050,Primary,Kenya,2026-01-23,Enrolled
+1489,250,SCH-027,Adult Learning,South Sudan,2026-05-05,Completed
+1490,2011,SCH-006,Secondary,Somalia,2026-05-09,Enrolled
+1491,4835,SCH-043,Secondary,Ethiopia,2025-12-24,Enrolled
+1492,2152,SCH-022,Secondary,Uganda,2024-08-28,Completed
+1493,2513,SCH-041,Vocational,Somalia,2026-02-28,Enrolled
+1494,4913,SCH-065,Primary,Uganda,2025-09-19,Enrolled
+1495,439,SCH-013,Secondary,Ethiopia,2026-03-21,Dropped
+1496,4445,SCH-050,Secondary,Kenya,2024-09-23,Completed
+1497,2579,SCH-013,Adult Learning,South Sudan,2025-11-13,Completed
+1498,1680,SCH-009,Primary,Uganda,2025-11-27,Completed
+1499,1043,SCH-071,Adult Learning,Somalia,2025-10-28,Enrolled
+1500,3873,SCH-013,Vocational,Kenya,2025-02-10,Enrolled
+1501,3393,SCH-028,Secondary,Uganda,2024-08-13,Completed
+1502,2916,SCH-012,Adult Learning,Ethiopia,2025-06-04,Dropped
+1503,3558,SCH-007,Adult Learning,Ethiopia,2026-01-03,Dropped
+1504,4946,SCH-028,Primary,Kenya,2026-03-18,Enrolled
+1505,2146,SCH-029,Adult Learning,Somalia,2025-03-30,Enrolled
+1506,1909,SCH-053,Primary,South Sudan,2026-01-11,Dropped
+1507,792,SCH-026,Adult Learning,Kenya,2026-01-11,Enrolled
+1508,2231,SCH-010,Vocational,Ethiopia,2025-01-16,Enrolled
+1509,3771,SCH-032,Primary,Somalia,2024-09-30,Enrolled
+1510,2291,SCH-035,Primary,Kenya,2025-08-14,Dropped
+1511,34,SCH-039,Secondary,Somalia,2024-12-22,Dropped
+1512,4524,SCH-080,Adult Learning,Uganda,2025-03-27,Enrolled
+1513,2386,SCH-027,Adult Learning,Kenya,2024-10-02,Completed
+1514,240,SCH-070,Secondary,Kenya,2026-07-04,Enrolled
+1515,3333,SCH-004,Primary,Uganda,2024-11-23,Dropped
+1516,319,SCH-047,Secondary,Kenya,2026-02-01,Dropped
+1517,3387,SCH-007,Primary,Uganda,2024-09-14,Enrolled
+1518,3599,SCH-007,Primary,South Sudan,2025-04-08,Dropped
+1519,4382,SCH-075,Secondary,Kenya,2025-12-17,Completed
+1520,3705,SCH-052,Vocational,Ethiopia,2026-04-04,Enrolled
+1521,3231,SCH-054,Secondary,Uganda,2026-07-12,Enrolled
+1522,1677,SCH-054,Primary,South Sudan,2025-04-01,Enrolled
+1523,1324,SCH-071,Primary,South Sudan,2025-11-03,Enrolled
+1524,1689,SCH-030,Primary,Kenya,2026-04-10,Enrolled
+1525,1366,SCH-075,Primary,Ethiopia,2026-01-25,Enrolled
+1526,243,SCH-015,Secondary,Somalia,2026-04-07,Dropped
+1527,2642,SCH-045,Vocational,Somalia,2025-07-29,Enrolled
+1528,3369,SCH-078,Vocational,Somalia,2025-04-05,Completed
+1529,1644,SCH-049,Vocational,South Sudan,2024-11-14,Enrolled
+1530,1257,SCH-006,Adult Learning,Uganda,2026-02-22,Completed
+1531,889,SCH-020,Adult Learning,Ethiopia,2025-04-09,Enrolled
+1532,4656,SCH-063,Vocational,Uganda,2025-03-22,Completed
+1533,3302,SCH-054,Secondary,South Sudan,2025-02-17,Enrolled
+1534,3956,SCH-068,Vocational,Somalia,2025-02-18,Enrolled
+1535,707,SCH-003,Secondary,South Sudan,2025-11-13,Completed
+1536,2672,SCH-039,Primary,South Sudan,2025-01-03,Completed
+1537,1512,SCH-014,Primary,Uganda,2026-05-13,Completed
+1538,4708,SCH-046,Vocational,Uganda,2026-07-16,Enrolled
+1539,4232,SCH-042,Adult Learning,Kenya,2025-01-04,Completed
+1540,4920,SCH-075,Vocational,Ethiopia,2025-06-06,Enrolled
+1541,3987,SCH-022,Adult Learning,Uganda,2025-08-04,Enrolled
+1542,4596,SCH-048,Vocational,South Sudan,2026-05-04,Completed
+1543,3072,SCH-035,Primary,Ethiopia,2026-06-29,Completed
+1544,203,SCH-016,Primary,Uganda,2025-04-10,Dropped
+1545,4743,SCH-076,Vocational,Uganda,2025-05-11,Dropped
+1546,216,SCH-042,Primary,Kenya,2025-04-30,Completed
+1547,4095,SCH-031,Primary,Somalia,2025-10-28,Completed
+1548,582,SCH-072,Adult Learning,Somalia,2025-05-07,Enrolled
+1549,3286,SCH-026,Vocational,Somalia,2025-09-29,Completed
+1550,1517,SCH-028,Secondary,Somalia,2025-02-16,Completed
+1551,3233,SCH-042,Adult Learning,Ethiopia,2024-10-21,Enrolled
+1552,762,SCH-046,Vocational,Kenya,2025-11-29,Enrolled
+1553,3859,SCH-013,Primary,Uganda,2025-05-26,Enrolled
+1554,4911,SCH-041,Adult Learning,Somalia,2025-08-15,Enrolled
+1555,3096,SCH-007,Vocational,South Sudan,2025-03-01,Completed
+1556,753,SCH-043,Vocational,Kenya,2025-04-15,Dropped
+1557,1664,SCH-021,Secondary,Ethiopia,2024-10-09,Dropped
+1558,535,SCH-055,Vocational,South Sudan,2024-12-18,Dropped
+1559,1951,SCH-029,Secondary,South Sudan,2026-04-23,Enrolled
+1560,1281,SCH-023,Primary,Ethiopia,2026-02-10,Enrolled
+1561,3963,SCH-026,Vocational,South Sudan,2025-01-25,Enrolled
+1562,361,SCH-042,Secondary,South Sudan,2024-11-04,Enrolled
+1563,4405,SCH-077,Adult Learning,South Sudan,2026-05-22,Dropped
+1564,387,SCH-009,Secondary,South Sudan,2025-10-14,Dropped
+1565,3395,SCH-070,Secondary,Ethiopia,2026-05-08,Enrolled
+1566,829,SCH-069,Vocational,Ethiopia,2026-03-25,Dropped
+1567,3631,SCH-067,Primary,Kenya,2024-12-16,Enrolled
+1568,2635,SCH-019,Primary,Somalia,2025-12-24,Completed
+1569,4573,SCH-029,Secondary,Kenya,2025-02-11,Completed
+1570,4488,SCH-009,Vocational,South Sudan,2026-06-04,Completed
+1571,62,SCH-022,Primary,Somalia,2024-12-23,Dropped
+1572,907,SCH-077,Adult Learning,Uganda,2025-05-20,Enrolled
+1573,4761,SCH-070,Adult Learning,South Sudan,2025-03-29,Completed
+1574,699,SCH-043,Vocational,Somalia,2025-02-26,Dropped
+1575,3207,SCH-079,Adult Learning,Kenya,2026-04-29,Completed
+1576,1598,SCH-036,Secondary,Kenya,2025-11-27,Enrolled
+1577,2411,SCH-049,Vocational,Somalia,2026-07-11,Enrolled
+1578,1065,SCH-001,Vocational,Uganda,2025-07-04,Completed
+1579,1312,SCH-078,Adult Learning,Uganda,2025-05-24,Completed
+1580,965,SCH-050,Secondary,Ethiopia,2026-02-09,Dropped
+1581,665,SCH-034,Secondary,Ethiopia,2026-07-10,Dropped
+1582,1332,SCH-024,Secondary,Uganda,2025-11-05,Enrolled
+1583,3599,SCH-027,Secondary,Somalia,2026-06-25,Enrolled
+1584,4421,SCH-026,Secondary,South Sudan,2025-09-24,Enrolled
+1585,4371,SCH-046,Primary,Somalia,2024-10-22,Dropped
+1586,1522,SCH-046,Adult Learning,Kenya,2025-02-09,Enrolled
+1587,4425,SCH-010,Secondary,Kenya,2024-09-13,Dropped
+1588,437,SCH-074,Vocational,Kenya,2026-02-06,Completed
+1589,1393,SCH-062,Adult Learning,Uganda,2026-02-27,Dropped
+1590,229,SCH-041,Secondary,Uganda,2026-05-27,Enrolled
+1591,2613,SCH-026,Primary,Kenya,2026-03-18,Enrolled
+1592,4596,SCH-075,Primary,Uganda,2025-04-20,Enrolled
+1593,925,SCH-038,Secondary,Ethiopia,2026-05-03,Enrolled
+1594,4425,SCH-017,Adult Learning,Kenya,2025-07-17,Completed
+1595,3766,SCH-020,Vocational,Uganda,2025-10-17,Completed
+1596,3656,SCH-060,Secondary,South Sudan,2026-03-12,Dropped
+1597,2710,SCH-018,Adult Learning,Uganda,2025-05-29,Dropped
+1598,2699,SCH-060,Vocational,Uganda,2025-03-26,Enrolled
+1599,2227,SCH-028,Adult Learning,Somalia,2025-07-09,Completed
+1600,1327,SCH-064,Primary,Somalia,2024-11-12,Dropped
+1601,365,SCH-013,Adult Learning,Ethiopia,2024-11-25,Enrolled
+1602,672,SCH-021,Secondary,Uganda,2025-01-26,Dropped
+1603,3491,SCH-013,Primary,Ethiopia,2025-06-29,Completed
+1604,3437,SCH-041,Adult Learning,Kenya,2026-02-18,Dropped
+1605,3355,SCH-031,Primary,Ethiopia,2025-11-26,Dropped
+1606,2593,SCH-004,Primary,Uganda,2025-11-06,Enrolled
+1607,2308,SCH-039,Primary,South Sudan,2025-01-14,Dropped
+1608,4945,SCH-079,Secondary,Ethiopia,2026-02-10,Completed
+1609,3920,SCH-039,Secondary,South Sudan,2025-06-24,Completed
+1610,856,SCH-024,Vocational,Kenya,2025-02-23,Completed
+1611,3681,SCH-014,Adult Learning,Kenya,2025-11-07,Completed
+1612,1323,SCH-069,Primary,Somalia,2025-03-05,Completed
+1613,1059,SCH-043,Primary,South Sudan,2025-06-08,Dropped
+1614,476,SCH-046,Secondary,Uganda,2026-01-21,Dropped
+1615,435,SCH-023,Secondary,Somalia,2026-07-02,Enrolled
+1616,4678,SCH-075,Adult Learning,Uganda,2026-06-16,Enrolled
+1617,1101,SCH-058,Secondary,South Sudan,2025-01-26,Completed
+1618,3436,SCH-050,Primary,Ethiopia,2025-12-21,Enrolled
+1619,3087,SCH-039,Vocational,Somalia,2025-02-06,Enrolled
+1620,1772,SCH-007,Adult Learning,Kenya,2024-10-26,Dropped
+1621,449,SCH-007,Secondary,Somalia,2026-02-09,Enrolled
+1622,823,SCH-054,Primary,Kenya,2025-01-16,Enrolled
+1623,2752,SCH-017,Primary,South Sudan,2026-06-13,Enrolled
+1624,3891,SCH-001,Vocational,Somalia,2026-03-02,Completed
+1625,1861,SCH-017,Secondary,Uganda,2026-05-29,Enrolled
+1626,3984,SCH-015,Secondary,Somalia,2026-05-24,Enrolled
+1627,915,SCH-054,Vocational,Somalia,2024-12-07,Enrolled
+1628,1506,SCH-066,Secondary,South Sudan,2025-08-09,Enrolled
+1629,2066,SCH-005,Vocational,Somalia,2024-12-23,Enrolled
+1630,171,SCH-034,Primary,Somalia,2026-06-15,Enrolled
+1631,2397,SCH-031,Vocational,Somalia,2026-03-14,Enrolled
+1632,4017,SCH-003,Secondary,Somalia,2026-01-30,Enrolled
+1633,1188,SCH-029,Secondary,Kenya,2025-10-02,Completed
+1634,4209,SCH-076,Adult Learning,Ethiopia,2025-11-21,Dropped
+1635,1047,SCH-065,Secondary,South Sudan,2025-09-01,Enrolled
+1636,196,SCH-006,Vocational,Somalia,2025-04-29,Enrolled
+1637,3315,SCH-016,Secondary,South Sudan,2025-10-15,Completed
+1638,3819,SCH-059,Adult Learning,Somalia,2026-03-09,Enrolled
+1639,1552,SCH-018,Secondary,Kenya,2026-06-29,Completed
+1640,2062,SCH-055,Adult Learning,Kenya,2025-06-13,Enrolled
+1641,1644,SCH-021,Adult Learning,Somalia,2026-05-09,Dropped
+1642,1636,SCH-062,Vocational,Uganda,2026-06-19,Dropped
+1643,1337,SCH-011,Adult Learning,Uganda,2026-02-14,Enrolled
+1644,4874,SCH-013,Vocational,Somalia,2024-10-05,Enrolled
+1645,1869,SCH-067,Primary,Ethiopia,2026-06-12,Enrolled
+1646,2203,SCH-045,Secondary,Uganda,2025-10-28,Enrolled
+1647,4015,SCH-077,Vocational,Kenya,2025-11-14,Dropped
+1648,1019,SCH-024,Secondary,Uganda,2026-06-30,Completed
+1649,3304,SCH-067,Secondary,Ethiopia,2026-05-02,Enrolled
+1650,431,SCH-040,Adult Learning,Somalia,2024-11-03,Enrolled
+1651,1874,SCH-052,Primary,Kenya,2025-04-07,Dropped
+1652,1830,SCH-007,Secondary,Somalia,2026-03-28,Dropped
+1653,3782,SCH-027,Vocational,Somalia,2025-05-01,Dropped
+1654,2908,SCH-028,Vocational,Uganda,2026-01-09,Completed
+1655,4542,SCH-055,Secondary,Ethiopia,2025-07-05,Enrolled
+1656,2311,SCH-036,Adult Learning,Ethiopia,2026-07-08,Enrolled
+1657,1838,SCH-070,Adult Learning,Somalia,2026-06-16,Completed
+1658,957,SCH-039,Primary,Kenya,2025-01-25,Completed
+1659,1697,SCH-064,Vocational,Somalia,2025-12-01,Enrolled
+1660,1375,SCH-075,Primary,Somalia,2025-11-26,Dropped
+1661,3003,SCH-001,Secondary,Somalia,2026-04-29,Dropped
+1662,2019,SCH-064,Vocational,Ethiopia,2025-05-12,Completed
+1663,3264,SCH-044,Adult Learning,Uganda,2026-04-18,Dropped
+1664,206,SCH-076,Adult Learning,South Sudan,2026-07-02,Enrolled
+1665,1703,SCH-050,Adult Learning,South Sudan,2026-06-07,Completed
+1666,4055,SCH-080,Secondary,South Sudan,2024-08-05,Enrolled
+1667,855,SCH-046,Vocational,Kenya,2024-10-09,Dropped
+1668,2197,SCH-022,Adult Learning,Kenya,2025-08-03,Dropped
+1669,2399,SCH-026,Adult Learning,Kenya,2025-02-23,Enrolled
+1670,908,SCH-032,Secondary,Ethiopia,2026-06-12,Completed
+1671,1092,SCH-006,Vocational,Somalia,2024-10-14,Completed
+1672,3887,SCH-026,Adult Learning,South Sudan,2025-08-16,Dropped
+1673,3276,SCH-068,Vocational,Uganda,2025-05-04,Enrolled
+1674,2527,SCH-039,Vocational,Uganda,2025-01-22,Enrolled
+1675,4433,SCH-011,Secondary,Kenya,2026-03-15,Completed
+1676,2973,SCH-009,Secondary,South Sudan,2026-04-12,Completed
+1677,1770,SCH-027,Adult Learning,South Sudan,2024-08-02,Completed
+1678,2834,SCH-003,Adult Learning,Uganda,2026-06-06,Completed
+1679,4550,SCH-011,Primary,Ethiopia,2025-11-06,Dropped
+1680,2893,SCH-019,Vocational,Ethiopia,2025-04-10,Dropped
+1681,1174,SCH-068,Secondary,South Sudan,2026-06-07,Completed
+1682,998,SCH-008,Vocational,Somalia,2024-08-03,Enrolled
+1683,3869,SCH-012,Primary,Ethiopia,2026-04-05,Enrolled
+1684,3334,SCH-008,Adult Learning,Somalia,2024-09-01,Dropped
+1685,3659,SCH-031,Primary,Somalia,2024-08-27,Enrolled
+1686,3083,SCH-060,Secondary,Ethiopia,2026-06-27,Completed
+1687,226,SCH-078,Secondary,Somalia,2025-07-06,Dropped
+1688,4755,SCH-079,Primary,Somalia,2025-05-17,Dropped
+1689,4750,SCH-037,Adult Learning,Kenya,2024-10-19,Completed
+1690,3368,SCH-077,Primary,Somalia,2025-06-24,Dropped
+1691,4154,SCH-068,Adult Learning,Uganda,2026-03-14,Dropped
+1692,1928,SCH-007,Adult Learning,Uganda,2024-09-11,Completed
+1693,677,SCH-071,Secondary,South Sudan,2026-02-03,Enrolled
+1694,3372,SCH-068,Secondary,Ethiopia,2025-02-14,Enrolled
+1695,4711,SCH-018,Secondary,Ethiopia,2025-02-28,Completed
+1696,2680,SCH-037,Primary,South Sudan,2024-09-10,Dropped
+1697,2618,SCH-054,Vocational,South Sudan,2025-06-25,Enrolled
+1698,4782,SCH-051,Adult Learning,Uganda,2025-12-07,Enrolled
+1699,4569,SCH-059,Adult Learning,Uganda,2025-06-17,Dropped
+1700,2083,SCH-049,Vocational,Kenya,2025-08-23,Dropped
+1701,3920,SCH-080,Primary,Ethiopia,2025-11-04,Enrolled
+1702,27,SCH-035,Adult Learning,Uganda,2025-02-15,Dropped
+1703,1231,SCH-021,Adult Learning,Uganda,2025-01-11,Dropped
+1704,3928,SCH-030,Secondary,Uganda,2026-05-12,Enrolled
+1705,921,SCH-067,Vocational,South Sudan,2025-01-06,Dropped
+1706,4302,SCH-040,Primary,Ethiopia,2024-07-21,Enrolled
+1707,3821,SCH-012,Adult Learning,Uganda,2025-02-13,Enrolled
+1708,3120,SCH-006,Secondary,Kenya,2025-08-05,Completed
+1709,4218,SCH-030,Adult Learning,South Sudan,2024-08-10,Completed
+1710,2392,SCH-077,Secondary,South Sudan,2024-08-02,Dropped
+1711,3511,SCH-010,Secondary,Ethiopia,2025-02-06,Enrolled
+1712,2081,SCH-060,Adult Learning,Somalia,2024-11-02,Completed
+1713,1897,SCH-066,Adult Learning,Ethiopia,2026-01-06,Enrolled
+1714,4085,SCH-002,Adult Learning,Kenya,2026-06-19,Enrolled
+1715,333,SCH-022,Vocational,South Sudan,2024-11-26,Dropped
+1716,2576,SCH-010,Primary,Somalia,2026-05-09,Enrolled
+1717,4160,SCH-029,Secondary,Ethiopia,2024-10-18,Completed
+1718,27,SCH-064,Adult Learning,Somalia,2025-04-14,Enrolled
+1719,2419,SCH-047,Adult Learning,Kenya,2025-06-28,Enrolled
+1720,4327,SCH-034,Primary,Uganda,2025-06-22,Completed
+1721,386,SCH-023,Secondary,Somalia,2025-01-07,Enrolled
+1722,4918,SCH-012,Vocational,Uganda,2025-11-18,Dropped
+1723,713,SCH-072,Secondary,Somalia,2024-08-30,Enrolled
+1724,4764,SCH-053,Primary,Ethiopia,2025-12-07,Enrolled
+1725,3720,SCH-067,Vocational,Uganda,2024-08-03,Enrolled
+1726,3754,SCH-056,Primary,Kenya,2026-03-25,Dropped
+1727,2311,SCH-046,Secondary,Ethiopia,2025-04-27,Dropped
+1728,3240,SCH-066,Adult Learning,Uganda,2024-10-30,Enrolled
+1729,3813,SCH-051,Adult Learning,Somalia,2025-02-03,Completed
+1730,1399,SCH-001,Adult Learning,Somalia,2025-09-08,Enrolled
+1731,4004,SCH-074,Vocational,Kenya,2025-04-12,Completed
+1732,2153,SCH-018,Primary,Kenya,2025-04-23,Enrolled
+1733,4965,SCH-067,Primary,South Sudan,2026-01-10,Dropped
+1734,3538,SCH-080,Secondary,Ethiopia,2025-03-26,Dropped
+1735,4329,SCH-006,Vocational,Ethiopia,2024-10-09,Completed
+1736,3046,SCH-033,Primary,Uganda,2026-06-07,Completed
+1737,92,SCH-064,Primary,Somalia,2025-03-04,Completed
+1738,4011,SCH-075,Primary,South Sudan,2024-12-26,Dropped
+1739,1498,SCH-056,Secondary,South Sudan,2025-02-02,Completed
+1740,1196,SCH-023,Secondary,Uganda,2024-10-14,Completed
+1741,3160,SCH-053,Primary,Uganda,2026-01-09,Enrolled
+1742,4124,SCH-057,Secondary,Uganda,2026-02-11,Enrolled
+1743,1390,SCH-017,Vocational,Kenya,2025-06-25,Completed
+1744,1173,SCH-019,Primary,Kenya,2026-04-13,Completed
+1745,4609,SCH-058,Secondary,Ethiopia,2025-01-30,Enrolled
+1746,4418,SCH-056,Adult Learning,South Sudan,2024-10-13,Completed
+1747,450,SCH-010,Secondary,South Sudan,2025-10-22,Dropped
+1748,747,SCH-013,Adult Learning,Uganda,2024-11-06,Enrolled
+1749,3300,SCH-016,Secondary,Somalia,2026-04-23,Dropped
+1750,986,SCH-002,Primary,Uganda,2025-11-09,Completed
+1751,595,SCH-049,Secondary,Somalia,2025-06-05,Enrolled
+1752,3751,SCH-061,Vocational,South Sudan,2026-02-22,Enrolled
+1753,2877,SCH-075,Vocational,Kenya,2025-10-31,Dropped
+1754,2509,SCH-033,Adult Learning,Uganda,2024-08-28,Dropped
+1755,2742,SCH-009,Secondary,South Sudan,2026-01-21,Enrolled
+1756,1718,SCH-072,Secondary,Ethiopia,2025-07-25,Dropped
+1757,348,SCH-068,Vocational,Ethiopia,2025-02-23,Completed
+1758,2393,SCH-011,Adult Learning,South Sudan,2024-07-26,Enrolled
+1759,4777,SCH-069,Adult Learning,Kenya,2026-04-14,Enrolled
+1760,2074,SCH-065,Primary,Somalia,2025-07-02,Enrolled
+1761,3398,SCH-018,Secondary,Ethiopia,2026-01-14,Dropped
+1762,1553,SCH-048,Adult Learning,Uganda,2026-06-25,Enrolled
+1763,4258,SCH-022,Secondary,Somalia,2025-05-10,Completed
+1764,2051,SCH-020,Secondary,South Sudan,2024-10-27,Completed
+1765,1053,SCH-070,Adult Learning,South Sudan,2024-09-21,Dropped
+1766,139,SCH-051,Vocational,South Sudan,2025-11-08,Dropped
+1767,1141,SCH-006,Adult Learning,Kenya,2024-09-20,Completed
+1768,1785,SCH-058,Primary,Kenya,2025-09-27,Enrolled
+1769,104,SCH-077,Vocational,Uganda,2024-09-23,Dropped
+1770,2881,SCH-049,Vocational,South Sudan,2026-05-25,Completed
+1771,695,SCH-018,Secondary,Uganda,2024-10-24,Enrolled
+1772,3138,SCH-016,Vocational,Somalia,2024-10-11,Enrolled
+1773,2587,SCH-021,Adult Learning,Uganda,2026-05-29,Completed
+1774,3934,SCH-066,Adult Learning,Somalia,2026-03-27,Enrolled
+1775,3360,SCH-013,Secondary,South Sudan,2026-02-22,Completed
+1776,2987,SCH-024,Adult Learning,Kenya,2025-09-04,Enrolled
+1777,371,SCH-032,Secondary,Somalia,2026-06-02,Completed
+1778,2482,SCH-016,Secondary,Kenya,2024-11-21,Completed
+1779,4384,SCH-017,Secondary,South Sudan,2025-10-19,Completed
+1780,4648,SCH-044,Secondary,Somalia,2026-04-24,Dropped
+1781,2993,SCH-006,Adult Learning,Kenya,2026-04-04,Completed
+1782,3323,SCH-024,Secondary,Somalia,2025-12-10,Dropped
+1783,4952,SCH-031,Adult Learning,Ethiopia,2024-08-09,Enrolled
+1784,3101,SCH-026,Primary,Kenya,2025-08-15,Completed
+1785,75,SCH-066,Secondary,Somalia,2026-05-16,Dropped
+1786,2174,SCH-045,Vocational,Somalia,2024-11-08,Completed
+1787,2134,SCH-070,Primary,Ethiopia,2025-07-02,Enrolled
+1788,3051,SCH-076,Secondary,Ethiopia,2025-10-30,Dropped
+1789,2066,SCH-068,Primary,South Sudan,2026-02-08,Enrolled
+1790,2211,SCH-022,Secondary,Ethiopia,2024-08-27,Dropped
+1791,4539,SCH-039,Secondary,Ethiopia,2026-01-03,Enrolled
+1792,1185,SCH-039,Vocational,South Sudan,2026-02-24,Dropped
+1793,4273,SCH-047,Vocational,Kenya,2026-03-27,Dropped
+1794,3724,SCH-054,Vocational,South Sudan,2025-08-17,Completed
+1795,1670,SCH-071,Vocational,Kenya,2025-10-19,Completed
+1796,2411,SCH-023,Secondary,Kenya,2025-02-01,Dropped
+1797,4466,SCH-056,Primary,Uganda,2024-09-26,Enrolled
+1798,3774,SCH-064,Vocational,South Sudan,2026-06-03,Enrolled
+1799,3240,SCH-066,Secondary,Ethiopia,2026-01-15,Enrolled
+1800,4121,SCH-015,Vocational,Kenya,2025-12-10,Completed
+1801,67,SCH-026,Vocational,Uganda,2026-06-21,Enrolled
+1802,547,SCH-044,Secondary,Somalia,2025-12-15,Completed
+1803,4861,SCH-016,Vocational,Kenya,2024-12-04,Completed
+1804,1546,SCH-011,Vocational,South Sudan,2025-07-29,Dropped
+1805,1347,SCH-064,Secondary,Ethiopia,2026-04-19,Dropped
+1806,3401,SCH-063,Secondary,Somalia,2024-12-14,Completed
+1807,4036,SCH-007,Adult Learning,South Sudan,2025-08-21,Completed
+1808,2574,SCH-050,Secondary,Uganda,2024-12-30,Enrolled
+1809,460,SCH-070,Adult Learning,South Sudan,2026-01-23,Dropped
+1810,3256,SCH-070,Adult Learning,Somalia,2024-07-25,Dropped
+1811,2271,SCH-074,Adult Learning,South Sudan,2026-03-20,Enrolled
+1812,4814,SCH-057,Vocational,Ethiopia,2025-03-20,Dropped
+1813,2753,SCH-022,Adult Learning,Uganda,2024-08-24,Enrolled
+1814,4392,SCH-069,Adult Learning,Uganda,2025-03-20,Completed
+1815,4452,SCH-004,Secondary,Somalia,2025-11-12,Enrolled
+1816,245,SCH-032,Adult Learning,South Sudan,2025-06-08,Dropped
+1817,1535,SCH-001,Secondary,Ethiopia,2026-05-24,Enrolled
+1818,1919,SCH-079,Vocational,Kenya,2026-02-16,Enrolled
+1819,2052,SCH-053,Primary,Uganda,2026-03-22,Enrolled
+1820,1660,SCH-038,Secondary,Somalia,2025-03-06,Dropped
+1821,2109,SCH-010,Primary,Somalia,2024-11-15,Dropped
+1822,4162,SCH-012,Adult Learning,Uganda,2026-04-15,Dropped
+1823,4272,SCH-023,Adult Learning,South Sudan,2025-02-07,Enrolled
+1824,3440,SCH-068,Secondary,Uganda,2026-03-06,Dropped
+1825,142,SCH-062,Secondary,Uganda,2026-03-02,Enrolled
+1826,646,SCH-019,Adult Learning,Ethiopia,2024-12-27,Completed
+1827,2142,SCH-064,Vocational,Kenya,2024-07-24,Enrolled
+1828,1016,SCH-023,Secondary,Somalia,2026-01-30,Enrolled
+1829,899,SCH-031,Adult Learning,South Sudan,2025-02-15,Dropped
+1830,4889,SCH-050,Vocational,South Sudan,2024-08-19,Dropped
+1831,2365,SCH-038,Adult Learning,Ethiopia,2024-08-09,Enrolled
+1832,1570,SCH-041,Vocational,South Sudan,2025-02-25,Dropped
+1833,165,SCH-060,Secondary,Uganda,2024-10-12,Completed
+1834,3277,SCH-075,Adult Learning,Kenya,2025-05-27,Dropped
+1835,2837,SCH-079,Vocational,Ethiopia,2024-12-24,Dropped
+1836,1514,SCH-028,Adult Learning,Ethiopia,2025-05-31,Enrolled
+1837,2475,SCH-033,Secondary,Ethiopia,2026-06-18,Enrolled
+1838,549,SCH-077,Adult Learning,Uganda,2025-06-17,Completed
+1839,2627,SCH-080,Secondary,Kenya,2026-03-23,Enrolled
+1840,2443,SCH-059,Adult Learning,Kenya,2025-12-04,Completed
+1841,2087,SCH-074,Adult Learning,Uganda,2026-03-03,Dropped
+1842,4978,SCH-048,Secondary,South Sudan,2026-02-02,Dropped
+1843,3268,SCH-020,Secondary,Uganda,2024-12-26,Dropped
+1844,1858,SCH-003,Vocational,Uganda,2026-03-02,Dropped
+1845,1645,SCH-042,Primary,Ethiopia,2026-04-27,Completed
+1846,2596,SCH-063,Primary,Ethiopia,2025-04-21,Completed
+1847,1798,SCH-033,Primary,Ethiopia,2024-10-13,Dropped
+1848,1782,SCH-017,Primary,Ethiopia,2025-07-18,Enrolled
+1849,2772,SCH-040,Vocational,Uganda,2025-04-01,Enrolled
+1850,437,SCH-030,Vocational,South Sudan,2024-09-05,Completed
+1851,2838,SCH-032,Adult Learning,South Sudan,2025-07-02,Completed
+1852,3755,SCH-024,Primary,Somalia,2024-09-04,Enrolled
+1853,1396,SCH-006,Adult Learning,Kenya,2024-09-08,Dropped
+1854,1735,SCH-039,Secondary,Uganda,2025-12-02,Enrolled
+1855,3877,SCH-068,Adult Learning,South Sudan,2026-06-17,Dropped
+1856,3276,SCH-064,Vocational,South Sudan,2025-10-26,Completed
+1857,4429,SCH-057,Vocational,Kenya,2025-12-30,Enrolled
+1858,2437,SCH-023,Adult Learning,Kenya,2025-09-23,Completed
+1859,2595,SCH-003,Adult Learning,Somalia,2026-05-05,Dropped
+1860,912,SCH-036,Secondary,Uganda,2025-11-19,Completed
+1861,537,SCH-025,Primary,Ethiopia,2025-09-18,Enrolled
+1862,4402,SCH-060,Primary,Uganda,2026-07-07,Enrolled
+1863,2658,SCH-025,Primary,Somalia,2025-07-24,Dropped
+1864,1241,SCH-069,Adult Learning,Uganda,2025-12-01,Dropped
+1865,4448,SCH-067,Adult Learning,Somalia,2026-03-07,Dropped
+1866,2896,SCH-052,Secondary,Uganda,2026-03-25,Enrolled
+1867,2150,SCH-013,Secondary,Kenya,2025-01-20,Dropped
+1868,2864,SCH-016,Secondary,South Sudan,2024-12-26,Enrolled
+1869,2432,SCH-031,Vocational,Ethiopia,2026-05-13,Enrolled
+1870,3658,SCH-024,Secondary,South Sudan,2026-01-23,Completed
+1871,2686,SCH-076,Secondary,Ethiopia,2024-10-12,Enrolled
+1872,1343,SCH-046,Primary,Kenya,2025-02-25,Enrolled
+1873,1548,SCH-035,Primary,Uganda,2026-02-07,Completed
+1874,4852,SCH-055,Primary,South Sudan,2025-07-30,Dropped
+1875,364,SCH-030,Vocational,Ethiopia,2025-07-12,Completed
+1876,3013,SCH-018,Adult Learning,South Sudan,2024-08-01,Completed
+1877,835,SCH-007,Secondary,Kenya,2024-08-11,Enrolled
+1878,3416,SCH-055,Secondary,South Sudan,2024-08-30,Enrolled
+1879,101,SCH-017,Adult Learning,Somalia,2025-08-09,Completed
+1880,3825,SCH-047,Primary,Ethiopia,2025-09-19,Enrolled
+1881,885,SCH-074,Secondary,Kenya,2026-04-24,Completed
+1882,4653,SCH-009,Adult Learning,Uganda,2026-01-08,Completed
+1883,3969,SCH-024,Primary,Uganda,2025-07-05,Dropped
+1884,3974,SCH-023,Vocational,Uganda,2025-04-29,Enrolled
+1885,2208,SCH-002,Vocational,Kenya,2025-04-11,Enrolled
+1886,2103,SCH-001,Primary,Uganda,2025-04-11,Dropped
+1887,4229,SCH-043,Vocational,Kenya,2025-08-07,Completed
+1888,3265,SCH-026,Primary,South Sudan,2026-04-20,Enrolled
+1889,1932,SCH-050,Secondary,Kenya,2025-12-29,Dropped
+1890,2942,SCH-054,Vocational,Kenya,2026-06-04,Dropped
+1891,2922,SCH-012,Primary,Ethiopia,2025-07-04,Dropped
+1892,549,SCH-069,Vocational,Ethiopia,2025-10-17,Enrolled
+1893,2232,SCH-063,Primary,Uganda,2025-04-02,Completed
+1894,2605,SCH-076,Vocational,Kenya,2025-01-03,Enrolled
+1895,3681,SCH-028,Secondary,Uganda,2025-12-31,Dropped
+1896,4582,SCH-070,Secondary,Somalia,2024-11-18,Completed
+1897,2956,SCH-018,Secondary,Somalia,2026-01-02,Enrolled
+1898,809,SCH-032,Vocational,South Sudan,2025-07-18,Completed
+1899,3959,SCH-013,Vocational,Somalia,2025-08-06,Dropped
+1900,1908,SCH-040,Adult Learning,Ethiopia,2024-08-31,Dropped
+1901,2305,SCH-073,Secondary,Kenya,2024-09-27,Completed
+1902,2717,SCH-030,Adult Learning,Somalia,2026-05-18,Completed
+1903,1329,SCH-020,Primary,Kenya,2026-04-13,Enrolled
+1904,922,SCH-048,Adult Learning,Somalia,2025-07-12,Completed
+1905,3974,SCH-027,Secondary,Uganda,2024-11-05,Enrolled
+1906,2912,SCH-070,Secondary,Ethiopia,2025-10-22,Enrolled
+1907,1084,SCH-012,Vocational,Ethiopia,2025-08-22,Dropped
+1908,2144,SCH-073,Secondary,Uganda,2026-04-07,Enrolled
+1909,131,SCH-075,Secondary,South Sudan,2025-10-02,Dropped
+1910,4276,SCH-028,Primary,Somalia,2024-10-27,Completed
+1911,1460,SCH-001,Secondary,Somalia,2024-08-27,Dropped
+1912,1262,SCH-069,Secondary,Kenya,2026-06-05,Completed
+1913,1568,SCH-077,Vocational,Ethiopia,2024-12-30,Enrolled
+1914,297,SCH-068,Primary,Uganda,2025-12-06,Enrolled
+1915,4219,SCH-014,Adult Learning,Uganda,2024-08-24,Dropped
+1916,4183,SCH-056,Vocational,Kenya,2025-02-22,Completed
+1917,4060,SCH-037,Primary,South Sudan,2024-09-06,Dropped
+1918,4514,SCH-055,Vocational,Somalia,2025-09-21,Enrolled
+1919,3660,SCH-005,Adult Learning,South Sudan,2024-11-22,Completed
+1920,370,SCH-025,Secondary,Uganda,2025-08-19,Completed
+1921,412,SCH-004,Adult Learning,Kenya,2026-01-20,Enrolled
+1922,3786,SCH-008,Vocational,Somalia,2025-10-01,Completed
+1923,2725,SCH-041,Vocational,Kenya,2024-11-28,Completed
+1924,594,SCH-020,Primary,Somalia,2026-05-14,Enrolled
+1925,2691,SCH-048,Primary,South Sudan,2024-08-12,Completed
+1926,1742,SCH-055,Secondary,South Sudan,2024-09-21,Completed
+1927,1961,SCH-063,Primary,Ethiopia,2025-09-23,Enrolled
+1928,2723,SCH-013,Primary,Uganda,2026-04-12,Enrolled
+1929,4529,SCH-022,Secondary,Uganda,2025-06-27,Enrolled
+1930,4266,SCH-021,Primary,South Sudan,2026-03-23,Completed
+1931,4546,SCH-017,Primary,South Sudan,2025-08-01,Enrolled
+1932,4949,SCH-003,Adult Learning,Uganda,2026-01-22,Completed
+1933,4409,SCH-038,Vocational,Uganda,2025-10-19,Enrolled
+1934,2559,SCH-057,Vocational,Uganda,2025-12-06,Enrolled
+1935,1929,SCH-067,Vocational,Kenya,2025-07-05,Dropped
+1936,1414,SCH-015,Vocational,Kenya,2025-11-04,Enrolled
+1937,4518,SCH-057,Vocational,Ethiopia,2024-11-04,Dropped
+1938,1701,SCH-053,Adult Learning,Uganda,2024-10-01,Enrolled
+1939,1586,SCH-034,Vocational,Uganda,2024-11-16,Completed
+1940,1595,SCH-002,Secondary,Somalia,2026-05-14,Dropped
+1941,2069,SCH-049,Secondary,South Sudan,2026-05-07,Completed
+1942,1402,SCH-025,Primary,Somalia,2025-04-03,Completed
+1943,3193,SCH-038,Vocational,South Sudan,2026-03-11,Enrolled
+1944,2500,SCH-026,Vocational,South Sudan,2026-02-19,Dropped
+1945,4743,SCH-001,Secondary,Somalia,2025-01-11,Dropped
+1946,2674,SCH-017,Vocational,Somalia,2025-04-24,Completed
+1947,253,SCH-049,Primary,Ethiopia,2026-01-10,Enrolled
+1948,238,SCH-046,Adult Learning,Kenya,2025-10-01,Enrolled
+1949,4210,SCH-040,Vocational,Somalia,2025-12-27,Enrolled
+1950,2888,SCH-073,Vocational,Somalia,2024-11-10,Dropped
+1951,739,SCH-020,Primary,Somalia,2025-04-24,Dropped
+1952,26,SCH-013,Adult Learning,Uganda,2025-07-28,Completed
+1953,548,SCH-003,Adult Learning,South Sudan,2024-09-09,Completed
+1954,4239,SCH-064,Primary,Somalia,2025-03-28,Enrolled
+1955,1301,SCH-001,Vocational,Uganda,2026-04-24,Enrolled
+1956,4062,SCH-050,Vocational,Kenya,2025-04-09,Dropped
+1957,1108,SCH-030,Secondary,Uganda,2026-02-17,Enrolled
+1958,556,SCH-041,Secondary,Kenya,2026-03-29,Enrolled
+1959,179,SCH-049,Vocational,Somalia,2025-04-22,Enrolled
+1960,2521,SCH-043,Adult Learning,Kenya,2024-10-15,Enrolled
+1961,2436,SCH-027,Secondary,South Sudan,2025-06-08,Completed
+1962,44,SCH-057,Adult Learning,Somalia,2025-07-13,Enrolled
+1963,704,SCH-032,Secondary,Uganda,2025-03-14,Enrolled
+1964,4782,SCH-048,Adult Learning,Ethiopia,2025-09-02,Completed
+1965,3907,SCH-070,Vocational,Uganda,2026-07-07,Completed
+1966,3348,SCH-062,Vocational,Uganda,2025-10-16,Dropped
+1967,3129,SCH-022,Primary,Uganda,2025-02-03,Enrolled
+1968,3483,SCH-071,Adult Learning,Uganda,2025-08-26,Completed
+1969,4166,SCH-077,Secondary,Somalia,2024-10-14,Enrolled
+1970,2476,SCH-073,Primary,Ethiopia,2026-03-24,Dropped
+1971,4632,SCH-020,Vocational,Somalia,2026-03-31,Dropped
+1972,38,SCH-021,Vocational,Uganda,2026-06-07,Completed
+1973,4791,SCH-004,Primary,Kenya,2025-07-01,Enrolled
+1974,251,SCH-013,Primary,Kenya,2025-11-26,Completed
+1975,1768,SCH-002,Adult Learning,Ethiopia,2024-09-13,Enrolled
+1976,1857,SCH-059,Vocational,Somalia,2024-12-14,Enrolled
+1977,3494,SCH-076,Secondary,South Sudan,2025-11-01,Enrolled
+1978,801,SCH-016,Adult Learning,Somalia,2025-11-08,Dropped
+1979,1854,SCH-072,Secondary,Somalia,2024-09-19,Completed
+1980,3065,SCH-005,Secondary,Kenya,2024-09-22,Dropped
+1981,2390,SCH-051,Secondary,Kenya,2026-02-27,Dropped
+1982,3021,SCH-061,Vocational,South Sudan,2025-12-31,Dropped
+1983,1148,SCH-028,Primary,Ethiopia,2025-09-28,Completed
+1984,3704,SCH-066,Adult Learning,Somalia,2025-09-12,Completed
+1985,3567,SCH-017,Secondary,Somalia,2026-07-13,Completed
+1986,3606,SCH-039,Vocational,Kenya,2025-09-10,Completed
+1987,3457,SCH-074,Secondary,Uganda,2025-05-12,Enrolled
+1988,2093,SCH-065,Secondary,Uganda,2024-12-10,Completed
+1989,2705,SCH-031,Secondary,Kenya,2025-09-20,Enrolled
+1990,4727,SCH-047,Primary,Kenya,2025-01-25,Enrolled
+1991,4630,SCH-009,Vocational,South Sudan,2024-11-03,Completed
+1992,4811,SCH-048,Adult Learning,Somalia,2026-06-08,Dropped
+1993,3968,SCH-063,Vocational,Somalia,2026-05-08,Enrolled
+1994,2101,SCH-034,Vocational,South Sudan,2024-08-18,Completed
+1995,649,SCH-048,Primary,Somalia,2026-05-02,Dropped
+1996,1227,SCH-036,Vocational,South Sudan,2025-06-18,Enrolled
+1997,81,SCH-070,Primary,Somalia,2025-01-03,Completed
+1998,2587,SCH-033,Adult Learning,Kenya,2026-07-14,Completed
+1999,4126,SCH-014,Primary,Somalia,2026-06-01,Completed
+2000,781,SCH-029,Secondary,South Sudan,2026-01-04,Completed
+2001,1504,SCH-059,Adult Learning,Somalia,2025-12-07,Completed
+2002,2461,SCH-007,Vocational,Ethiopia,2024-11-24,Dropped
+2003,2885,SCH-062,Primary,Somalia,2025-10-27,Completed
+2004,4717,SCH-066,Vocational,Uganda,2026-02-16,Dropped
+2005,294,SCH-024,Primary,South Sudan,2025-09-18,Completed
+2006,4084,SCH-076,Vocational,Kenya,2025-01-11,Enrolled
+2007,2967,SCH-024,Vocational,Somalia,2024-10-01,Completed
+2008,97,SCH-048,Vocational,South Sudan,2026-05-05,Completed
+2009,3673,SCH-071,Adult Learning,Uganda,2025-04-17,Enrolled
+2010,4904,SCH-045,Secondary,South Sudan,2026-02-07,Enrolled
+2011,2532,SCH-077,Secondary,Ethiopia,2025-08-04,Dropped
+2012,992,SCH-037,Secondary,Uganda,2024-10-20,Dropped
+2013,2330,SCH-036,Primary,Kenya,2024-08-13,Completed
+2014,351,SCH-052,Adult Learning,Ethiopia,2024-12-01,Dropped
+2015,1465,SCH-042,Primary,South Sudan,2026-02-23,Dropped
+2016,1554,SCH-056,Primary,South Sudan,2025-09-21,Enrolled
+2017,4942,SCH-026,Primary,Somalia,2026-01-17,Dropped
+2018,1910,SCH-076,Secondary,Somalia,2025-05-22,Dropped
+2019,258,SCH-067,Adult Learning,Ethiopia,2026-06-02,Enrolled
+2020,3932,SCH-058,Primary,South Sudan,2025-05-07,Completed
+2021,3746,SCH-075,Adult Learning,Kenya,2025-09-27,Dropped
+2022,2506,SCH-035,Secondary,Somalia,2026-04-07,Enrolled
+2023,4272,SCH-040,Vocational,Ethiopia,2024-08-30,Completed
+2024,2377,SCH-006,Primary,Ethiopia,2025-01-16,Dropped
+2025,513,SCH-058,Secondary,Ethiopia,2025-09-05,Dropped
+2026,2681,SCH-002,Adult Learning,South Sudan,2026-02-18,Completed
+2027,1554,SCH-044,Vocational,Ethiopia,2025-06-13,Completed
+2028,4607,SCH-068,Vocational,Uganda,2025-08-16,Enrolled
+2029,1069,SCH-007,Adult Learning,South Sudan,2025-10-08,Completed
+2030,3744,SCH-056,Secondary,Uganda,2024-12-11,Dropped
+2031,476,SCH-041,Adult Learning,Uganda,2025-09-26,Enrolled
+2032,4717,SCH-050,Vocational,Kenya,2025-06-23,Completed
+2033,1345,SCH-057,Secondary,Kenya,2024-08-09,Completed
+2034,1910,SCH-073,Secondary,Kenya,2025-04-28,Enrolled
+2035,548,SCH-073,Adult Learning,Kenya,2025-06-21,Enrolled
+2036,1615,SCH-080,Adult Learning,Somalia,2025-01-16,Completed
+2037,1431,SCH-009,Primary,Somalia,2025-09-10,Completed
+2038,886,SCH-036,Vocational,Kenya,2026-02-09,Enrolled
+2039,2215,SCH-058,Adult Learning,South Sudan,2025-09-10,Dropped
+2040,3375,SCH-002,Secondary,South Sudan,2024-08-04,Enrolled
+2041,3955,SCH-061,Primary,Ethiopia,2025-06-16,Enrolled
+2042,3120,SCH-045,Adult Learning,Uganda,2024-10-15,Completed
+2043,1383,SCH-059,Primary,Somalia,2025-03-26,Enrolled
+2044,1212,SCH-035,Adult Learning,Ethiopia,2025-05-30,Dropped
+2045,4527,SCH-052,Primary,South Sudan,2026-03-05,Dropped
+2046,1282,SCH-008,Secondary,Somalia,2025-04-03,Enrolled
+2047,2195,SCH-031,Adult Learning,Kenya,2025-05-03,Dropped
+2048,1195,SCH-009,Vocational,Kenya,2025-11-14,Completed
+2049,534,SCH-074,Adult Learning,Uganda,2025-01-20,Completed
+2050,4622,SCH-068,Adult Learning,Uganda,2025-05-13,Completed
+2051,2935,SCH-045,Secondary,South Sudan,2024-10-05,Dropped
+2052,1551,SCH-040,Secondary,South Sudan,2026-01-03,Completed
+2053,1171,SCH-062,Adult Learning,Kenya,2025-04-20,Completed
+2054,3209,SCH-023,Vocational,Somalia,2025-01-26,Dropped
+2055,3666,SCH-019,Adult Learning,South Sudan,2025-04-11,Enrolled
+2056,2574,SCH-002,Primary,Somalia,2025-07-13,Dropped
+2057,3630,SCH-002,Primary,Uganda,2025-06-18,Dropped
+2058,4000,SCH-012,Secondary,Ethiopia,2024-10-09,Enrolled
+2059,765,SCH-043,Primary,Ethiopia,2026-02-06,Enrolled
+2060,3990,SCH-024,Adult Learning,Ethiopia,2025-04-20,Enrolled
+2061,1734,SCH-063,Primary,Kenya,2025-01-18,Dropped
+2062,1305,SCH-071,Secondary,Kenya,2025-08-14,Enrolled
+2063,4864,SCH-009,Primary,Ethiopia,2025-07-19,Dropped
+2064,824,SCH-040,Primary,Somalia,2025-06-18,Enrolled
+2065,4917,SCH-009,Primary,Kenya,2025-03-06,Completed
+2066,1923,SCH-010,Adult Learning,Ethiopia,2024-12-21,Dropped
+2067,3163,SCH-012,Vocational,Uganda,2026-04-28,Enrolled
+2068,2873,SCH-038,Secondary,South Sudan,2024-11-29,Completed
+2069,3994,SCH-019,Primary,Somalia,2026-03-04,Dropped
+2070,2853,SCH-054,Adult Learning,Kenya,2024-07-21,Dropped
+2071,272,SCH-077,Adult Learning,Ethiopia,2026-01-16,Enrolled
+2072,3615,SCH-050,Primary,Somalia,2025-08-17,Enrolled
+2073,4645,SCH-025,Vocational,South Sudan,2025-11-22,Dropped
+2074,2183,SCH-002,Secondary,Somalia,2024-10-13,Dropped
+2075,65,SCH-044,Secondary,Kenya,2026-05-21,Enrolled
+2076,1878,SCH-046,Secondary,South Sudan,2025-12-09,Enrolled
+2077,1537,SCH-020,Vocational,Kenya,2025-12-14,Dropped
+2078,4258,SCH-047,Primary,Kenya,2025-07-19,Dropped
+2079,2129,SCH-049,Primary,Kenya,2025-03-22,Dropped
+2080,573,SCH-039,Secondary,Kenya,2025-05-05,Dropped
+2081,3136,SCH-059,Adult Learning,South Sudan,2026-02-27,Enrolled
+2082,1464,SCH-024,Adult Learning,Somalia,2025-03-20,Completed
+2083,2170,SCH-017,Vocational,South Sudan,2025-09-29,Completed
+2084,153,SCH-026,Vocational,South Sudan,2025-12-17,Enrolled
+2085,23,SCH-013,Secondary,South Sudan,2026-06-28,Enrolled
+2086,93,SCH-058,Adult Learning,Somalia,2025-11-13,Dropped
+2087,3807,SCH-039,Secondary,Uganda,2024-09-26,Enrolled
+2088,459,SCH-034,Primary,Kenya,2024-09-10,Enrolled
+2089,705,SCH-074,Primary,Uganda,2025-08-18,Dropped
+2090,4543,SCH-032,Secondary,South Sudan,2025-11-18,Dropped
+2091,3082,SCH-004,Vocational,Somalia,2024-08-30,Enrolled
+2092,44,SCH-058,Vocational,South Sudan,2026-03-29,Completed
+2093,3554,SCH-051,Secondary,Uganda,2025-08-04,Completed
+2094,1432,SCH-055,Adult Learning,Kenya,2026-04-21,Enrolled
+2095,4847,SCH-068,Secondary,Uganda,2024-07-28,Dropped
+2096,1753,SCH-028,Adult Learning,South Sudan,2026-04-13,Dropped
+2097,58,SCH-054,Adult Learning,Kenya,2025-05-23,Completed
+2098,2005,SCH-005,Secondary,Somalia,2024-10-13,Dropped
+2099,1099,SCH-034,Primary,Uganda,2025-09-04,Completed
+2100,2782,SCH-007,Secondary,Kenya,2024-09-05,Enrolled
+2101,2411,SCH-038,Vocational,Uganda,2025-01-06,Enrolled
+2102,4709,SCH-020,Primary,Ethiopia,2025-01-04,Enrolled
+2103,4948,SCH-029,Adult Learning,South Sudan,2025-01-27,Completed
+2104,41,SCH-011,Secondary,South Sudan,2025-02-07,Dropped
+2105,3035,SCH-043,Vocational,Kenya,2026-03-30,Completed
+2106,2574,SCH-055,Secondary,Ethiopia,2025-04-10,Enrolled
+2107,2282,SCH-039,Vocational,Kenya,2025-11-22,Dropped
+2108,3190,SCH-056,Primary,Ethiopia,2025-02-05,Enrolled
+2109,4193,SCH-063,Secondary,Uganda,2025-06-09,Dropped
+2110,484,SCH-029,Adult Learning,Ethiopia,2026-04-01,Completed
+2111,4293,SCH-023,Vocational,Ethiopia,2026-03-02,Enrolled
+2112,2785,SCH-077,Secondary,South Sudan,2024-10-31,Dropped
+2113,543,SCH-075,Adult Learning,Somalia,2025-07-05,Enrolled
+2114,1489,SCH-058,Adult Learning,South Sudan,2024-07-19,Completed
+2115,846,SCH-059,Vocational,Ethiopia,2024-10-21,Completed
+2116,3409,SCH-069,Secondary,South Sudan,2025-08-16,Completed
+2117,1056,SCH-015,Primary,Uganda,2025-02-24,Completed
+2118,2492,SCH-056,Vocational,Somalia,2025-05-18,Completed
+2119,814,SCH-062,Primary,South Sudan,2025-01-25,Dropped
+2120,855,SCH-058,Secondary,Somalia,2025-03-03,Enrolled
+2121,1602,SCH-019,Secondary,Kenya,2026-01-31,Dropped
+2122,3167,SCH-004,Adult Learning,Ethiopia,2025-06-09,Enrolled
+2123,4306,SCH-068,Primary,Somalia,2026-01-17,Completed
+2124,2617,SCH-020,Vocational,Somalia,2026-06-24,Dropped
+2125,2926,SCH-014,Vocational,South Sudan,2026-04-14,Enrolled
+2126,2595,SCH-001,Vocational,South Sudan,2026-05-09,Enrolled
+2127,1531,SCH-047,Secondary,Somalia,2026-06-27,Completed
+2128,3857,SCH-022,Primary,Somalia,2025-07-19,Dropped
+2129,3135,SCH-063,Secondary,Kenya,2024-10-12,Completed
+2130,4553,SCH-056,Primary,South Sudan,2025-05-06,Dropped
+2131,1167,SCH-044,Primary,Uganda,2025-11-05,Dropped
+2132,4702,SCH-040,Vocational,Somalia,2026-07-13,Completed
+2133,4511,SCH-013,Primary,Kenya,2026-05-02,Enrolled
+2134,1209,SCH-026,Adult Learning,Uganda,2025-12-10,Completed
+2135,707,SCH-069,Primary,Ethiopia,2026-01-11,Dropped
+2136,1571,SCH-044,Adult Learning,Ethiopia,2025-09-28,Enrolled
+2137,2272,SCH-035,Vocational,Ethiopia,2026-02-15,Enrolled
+2138,3633,SCH-008,Vocational,Kenya,2024-09-28,Enrolled
+2139,2198,SCH-012,Vocational,Somalia,2026-01-24,Dropped
+2140,3353,SCH-021,Adult Learning,South Sudan,2025-03-23,Completed
+2141,436,SCH-019,Vocational,Kenya,2024-10-02,Dropped
+2142,526,SCH-034,Primary,South Sudan,2025-06-14,Enrolled
+2143,2420,SCH-002,Adult Learning,Somalia,2026-02-21,Completed
+2144,1551,SCH-020,Adult Learning,Somalia,2025-06-15,Enrolled
+2145,4158,SCH-027,Vocational,Somalia,2025-01-22,Completed
+2146,4922,SCH-045,Vocational,Uganda,2025-06-10,Enrolled
+2147,4564,SCH-057,Adult Learning,Uganda,2024-08-13,Dropped
+2148,4145,SCH-040,Secondary,South Sudan,2025-10-27,Dropped
+2149,1943,SCH-039,Vocational,South Sudan,2025-12-12,Enrolled
+2150,1998,SCH-058,Adult Learning,Somalia,2024-08-12,Completed
+2151,4172,SCH-045,Primary,South Sudan,2025-05-16,Dropped
+2152,705,SCH-011,Primary,South Sudan,2025-03-05,Enrolled
+2153,322,SCH-043,Secondary,Uganda,2025-12-06,Enrolled
+2154,2911,SCH-012,Primary,Somalia,2026-03-31,Completed
+2155,2278,SCH-052,Vocational,Kenya,2025-12-11,Completed
+2156,4001,SCH-014,Adult Learning,Kenya,2026-02-09,Enrolled
+2157,3956,SCH-027,Primary,Somalia,2026-02-23,Dropped
+2158,44,SCH-062,Vocational,Ethiopia,2026-05-03,Completed
+2159,2235,SCH-055,Vocational,Somalia,2026-03-23,Enrolled
+2160,4787,SCH-003,Vocational,South Sudan,2025-06-11,Enrolled
+2161,2659,SCH-045,Vocational,South Sudan,2025-06-05,Dropped
+2162,4011,SCH-035,Primary,Uganda,2025-04-28,Completed
+2163,976,SCH-045,Secondary,Ethiopia,2025-06-27,Dropped
+2164,2542,SCH-072,Vocational,Ethiopia,2025-04-11,Completed
+2165,1611,SCH-009,Adult Learning,South Sudan,2025-04-30,Dropped
+2166,1587,SCH-005,Secondary,Uganda,2024-10-09,Completed
+2167,3120,SCH-013,Primary,Somalia,2024-12-11,Completed
+2168,3804,SCH-039,Secondary,South Sudan,2025-07-25,Completed
+2169,1288,SCH-080,Adult Learning,Somalia,2025-01-08,Dropped
+2170,1485,SCH-049,Vocational,Ethiopia,2025-02-24,Dropped
+2171,3595,SCH-040,Vocational,Somalia,2024-09-05,Completed
+2172,3725,SCH-019,Vocational,Somalia,2024-09-23,Dropped
+2173,4327,SCH-022,Secondary,Ethiopia,2026-07-19,Dropped
+2174,726,SCH-035,Vocational,Ethiopia,2026-04-15,Enrolled
+2175,2001,SCH-035,Adult Learning,Ethiopia,2026-01-05,Enrolled
+2176,4426,SCH-068,Adult Learning,Kenya,2025-03-31,Completed
+2177,4623,SCH-042,Primary,Uganda,2025-03-29,Dropped
+2178,4708,SCH-053,Secondary,South Sudan,2025-10-05,Dropped
+2179,759,SCH-069,Secondary,Uganda,2026-03-01,Completed
+2180,481,SCH-074,Secondary,South Sudan,2025-07-04,Dropped
+2181,4987,SCH-059,Secondary,Uganda,2026-05-15,Dropped
+2182,329,SCH-021,Adult Learning,South Sudan,2025-08-26,Dropped
+2183,3446,SCH-055,Adult Learning,Kenya,2025-08-10,Dropped
+2184,946,SCH-019,Adult Learning,Ethiopia,2025-04-08,Completed
+2185,167,SCH-068,Adult Learning,Somalia,2025-02-19,Dropped
+2186,818,SCH-049,Adult Learning,Somalia,2024-12-21,Dropped
+2187,1241,SCH-053,Primary,Ethiopia,2024-08-12,Enrolled
+2188,3810,SCH-015,Adult Learning,South Sudan,2025-10-14,Completed
+2189,159,SCH-061,Adult Learning,South Sudan,2024-09-05,Enrolled
+2190,576,SCH-078,Adult Learning,South Sudan,2024-10-01,Enrolled
+2191,2910,SCH-080,Adult Learning,Uganda,2026-03-05,Enrolled
+2192,1029,SCH-007,Adult Learning,Somalia,2026-04-11,Enrolled
+2193,2544,SCH-006,Secondary,Somalia,2025-03-22,Completed
+2194,2008,SCH-040,Vocational,South Sudan,2025-03-07,Dropped
+2195,1900,SCH-075,Vocational,Uganda,2025-03-02,Completed
+2196,2642,SCH-002,Adult Learning,South Sudan,2026-01-08,Enrolled
+2197,2249,SCH-005,Primary,Ethiopia,2026-02-08,Dropped
+2198,1490,SCH-033,Vocational,Somalia,2026-01-11,Enrolled
+2199,715,SCH-019,Primary,Ethiopia,2024-10-01,Enrolled
+2200,2771,SCH-045,Secondary,South Sudan,2024-08-06,Completed
+2201,3593,SCH-035,Primary,South Sudan,2026-03-07,Completed
+2202,1866,SCH-011,Secondary,Somalia,2024-12-06,Enrolled
+2203,3914,SCH-073,Vocational,Uganda,2025-05-09,Enrolled
+2204,3014,SCH-001,Secondary,Kenya,2025-05-16,Dropped
+2205,1663,SCH-019,Primary,Somalia,2024-12-06,Completed
+2206,3484,SCH-068,Adult Learning,Kenya,2024-12-13,Dropped
+2207,2208,SCH-034,Adult Learning,Uganda,2026-02-21,Enrolled
+2208,3887,SCH-003,Adult Learning,Kenya,2025-10-19,Enrolled
+2209,3250,SCH-057,Vocational,Kenya,2024-08-08,Enrolled
+2210,2345,SCH-004,Secondary,South Sudan,2026-04-21,Completed
+2211,2375,SCH-069,Adult Learning,South Sudan,2026-05-12,Completed
+2212,4438,SCH-067,Adult Learning,South Sudan,2025-10-09,Completed
+2213,4099,SCH-044,Vocational,Kenya,2026-04-17,Dropped
+2214,2197,SCH-022,Primary,Ethiopia,2026-07-19,Enrolled
+2215,2604,SCH-053,Adult Learning,Somalia,2026-05-09,Dropped
+2216,3083,SCH-078,Vocational,Ethiopia,2025-11-24,Completed
+2217,2376,SCH-079,Adult Learning,Kenya,2026-02-13,Enrolled
+2218,1307,SCH-041,Primary,Somalia,2025-08-12,Completed
+2219,3047,SCH-080,Primary,Somalia,2026-04-11,Enrolled
+2220,2703,SCH-018,Secondary,Somalia,2026-07-18,Completed
+2221,40,SCH-063,Primary,South Sudan,2025-10-27,Dropped
+2222,3472,SCH-075,Secondary,Ethiopia,2025-08-04,Completed
+2223,2050,SCH-068,Vocational,Uganda,2026-02-20,Completed
+2224,2542,SCH-033,Adult Learning,Uganda,2025-04-19,Completed
+2225,2738,SCH-035,Adult Learning,Ethiopia,2025-01-26,Completed
+2226,928,SCH-015,Adult Learning,Somalia,2026-03-29,Enrolled
+2227,1733,SCH-008,Vocational,Somalia,2025-08-05,Dropped
+2228,3577,SCH-007,Primary,South Sudan,2025-04-24,Completed
+2229,2977,SCH-068,Adult Learning,Somalia,2024-12-18,Dropped
+2230,4376,SCH-053,Adult Learning,Somalia,2026-06-17,Dropped
+2231,2405,SCH-002,Vocational,Kenya,2025-12-10,Completed
+2232,1721,SCH-035,Secondary,Uganda,2024-11-19,Dropped
+2233,526,SCH-009,Adult Learning,Kenya,2025-03-17,Enrolled
+2234,2122,SCH-047,Secondary,Kenya,2025-07-17,Completed
+2235,3196,SCH-051,Primary,Ethiopia,2025-02-02,Enrolled
+2236,2774,SCH-008,Vocational,Somalia,2025-03-10,Enrolled
+2237,3669,SCH-028,Adult Learning,South Sudan,2025-01-17,Dropped
+2238,4847,SCH-066,Secondary,Uganda,2025-09-19,Completed
+2239,4886,SCH-043,Primary,Somalia,2024-12-18,Enrolled
+2240,4482,SCH-024,Secondary,Somalia,2025-02-22,Completed
+2241,728,SCH-036,Vocational,Somalia,2026-05-17,Dropped
+2242,4886,SCH-049,Primary,South Sudan,2025-03-12,Enrolled
+2243,946,SCH-067,Adult Learning,South Sudan,2025-09-27,Dropped
+2244,4129,SCH-057,Adult Learning,Kenya,2025-05-16,Dropped
+2245,774,SCH-036,Adult Learning,Somalia,2026-03-30,Completed
+2246,1659,SCH-067,Primary,South Sudan,2024-11-29,Dropped
+2247,2676,SCH-034,Vocational,South Sudan,2025-01-20,Completed
+2248,4861,SCH-060,Adult Learning,Uganda,2025-09-09,Enrolled
+2249,4834,SCH-071,Adult Learning,South Sudan,2026-02-14,Enrolled
+2250,3070,SCH-075,Adult Learning,Uganda,2025-10-10,Enrolled
+2251,2698,SCH-075,Vocational,Somalia,2026-04-15,Dropped
+2252,4969,SCH-075,Vocational,Kenya,2025-02-19,Completed
+2253,1991,SCH-052,Adult Learning,Somalia,2025-06-08,Completed
+2254,712,SCH-004,Secondary,Kenya,2026-01-02,Completed
+2255,2260,SCH-038,Vocational,Kenya,2024-12-03,Enrolled
+2256,1107,SCH-002,Adult Learning,South Sudan,2024-08-30,Enrolled
+2257,1791,SCH-066,Primary,Uganda,2025-07-18,Completed
+2258,2153,SCH-072,Adult Learning,Ethiopia,2024-10-22,Completed
+2259,2394,SCH-059,Adult Learning,Ethiopia,2025-03-30,Enrolled
+2260,4663,SCH-009,Vocational,Ethiopia,2025-06-13,Enrolled
+2261,92,SCH-055,Adult Learning,Ethiopia,2025-08-13,Enrolled
+2262,1511,SCH-062,Vocational,Kenya,2025-01-23,Completed
+2263,2828,SCH-068,Primary,Somalia,2025-01-19,Completed
+2264,4664,SCH-004,Primary,Uganda,2024-10-12,Enrolled
+2265,938,SCH-023,Adult Learning,Ethiopia,2024-11-01,Completed
+2266,3287,SCH-035,Vocational,Ethiopia,2025-06-30,Dropped
+2267,4168,SCH-040,Secondary,Somalia,2025-09-23,Dropped
+2268,1359,SCH-020,Adult Learning,Kenya,2026-03-01,Enrolled
+2269,4436,SCH-055,Primary,Uganda,2025-05-28,Dropped
+2270,877,SCH-016,Secondary,Kenya,2024-12-01,Completed
+2271,907,SCH-008,Secondary,Uganda,2025-03-17,Completed
+2272,3559,SCH-060,Secondary,South Sudan,2026-01-20,Dropped
+2273,43,SCH-056,Secondary,Somalia,2024-09-02,Dropped
+2274,411,SCH-070,Vocational,Kenya,2025-12-09,Completed
+2275,3340,SCH-067,Primary,South Sudan,2025-09-14,Enrolled
+2276,1558,SCH-051,Vocational,South Sudan,2025-09-27,Dropped
+2277,1359,SCH-026,Adult Learning,Uganda,2026-04-29,Completed
+2278,3554,SCH-075,Secondary,Ethiopia,2025-11-19,Enrolled
+2279,1348,SCH-066,Vocational,Uganda,2026-05-04,Completed
+2280,4323,SCH-001,Primary,Uganda,2025-11-23,Completed
+2281,3246,SCH-008,Primary,Somalia,2025-08-07,Completed
+2282,4608,SCH-048,Primary,South Sudan,2025-04-22,Completed
+2283,3951,SCH-068,Primary,South Sudan,2025-09-20,Enrolled
+2284,1433,SCH-021,Adult Learning,Uganda,2024-11-06,Completed
+2285,1631,SCH-011,Adult Learning,Uganda,2024-09-04,Dropped
+2286,1729,SCH-038,Vocational,South Sudan,2025-01-12,Dropped
+2287,239,SCH-073,Secondary,Kenya,2025-09-04,Completed
+2288,1414,SCH-068,Primary,Ethiopia,2025-03-22,Completed
+2289,482,SCH-080,Primary,Ethiopia,2024-10-04,Dropped
+2290,851,SCH-054,Adult Learning,Kenya,2024-12-25,Completed
+2291,1025,SCH-035,Secondary,Somalia,2025-01-24,Completed
+2292,943,SCH-024,Secondary,Uganda,2025-04-17,Enrolled
+2293,2551,SCH-061,Vocational,Kenya,2025-11-24,Dropped
+2294,3216,SCH-077,Secondary,Somalia,2025-03-13,Dropped
+2295,2214,SCH-019,Adult Learning,Somalia,2025-06-01,Dropped
+2296,2829,SCH-070,Adult Learning,Uganda,2025-11-23,Dropped
+2297,2636,SCH-008,Secondary,Ethiopia,2024-10-24,Dropped
+2298,2215,SCH-025,Adult Learning,Ethiopia,2026-06-18,Completed
+2299,4759,SCH-032,Vocational,Uganda,2026-07-12,Enrolled
+2300,993,SCH-065,Vocational,Uganda,2025-01-24,Dropped
+2301,3449,SCH-009,Adult Learning,South Sudan,2025-03-30,Completed
+2302,316,SCH-023,Vocational,South Sudan,2025-09-24,Dropped
+2303,4334,SCH-061,Primary,South Sudan,2026-07-16,Completed
+2304,3791,SCH-080,Adult Learning,South Sudan,2026-03-15,Dropped
+2305,2584,SCH-044,Primary,Kenya,2025-02-19,Enrolled
+2306,116,SCH-061,Primary,Kenya,2026-05-31,Enrolled
+2307,1237,SCH-007,Adult Learning,Kenya,2026-06-15,Enrolled
+2308,4264,SCH-065,Adult Learning,Uganda,2026-06-02,Dropped
+2309,823,SCH-005,Adult Learning,Uganda,2025-10-03,Enrolled
+2310,2895,SCH-005,Primary,Ethiopia,2025-03-06,Enrolled
+2311,1216,SCH-028,Adult Learning,South Sudan,2024-12-25,Completed
+2312,4882,SCH-043,Secondary,Somalia,2025-08-06,Enrolled
+2313,2213,SCH-037,Vocational,Ethiopia,2026-03-22,Dropped
+2314,4816,SCH-025,Adult Learning,Somalia,2025-06-25,Completed
+2315,1611,SCH-032,Vocational,Ethiopia,2025-01-04,Completed
+2316,795,SCH-005,Vocational,Somalia,2026-01-30,Dropped
+2317,2050,SCH-075,Vocational,Uganda,2024-12-19,Completed
+2318,2337,SCH-001,Secondary,Ethiopia,2026-01-04,Completed
+2319,1069,SCH-058,Primary,Kenya,2025-06-29,Completed
+2320,2262,SCH-039,Secondary,South Sudan,2025-06-27,Dropped
+2321,906,SCH-020,Vocational,Somalia,2026-05-24,Dropped
+2322,614,SCH-019,Secondary,Uganda,2025-05-16,Enrolled
+2323,3977,SCH-032,Adult Learning,South Sudan,2024-08-06,Enrolled
+2324,3165,SCH-062,Primary,Ethiopia,2025-09-08,Dropped
+2325,4436,SCH-029,Secondary,Somalia,2025-04-19,Dropped
+2326,3580,SCH-061,Adult Learning,Ethiopia,2025-07-02,Dropped
+2327,4223,SCH-057,Adult Learning,Uganda,2025-10-02,Enrolled
+2328,1404,SCH-018,Adult Learning,Somalia,2025-05-02,Dropped
+2329,3651,SCH-012,Primary,Kenya,2025-02-05,Enrolled
+2330,4044,SCH-071,Primary,South Sudan,2024-08-28,Completed
+2331,4674,SCH-044,Adult Learning,South Sudan,2025-01-27,Enrolled
+2332,1847,SCH-065,Adult Learning,Kenya,2024-09-03,Dropped
+2333,4251,SCH-076,Primary,Uganda,2025-10-26,Dropped
+2334,4951,SCH-016,Primary,Uganda,2024-12-17,Dropped
+2335,3076,SCH-028,Vocational,Somalia,2026-01-29,Enrolled
+2336,2201,SCH-002,Secondary,Uganda,2025-03-12,Completed
+2337,454,SCH-028,Primary,South Sudan,2025-10-14,Enrolled
+2338,970,SCH-059,Vocational,Uganda,2026-07-05,Dropped
+2339,4407,SCH-031,Secondary,Kenya,2026-01-23,Completed
+2340,4307,SCH-017,Secondary,Ethiopia,2025-12-13,Completed
+2341,1018,SCH-058,Vocational,South Sudan,2025-09-21,Dropped
+2342,1133,SCH-048,Vocational,Ethiopia,2026-01-27,Completed
+2343,591,SCH-071,Vocational,Ethiopia,2025-01-12,Dropped
+2344,1442,SCH-032,Secondary,Kenya,2025-12-17,Completed
+2345,2551,SCH-029,Secondary,Somalia,2024-07-22,Enrolled
+2346,1945,SCH-001,Primary,Ethiopia,2025-09-07,Completed
+2347,353,SCH-051,Primary,South Sudan,2025-08-28,Completed
+2348,3840,SCH-028,Adult Learning,Ethiopia,2025-02-06,Completed
+2349,4807,SCH-030,Primary,South Sudan,2025-07-18,Enrolled
+2350,3841,SCH-039,Secondary,South Sudan,2026-03-15,Completed
+2351,2324,SCH-041,Vocational,Kenya,2026-03-21,Enrolled
+2352,2422,SCH-033,Adult Learning,Kenya,2025-08-21,Completed
+2353,926,SCH-007,Secondary,Somalia,2025-03-23,Enrolled
+2354,3964,SCH-029,Primary,Somalia,2025-07-07,Completed
+2355,3322,SCH-029,Vocational,Kenya,2024-09-29,Enrolled
+2356,391,SCH-066,Primary,Uganda,2026-06-21,Dropped
+2357,4683,SCH-044,Adult Learning,Kenya,2026-06-30,Completed
+2358,3028,SCH-022,Adult Learning,Uganda,2025-08-10,Completed
+2359,2715,SCH-073,Secondary,Ethiopia,2025-01-11,Dropped
+2360,354,SCH-056,Vocational,Kenya,2026-04-19,Completed
+2361,3079,SCH-021,Primary,South Sudan,2025-09-18,Completed
+2362,2896,SCH-031,Secondary,Kenya,2024-11-18,Dropped
+2363,877,SCH-065,Adult Learning,Uganda,2025-05-27,Enrolled
+2364,3009,SCH-024,Vocational,Uganda,2025-04-14,Enrolled
+2365,4781,SCH-066,Primary,Kenya,2024-10-04,Enrolled
+2366,2619,SCH-049,Secondary,South Sudan,2025-05-13,Enrolled
+2367,108,SCH-050,Vocational,Uganda,2024-10-10,Dropped
+2368,2391,SCH-020,Vocational,South Sudan,2026-05-04,Enrolled
+2369,2661,SCH-028,Primary,Ethiopia,2025-06-09,Completed
+2370,3558,SCH-064,Adult Learning,Kenya,2026-05-16,Enrolled
+2371,3258,SCH-055,Adult Learning,Somalia,2025-01-27,Completed
+2372,2844,SCH-004,Adult Learning,Somalia,2026-03-06,Enrolled
+2373,3035,SCH-005,Primary,South Sudan,2025-06-26,Dropped
+2374,3332,SCH-063,Primary,Uganda,2024-10-14,Dropped
+2375,4709,SCH-032,Vocational,Uganda,2024-11-08,Completed
+2376,865,SCH-077,Vocational,Uganda,2025-07-03,Dropped
+2377,4192,SCH-048,Vocational,Kenya,2025-09-25,Enrolled
+2378,2737,SCH-026,Secondary,Ethiopia,2026-05-10,Enrolled
+2379,3127,SCH-007,Secondary,Somalia,2026-05-11,Completed
+2380,4203,SCH-028,Adult Learning,South Sudan,2026-07-12,Completed
+2381,4312,SCH-041,Primary,Ethiopia,2024-11-28,Dropped
+2382,1309,SCH-061,Vocational,Kenya,2024-11-08,Completed
+2383,2780,SCH-021,Secondary,Uganda,2024-07-22,Dropped
+2384,2263,SCH-026,Secondary,Ethiopia,2024-10-15,Completed
+2385,3582,SCH-057,Vocational,Ethiopia,2024-09-26,Completed
+2386,4066,SCH-047,Secondary,Uganda,2024-08-19,Completed
+2387,1616,SCH-043,Secondary,Somalia,2024-08-20,Completed
+2388,2487,SCH-038,Vocational,Uganda,2025-04-20,Dropped
+2389,2292,SCH-046,Adult Learning,Uganda,2025-08-05,Enrolled
+2390,4965,SCH-016,Vocational,Somalia,2024-08-17,Dropped
+2391,3848,SCH-040,Secondary,Uganda,2026-07-19,Completed
+2392,4088,SCH-011,Secondary,Kenya,2024-12-08,Completed
+2393,321,SCH-001,Primary,South Sudan,2025-10-13,Enrolled
+2394,1427,SCH-006,Adult Learning,South Sudan,2026-01-24,Enrolled
+2395,1308,SCH-074,Vocational,Ethiopia,2024-08-16,Dropped
+2396,3372,SCH-052,Primary,Somalia,2026-02-25,Enrolled
+2397,2356,SCH-011,Adult Learning,Ethiopia,2026-01-12,Dropped
+2398,3643,SCH-075,Vocational,Somalia,2025-07-17,Completed
+2399,3961,SCH-029,Secondary,Kenya,2026-06-18,Dropped
+2400,198,SCH-015,Secondary,Somalia,2025-06-16,Completed
+2401,253,SCH-072,Vocational,Ethiopia,2025-06-18,Enrolled
+2402,3445,SCH-041,Secondary,Kenya,2025-05-21,Dropped
+2403,1681,SCH-049,Secondary,Kenya,2025-03-20,Dropped
+2404,4955,SCH-048,Primary,South Sudan,2025-05-25,Dropped
+2405,3751,SCH-032,Secondary,South Sudan,2025-11-24,Enrolled
+2406,4446,SCH-009,Adult Learning,Uganda,2025-09-16,Dropped
+2407,4056,SCH-023,Secondary,Ethiopia,2024-12-01,Enrolled
+2408,2479,SCH-033,Vocational,Somalia,2025-05-25,Enrolled
+2409,2950,SCH-015,Primary,South Sudan,2025-05-08,Dropped
+2410,1616,SCH-029,Primary,Ethiopia,2024-09-21,Enrolled
+2411,1593,SCH-035,Vocational,Uganda,2025-06-05,Enrolled
+2412,1806,SCH-050,Vocational,South Sudan,2025-01-23,Completed
+2413,3443,SCH-023,Adult Learning,Somalia,2025-04-13,Dropped
+2414,614,SCH-066,Primary,South Sudan,2024-08-20,Completed
+2415,1609,SCH-016,Secondary,Kenya,2025-12-28,Completed
+2416,2437,SCH-077,Secondary,South Sudan,2025-06-13,Completed
+2417,3358,SCH-051,Secondary,South Sudan,2024-12-27,Enrolled
+2418,2950,SCH-046,Vocational,Ethiopia,2025-04-07,Enrolled
+2419,658,SCH-044,Primary,Uganda,2026-01-08,Enrolled
+2420,3374,SCH-075,Adult Learning,Somalia,2025-01-09,Completed
+2421,1817,SCH-066,Secondary,Uganda,2025-04-25,Dropped
+2422,39,SCH-050,Secondary,Kenya,2026-06-14,Dropped
+2423,3276,SCH-030,Primary,Somalia,2025-01-12,Completed
+2424,3159,SCH-032,Primary,South Sudan,2024-08-20,Enrolled
+2425,2757,SCH-037,Vocational,Kenya,2024-12-23,Completed
+2426,1916,SCH-028,Vocational,Kenya,2024-09-03,Completed
+2427,981,SCH-031,Vocational,Uganda,2024-10-08,Enrolled
+2428,1466,SCH-075,Secondary,South Sudan,2026-03-07,Completed
+2429,2276,SCH-035,Secondary,Somalia,2025-05-13,Completed
+2430,1647,SCH-004,Vocational,Ethiopia,2025-10-29,Enrolled
+2431,4705,SCH-004,Vocational,Ethiopia,2024-10-08,Completed
+2432,2677,SCH-047,Vocational,Kenya,2024-11-06,Completed
+2433,448,SCH-056,Adult Learning,Kenya,2025-06-10,Completed
+2434,900,SCH-064,Primary,Uganda,2026-02-24,Dropped
+2435,4578,SCH-063,Adult Learning,South Sudan,2025-07-02,Dropped
+2436,3635,SCH-047,Adult Learning,Uganda,2025-12-24,Completed
+2437,3529,SCH-067,Vocational,Kenya,2025-06-07,Completed
+2438,2759,SCH-031,Secondary,Uganda,2026-04-09,Completed
+2439,3265,SCH-024,Adult Learning,Somalia,2025-01-06,Completed
+2440,2586,SCH-034,Adult Learning,Somalia,2025-11-30,Dropped
+2441,984,SCH-010,Adult Learning,South Sudan,2025-10-08,Dropped
+2442,2517,SCH-044,Adult Learning,Somalia,2026-07-07,Enrolled
+2443,293,SCH-009,Vocational,South Sudan,2024-09-10,Completed
+2444,1154,SCH-057,Primary,South Sudan,2025-04-06,Completed
+2445,3495,SCH-046,Secondary,Somalia,2026-04-18,Dropped
+2446,730,SCH-073,Vocational,Somalia,2025-01-06,Completed
+2447,3972,SCH-020,Adult Learning,South Sudan,2026-01-18,Dropped
+2448,3150,SCH-022,Primary,Uganda,2026-06-10,Completed
+2449,2815,SCH-078,Secondary,Uganda,2025-04-02,Completed
+2450,3052,SCH-073,Vocational,Uganda,2026-06-18,Completed
+2451,2195,SCH-020,Adult Learning,Kenya,2024-09-05,Dropped
+2452,1896,SCH-069,Adult Learning,South Sudan,2025-11-17,Completed
+2453,1806,SCH-073,Adult Learning,South Sudan,2025-10-21,Dropped
+2454,1787,SCH-040,Secondary,Uganda,2025-05-23,Enrolled
+2455,1569,SCH-063,Adult Learning,Uganda,2025-03-31,Completed
+2456,4741,SCH-051,Primary,Ethiopia,2025-09-19,Completed
+2457,272,SCH-014,Primary,South Sudan,2025-08-14,Completed
+2458,1812,SCH-034,Primary,Kenya,2025-02-01,Dropped
+2459,203,SCH-067,Secondary,Somalia,2025-02-01,Dropped
+2460,1025,SCH-043,Secondary,South Sudan,2024-12-07,Completed
+2461,3468,SCH-047,Primary,South Sudan,2024-09-01,Enrolled
+2462,263,SCH-028,Adult Learning,Kenya,2024-10-22,Dropped
+2463,1417,SCH-024,Primary,Ethiopia,2024-09-26,Completed
+2464,2921,SCH-025,Secondary,South Sudan,2024-11-26,Dropped
+2465,1796,SCH-031,Primary,Kenya,2025-07-14,Completed
+2466,1094,SCH-039,Primary,South Sudan,2026-06-05,Enrolled
+2467,597,SCH-020,Primary,Kenya,2025-06-11,Dropped
+2468,1897,SCH-034,Secondary,Kenya,2024-09-18,Completed
+2469,403,SCH-036,Secondary,Somalia,2025-03-17,Enrolled
+2470,4721,SCH-007,Adult Learning,South Sudan,2024-09-27,Dropped
+2471,2007,SCH-041,Secondary,Kenya,2024-11-25,Completed
+2472,3208,SCH-023,Adult Learning,Kenya,2025-05-20,Enrolled
+2473,3901,SCH-052,Primary,Somalia,2026-05-22,Completed
+2474,3109,SCH-012,Primary,Somalia,2025-09-11,Enrolled
+2475,328,SCH-033,Primary,Kenya,2025-10-05,Completed
+2476,1055,SCH-032,Secondary,Kenya,2026-06-19,Enrolled
+2477,1763,SCH-051,Secondary,Somalia,2025-09-21,Dropped
+2478,3011,SCH-054,Primary,Uganda,2025-11-17,Completed
+2479,1240,SCH-030,Adult Learning,Kenya,2025-01-16,Dropped
+2480,2356,SCH-014,Adult Learning,Somalia,2024-08-15,Completed
+2481,2258,SCH-071,Adult Learning,Ethiopia,2026-04-21,Dropped
+2482,2652,SCH-009,Adult Learning,Kenya,2025-04-07,Enrolled
+2483,1479,SCH-078,Vocational,South Sudan,2024-11-16,Enrolled
+2484,796,SCH-041,Vocational,Uganda,2026-07-07,Completed
+2485,2813,SCH-048,Vocational,Kenya,2026-05-04,Enrolled
+2486,2826,SCH-011,Primary,Somalia,2024-08-28,Completed
+2487,3977,SCH-060,Vocational,Kenya,2025-05-08,Enrolled
+2488,744,SCH-012,Vocational,Ethiopia,2026-02-02,Enrolled
+2489,1769,SCH-031,Adult Learning,Somalia,2025-01-29,Enrolled
+2490,4689,SCH-029,Adult Learning,Ethiopia,2024-07-30,Dropped
+2491,4101,SCH-033,Adult Learning,South Sudan,2026-02-23,Dropped
+2492,3251,SCH-034,Primary,Uganda,2024-10-19,Enrolled
+2493,3706,SCH-052,Secondary,Uganda,2025-09-27,Completed
+2494,3463,SCH-030,Primary,South Sudan,2026-07-04,Dropped
+2495,999,SCH-003,Secondary,Ethiopia,2026-05-02,Enrolled
+2496,1729,SCH-078,Primary,South Sudan,2026-06-20,Completed
+2497,94,SCH-055,Primary,Somalia,2025-09-28,Dropped
+2498,1421,SCH-073,Primary,Kenya,2025-08-18,Dropped
+2499,4051,SCH-070,Primary,South Sudan,2025-10-27,Completed
+2500,296,SCH-080,Adult Learning,Uganda,2025-06-30,Completed
+2501,401,SCH-066,Adult Learning,Kenya,2025-08-31,Completed
+2502,406,SCH-070,Primary,Ethiopia,2025-10-03,Dropped
+2503,4407,SCH-048,Secondary,Kenya,2025-06-10,Enrolled
+2504,3042,SCH-080,Primary,Kenya,2026-02-06,Dropped
+2505,389,SCH-014,Primary,South Sudan,2024-08-28,Dropped
+2506,3523,SCH-064,Vocational,Somalia,2025-10-31,Dropped
+2507,347,SCH-020,Secondary,Kenya,2024-12-23,Dropped
+2508,4058,SCH-080,Primary,Uganda,2025-04-18,Dropped
+2509,2431,SCH-033,Primary,Uganda,2026-06-17,Enrolled
+2510,3820,SCH-012,Vocational,Ethiopia,2024-11-07,Completed
+2511,634,SCH-039,Secondary,South Sudan,2024-07-29,Enrolled
+2512,2595,SCH-079,Primary,Somalia,2026-03-05,Dropped
+2513,4383,SCH-075,Vocational,Ethiopia,2024-11-07,Completed
+2514,1063,SCH-062,Primary,Somalia,2025-10-04,Enrolled
+2515,3067,SCH-059,Vocational,South Sudan,2024-12-26,Dropped
+2516,2966,SCH-033,Primary,Kenya,2024-10-10,Enrolled
+2517,2687,SCH-063,Primary,Kenya,2025-06-11,Completed
+2518,679,SCH-055,Vocational,Somalia,2025-12-21,Completed
+2519,2435,SCH-080,Adult Learning,Somalia,2025-02-12,Completed
+2520,4209,SCH-021,Adult Learning,Somalia,2025-05-18,Dropped
+2521,3979,SCH-069,Secondary,Kenya,2026-01-14,Dropped
+2522,1548,SCH-034,Adult Learning,South Sudan,2024-08-12,Completed
+2523,675,SCH-018,Primary,Ethiopia,2025-05-21,Dropped
+2524,380,SCH-058,Adult Learning,Kenya,2026-04-13,Dropped
+2525,4002,SCH-048,Secondary,South Sudan,2024-11-04,Completed
+2526,4387,SCH-040,Primary,Ethiopia,2025-11-13,Enrolled
+2527,2360,SCH-016,Primary,Uganda,2026-01-13,Dropped
+2528,1233,SCH-010,Adult Learning,Uganda,2025-01-24,Dropped
+2529,111,SCH-035,Primary,Uganda,2025-04-23,Dropped
+2530,4272,SCH-021,Primary,Ethiopia,2025-10-01,Dropped
+2531,915,SCH-068,Adult Learning,Kenya,2025-01-23,Completed
+2532,740,SCH-026,Secondary,Uganda,2025-10-28,Dropped
+2533,955,SCH-045,Secondary,Ethiopia,2026-06-08,Completed
+2534,1939,SCH-032,Adult Learning,Kenya,2025-05-03,Completed
+2535,4996,SCH-069,Secondary,Ethiopia,2026-05-24,Enrolled
+2536,4621,SCH-029,Primary,Uganda,2026-01-28,Enrolled
+2537,1195,SCH-057,Secondary,Ethiopia,2025-01-11,Enrolled
+2538,2966,SCH-066,Primary,Uganda,2024-11-25,Completed
+2539,1649,SCH-011,Vocational,South Sudan,2026-05-28,Dropped
+2540,3724,SCH-029,Vocational,Kenya,2025-10-03,Dropped
+2541,2401,SCH-046,Primary,Somalia,2025-05-06,Dropped
+2542,4299,SCH-016,Primary,South Sudan,2024-08-07,Completed
+2543,3280,SCH-057,Adult Learning,Uganda,2024-12-22,Completed
+2544,2764,SCH-068,Adult Learning,Uganda,2025-10-11,Completed
+2545,466,SCH-045,Primary,Kenya,2026-01-19,Dropped
+2546,1365,SCH-058,Primary,Somalia,2026-05-20,Completed
+2547,559,SCH-051,Vocational,Somalia,2025-10-02,Completed
+2548,1467,SCH-009,Adult Learning,Uganda,2025-01-25,Enrolled
+2549,4874,SCH-017,Adult Learning,Kenya,2024-10-26,Enrolled
+2550,3894,SCH-008,Secondary,Kenya,2026-05-29,Completed
+2551,4423,SCH-076,Vocational,Kenya,2024-08-18,Enrolled
+2552,3695,SCH-019,Adult Learning,Somalia,2026-07-17,Dropped
+2553,3776,SCH-065,Adult Learning,Uganda,2026-04-28,Completed
+2554,2149,SCH-011,Vocational,Uganda,2025-01-20,Dropped
+2555,4664,SCH-037,Vocational,Somalia,2025-04-09,Enrolled
+2556,1772,SCH-026,Vocational,Somalia,2024-10-09,Dropped
+2557,2362,SCH-065,Secondary,Somalia,2026-01-16,Dropped
+2558,3026,SCH-079,Adult Learning,Uganda,2024-11-29,Dropped
+2559,1147,SCH-017,Adult Learning,Ethiopia,2025-09-27,Completed
+2560,743,SCH-019,Secondary,South Sudan,2024-11-10,Dropped
+2561,4532,SCH-013,Vocational,Kenya,2025-07-18,Enrolled
+2562,2573,SCH-062,Primary,Somalia,2025-08-25,Enrolled
+2563,1245,SCH-047,Secondary,Uganda,2025-03-16,Dropped
+2564,600,SCH-066,Primary,Somalia,2025-10-07,Enrolled
+2565,2203,SCH-065,Primary,Uganda,2025-12-23,Enrolled
+2566,4748,SCH-032,Secondary,Kenya,2024-10-11,Completed
+2567,4649,SCH-026,Adult Learning,Uganda,2025-11-15,Dropped
+2568,4452,SCH-059,Vocational,South Sudan,2025-12-24,Completed
+2569,1736,SCH-080,Primary,Somalia,2024-10-19,Dropped
+2570,2430,SCH-015,Vocational,Ethiopia,2024-12-14,Completed
+2571,3108,SCH-010,Adult Learning,Kenya,2024-09-06,Dropped
+2572,3712,SCH-080,Vocational,Kenya,2024-10-28,Enrolled
+2573,827,SCH-005,Secondary,South Sudan,2025-06-19,Dropped
+2574,77,SCH-026,Vocational,Uganda,2025-06-17,Completed
+2575,3948,SCH-027,Adult Learning,South Sudan,2024-10-03,Completed
+2576,2874,SCH-050,Secondary,Kenya,2024-10-09,Enrolled
+2577,1913,SCH-021,Adult Learning,Kenya,2025-08-23,Dropped
+2578,48,SCH-063,Secondary,Somalia,2025-02-18,Enrolled
+2579,474,SCH-001,Primary,Somalia,2026-07-10,Completed
+2580,550,SCH-031,Primary,South Sudan,2025-12-05,Dropped
+2581,3791,SCH-006,Adult Learning,Uganda,2025-09-10,Enrolled
+2582,2224,SCH-030,Vocational,Ethiopia,2025-04-07,Enrolled
+2583,614,SCH-048,Vocational,Kenya,2024-12-01,Completed
+2584,4414,SCH-059,Adult Learning,Uganda,2025-06-18,Completed
+2585,90,SCH-076,Primary,South Sudan,2025-02-14,Enrolled
+2586,1953,SCH-059,Vocational,Uganda,2025-09-12,Dropped
+2587,2062,SCH-023,Primary,South Sudan,2025-07-18,Enrolled
+2588,4316,SCH-064,Secondary,Uganda,2026-04-23,Dropped
+2589,1328,SCH-026,Secondary,Kenya,2025-11-03,Enrolled
+2590,1200,SCH-006,Vocational,Ethiopia,2026-06-18,Completed
+2591,1158,SCH-004,Secondary,Kenya,2025-02-02,Completed
+2592,614,SCH-067,Vocational,Kenya,2026-03-24,Enrolled
+2593,2250,SCH-052,Secondary,Kenya,2024-07-22,Completed
+2594,3674,SCH-044,Vocational,Kenya,2025-02-24,Enrolled
+2595,128,SCH-043,Vocational,Uganda,2026-04-07,Enrolled
+2596,2017,SCH-076,Secondary,Ethiopia,2025-02-28,Dropped
+2597,3483,SCH-066,Adult Learning,Ethiopia,2025-08-31,Completed
+2598,543,SCH-072,Secondary,Somalia,2024-10-05,Dropped
+2599,47,SCH-074,Vocational,South Sudan,2025-06-04,Completed
+2600,430,SCH-075,Adult Learning,Ethiopia,2025-01-10,Enrolled
+2601,4969,SCH-042,Vocational,South Sudan,2026-03-20,Dropped
+2602,2094,SCH-004,Vocational,Uganda,2026-07-09,Dropped
+2603,4205,SCH-040,Secondary,Somalia,2025-06-25,Enrolled
+2604,3972,SCH-060,Adult Learning,Somalia,2024-09-20,Dropped
+2605,565,SCH-063,Primary,Kenya,2026-03-27,Dropped
+2606,3156,SCH-030,Primary,Uganda,2025-06-11,Enrolled
+2607,2298,SCH-027,Secondary,Ethiopia,2025-07-13,Completed
+2608,3609,SCH-045,Vocational,Somalia,2025-06-06,Dropped
+2609,780,SCH-037,Primary,South Sudan,2026-06-26,Dropped
+2610,660,SCH-043,Vocational,Uganda,2026-07-15,Completed
+2611,1208,SCH-025,Secondary,Somalia,2024-10-11,Enrolled
+2612,4767,SCH-021,Adult Learning,South Sudan,2025-01-20,Dropped
+2613,74,SCH-041,Primary,Kenya,2026-02-25,Completed
+2614,2988,SCH-032,Adult Learning,Ethiopia,2025-01-30,Dropped
+2615,2718,SCH-064,Adult Learning,Somalia,2025-05-13,Dropped
+2616,887,SCH-031,Vocational,Ethiopia,2024-12-19,Completed
+2617,62,SCH-068,Vocational,Uganda,2024-12-01,Enrolled
+2618,3850,SCH-028,Secondary,Kenya,2026-02-06,Enrolled
+2619,303,SCH-046,Adult Learning,Kenya,2025-01-07,Dropped
+2620,2424,SCH-018,Secondary,Ethiopia,2025-12-29,Completed
+2621,1797,SCH-053,Secondary,South Sudan,2026-05-26,Completed
+2622,602,SCH-056,Primary,Kenya,2026-06-12,Dropped
+2623,1167,SCH-059,Adult Learning,Somalia,2025-03-19,Dropped
+2624,1289,SCH-006,Primary,Somalia,2025-11-21,Completed
+2625,247,SCH-077,Secondary,Somalia,2024-10-11,Enrolled
+2626,342,SCH-020,Secondary,South Sudan,2025-06-13,Dropped
+2627,4764,SCH-041,Primary,Kenya,2025-07-05,Enrolled
+2628,638,SCH-050,Secondary,Ethiopia,2026-06-07,Dropped
+2629,4458,SCH-038,Adult Learning,Somalia,2025-09-03,Completed
+2630,640,SCH-008,Adult Learning,South Sudan,2025-12-31,Completed
+2631,4374,SCH-063,Vocational,Ethiopia,2025-10-02,Dropped
+2632,2088,SCH-010,Vocational,Somalia,2025-01-04,Enrolled
+2633,2401,SCH-048,Secondary,Somalia,2025-03-29,Dropped
+2634,2755,SCH-063,Primary,South Sudan,2025-07-12,Completed
+2635,4693,SCH-053,Secondary,Uganda,2025-12-24,Dropped
+2636,4136,SCH-038,Vocational,South Sudan,2025-06-11,Enrolled
+2637,1782,SCH-036,Vocational,South Sudan,2024-10-20,Enrolled
+2638,3671,SCH-075,Secondary,Ethiopia,2024-08-25,Completed
+2639,77,SCH-057,Primary,Uganda,2025-06-26,Enrolled
+2640,3836,SCH-056,Adult Learning,Ethiopia,2025-04-08,Dropped
+2641,1174,SCH-069,Secondary,Ethiopia,2025-01-08,Dropped
+2642,1438,SCH-054,Secondary,South Sudan,2025-12-15,Dropped
+2643,4180,SCH-041,Adult Learning,Ethiopia,2025-11-25,Completed
+2644,1619,SCH-048,Vocational,Ethiopia,2026-02-24,Enrolled
+2645,4287,SCH-073,Vocational,Somalia,2024-11-26,Dropped
+2646,2281,SCH-065,Adult Learning,Ethiopia,2024-11-08,Enrolled
+2647,581,SCH-042,Secondary,Somalia,2025-04-08,Dropped
+2648,3070,SCH-043,Adult Learning,Kenya,2026-03-08,Dropped
+2649,3370,SCH-079,Adult Learning,Somalia,2025-12-18,Completed
+2650,2655,SCH-019,Primary,Ethiopia,2025-07-18,Completed
+2651,3218,SCH-030,Vocational,Somalia,2025-07-15,Enrolled
+2652,1484,SCH-066,Secondary,Kenya,2026-03-19,Dropped
+2653,4308,SCH-004,Vocational,Kenya,2025-12-15,Dropped
+2654,4796,SCH-014,Primary,Kenya,2024-12-09,Completed
+2655,827,SCH-071,Secondary,Uganda,2024-10-29,Dropped
+2656,3963,SCH-019,Adult Learning,Kenya,2026-03-17,Dropped
+2657,3746,SCH-006,Secondary,Kenya,2025-11-04,Dropped
+2658,231,SCH-059,Primary,South Sudan,2025-03-02,Completed
+2659,4345,SCH-009,Primary,Uganda,2025-09-04,Enrolled
+2660,976,SCH-058,Adult Learning,Uganda,2025-05-24,Enrolled
+2661,3961,SCH-040,Vocational,Ethiopia,2025-09-05,Enrolled
+2662,1523,SCH-005,Vocational,Ethiopia,2025-10-07,Enrolled
+2663,3091,SCH-030,Adult Learning,Uganda,2025-10-18,Enrolled
+2664,1489,SCH-040,Adult Learning,Uganda,2025-08-17,Enrolled
+2665,4159,SCH-004,Adult Learning,Uganda,2026-03-20,Dropped
+2666,4899,SCH-034,Secondary,Somalia,2026-06-28,Dropped
+2667,1479,SCH-038,Adult Learning,Somalia,2025-07-03,Enrolled
+2668,4153,SCH-046,Secondary,Somalia,2026-06-22,Enrolled
+2669,2088,SCH-027,Secondary,South Sudan,2026-04-24,Enrolled
+2670,3854,SCH-006,Primary,Somalia,2025-01-19,Dropped
+2671,3526,SCH-070,Secondary,Somalia,2025-12-11,Dropped
+2672,1119,SCH-073,Adult Learning,Somalia,2026-03-13,Enrolled
+2673,558,SCH-010,Secondary,Somalia,2026-02-27,Enrolled
+2674,898,SCH-050,Vocational,Kenya,2026-06-12,Enrolled
+2675,885,SCH-036,Secondary,Uganda,2025-01-27,Completed
+2676,4726,SCH-072,Adult Learning,Uganda,2025-03-16,Dropped
+2677,99,SCH-077,Primary,Ethiopia,2025-05-18,Dropped
+2678,4761,SCH-029,Vocational,South Sudan,2024-08-04,Enrolled
+2679,253,SCH-041,Adult Learning,Ethiopia,2024-09-19,Enrolled
+2680,1844,SCH-047,Vocational,Somalia,2025-12-08,Completed
+2681,1,SCH-033,Primary,Somalia,2024-08-28,Dropped
+2682,566,SCH-015,Secondary,Somalia,2025-08-23,Completed
+2683,3755,SCH-052,Vocational,South Sudan,2025-01-09,Dropped
+2684,278,SCH-064,Secondary,Ethiopia,2024-12-04,Completed
+2685,3929,SCH-063,Adult Learning,Somalia,2025-12-07,Enrolled
+2686,259,SCH-049,Secondary,Ethiopia,2025-09-19,Dropped
+2687,778,SCH-063,Vocational,Kenya,2025-10-04,Completed
+2688,2549,SCH-017,Adult Learning,Kenya,2025-04-15,Completed
+2689,876,SCH-040,Vocational,Kenya,2026-07-13,Completed
+2690,4710,SCH-013,Secondary,Somalia,2026-03-23,Dropped
+2691,1005,SCH-071,Secondary,Somalia,2025-08-22,Dropped
+2692,3125,SCH-047,Secondary,Uganda,2024-09-16,Dropped
+2693,3944,SCH-038,Vocational,South Sudan,2025-09-26,Enrolled
+2694,1792,SCH-040,Adult Learning,Somalia,2026-04-08,Enrolled
+2695,1855,SCH-067,Primary,Somalia,2026-02-25,Dropped
+2696,4821,SCH-071,Adult Learning,Kenya,2024-10-26,Dropped
+2697,303,SCH-033,Adult Learning,South Sudan,2025-07-27,Dropped
+2698,1173,SCH-062,Primary,Kenya,2025-08-26,Dropped
+2699,2572,SCH-034,Secondary,South Sudan,2025-05-03,Dropped
+2700,1770,SCH-067,Adult Learning,Somalia,2024-10-15,Dropped
+2701,3483,SCH-030,Vocational,Somalia,2025-02-13,Enrolled
+2702,118,SCH-070,Secondary,Uganda,2026-03-21,Completed
+2703,1320,SCH-068,Adult Learning,Ethiopia,2025-12-29,Dropped
+2704,3008,SCH-073,Primary,South Sudan,2025-05-29,Completed
+2705,2757,SCH-002,Adult Learning,Kenya,2024-10-24,Completed
+2706,1239,SCH-023,Secondary,Kenya,2025-12-13,Enrolled
+2707,749,SCH-067,Primary,Uganda,2025-09-05,Enrolled
+2708,1505,SCH-016,Secondary,Ethiopia,2025-12-12,Enrolled
+2709,1628,SCH-015,Primary,Uganda,2026-04-20,Dropped
+2710,346,SCH-039,Primary,South Sudan,2025-02-05,Dropped
+2711,2259,SCH-031,Vocational,Somalia,2025-11-19,Dropped
+2712,492,SCH-010,Secondary,South Sudan,2024-10-16,Completed
+2713,3340,SCH-077,Vocational,Somalia,2026-06-22,Completed
+2714,4733,SCH-051,Vocational,Somalia,2025-04-09,Enrolled
+2715,3889,SCH-033,Secondary,Uganda,2025-06-30,Enrolled
+2716,683,SCH-034,Adult Learning,Somalia,2025-05-02,Enrolled
+2717,1848,SCH-066,Vocational,Somalia,2026-01-31,Enrolled
+2718,374,SCH-058,Vocational,Somalia,2025-10-07,Enrolled
+2719,2019,SCH-001,Adult Learning,Ethiopia,2025-03-15,Dropped
+2720,1313,SCH-080,Primary,South Sudan,2025-09-10,Dropped
+2721,768,SCH-071,Adult Learning,Kenya,2026-06-24,Dropped
+2722,2250,SCH-046,Secondary,Somalia,2025-05-22,Completed
+2723,176,SCH-069,Adult Learning,Somalia,2024-10-25,Completed
+2724,3613,SCH-069,Vocational,Uganda,2025-03-27,Completed
+2725,2852,SCH-035,Primary,Uganda,2025-06-13,Completed
+2726,3457,SCH-002,Secondary,South Sudan,2026-07-04,Enrolled
+2727,314,SCH-063,Adult Learning,Ethiopia,2024-11-08,Enrolled
+2728,2830,SCH-050,Primary,Somalia,2024-11-22,Enrolled
+2729,1857,SCH-047,Secondary,South Sudan,2025-11-27,Enrolled
+2730,1617,SCH-039,Secondary,Kenya,2026-05-15,Completed
+2731,4422,SCH-011,Adult Learning,Ethiopia,2025-04-12,Dropped
+2732,4847,SCH-026,Adult Learning,Somalia,2026-01-03,Completed
+2733,1724,SCH-002,Secondary,Somalia,2026-06-23,Dropped
+2734,1406,SCH-009,Secondary,Ethiopia,2026-03-13,Completed
+2735,1810,SCH-061,Secondary,Somalia,2026-03-18,Dropped
+2736,355,SCH-027,Adult Learning,Uganda,2025-06-25,Enrolled
+2737,2113,SCH-030,Vocational,Ethiopia,2025-03-12,Completed
+2738,1871,SCH-038,Secondary,Kenya,2024-10-10,Completed
+2739,3646,SCH-039,Primary,Kenya,2025-03-23,Completed
+2740,4398,SCH-056,Primary,Uganda,2026-03-13,Dropped
+2741,4553,SCH-031,Adult Learning,Ethiopia,2026-03-09,Enrolled
+2742,4044,SCH-070,Primary,Somalia,2026-06-17,Enrolled
+2743,4273,SCH-021,Primary,South Sudan,2025-05-08,Enrolled
+2744,3847,SCH-016,Adult Learning,Kenya,2026-05-17,Completed
+2745,2448,SCH-043,Primary,Ethiopia,2025-10-09,Completed
+2746,3535,SCH-057,Vocational,Ethiopia,2026-03-26,Completed
+2747,1290,SCH-022,Adult Learning,Kenya,2025-06-13,Completed
+2748,1281,SCH-024,Secondary,Ethiopia,2026-05-15,Enrolled
+2749,2977,SCH-034,Vocational,Uganda,2024-12-14,Completed
+2750,369,SCH-056,Primary,Kenya,2024-11-19,Enrolled
+2751,4018,SCH-012,Secondary,South Sudan,2025-10-24,Dropped
+2752,903,SCH-067,Primary,Somalia,2025-03-08,Enrolled
+2753,2361,SCH-001,Secondary,Somalia,2026-01-17,Enrolled
+2754,852,SCH-076,Primary,South Sudan,2025-01-14,Enrolled
+2755,4565,SCH-052,Primary,Ethiopia,2024-07-29,Enrolled
+2756,3811,SCH-078,Vocational,Ethiopia,2026-04-08,Completed
+2757,1463,SCH-006,Secondary,Uganda,2025-04-26,Dropped
+2758,3660,SCH-067,Adult Learning,Kenya,2024-11-10,Enrolled
+2759,2905,SCH-067,Secondary,Somalia,2025-12-11,Completed
+2760,4218,SCH-051,Adult Learning,South Sudan,2024-11-23,Dropped
+2761,4721,SCH-007,Primary,Somalia,2026-02-04,Completed
+2762,4906,SCH-038,Adult Learning,Kenya,2025-10-29,Dropped
+2763,1485,SCH-024,Secondary,Somalia,2025-06-30,Completed
+2764,4937,SCH-016,Vocational,Ethiopia,2024-10-15,Completed
+2765,942,SCH-041,Adult Learning,Kenya,2025-02-19,Completed
+2766,2436,SCH-022,Secondary,Ethiopia,2026-02-11,Dropped
+2767,2343,SCH-047,Secondary,South Sudan,2026-05-02,Enrolled
+2768,22,SCH-054,Primary,South Sudan,2025-07-19,Completed
+2769,761,SCH-003,Primary,Ethiopia,2026-03-25,Completed
+2770,2160,SCH-061,Vocational,Uganda,2026-05-13,Dropped
+2771,2805,SCH-059,Adult Learning,Kenya,2025-05-12,Enrolled
+2772,3184,SCH-075,Vocational,Kenya,2024-08-02,Completed
+2773,2533,SCH-031,Adult Learning,Somalia,2024-12-28,Dropped
+2774,3562,SCH-010,Vocational,Kenya,2024-12-28,Enrolled
+2775,1970,SCH-058,Primary,Ethiopia,2025-08-20,Completed
+2776,4617,SCH-035,Adult Learning,Somalia,2026-04-13,Enrolled
+2777,265,SCH-030,Vocational,Somalia,2024-12-05,Enrolled
+2778,2684,SCH-028,Vocational,Kenya,2025-04-25,Enrolled
+2779,57,SCH-058,Primary,Somalia,2025-08-25,Dropped
+2780,3117,SCH-058,Secondary,Uganda,2025-06-27,Enrolled
+2781,2402,SCH-014,Adult Learning,Ethiopia,2025-12-12,Dropped
+2782,2796,SCH-042,Adult Learning,Uganda,2025-09-08,Enrolled
+2783,332,SCH-018,Vocational,Kenya,2025-01-31,Completed
+2784,2826,SCH-017,Vocational,South Sudan,2025-11-04,Enrolled
+2785,2527,SCH-054,Vocational,Uganda,2025-08-20,Enrolled
+2786,4879,SCH-058,Vocational,Ethiopia,2026-03-30,Completed
+2787,4361,SCH-029,Vocational,Uganda,2025-06-03,Completed
+2788,3928,SCH-005,Vocational,Somalia,2025-04-04,Dropped
+2789,3828,SCH-080,Secondary,Kenya,2025-03-15,Dropped
+2790,4225,SCH-026,Primary,Somalia,2025-11-06,Completed
+2791,2694,SCH-040,Primary,South Sudan,2025-11-09,Completed
+2792,4195,SCH-028,Secondary,Kenya,2025-02-24,Completed
+2793,798,SCH-055,Primary,Kenya,2026-05-25,Completed
+2794,4436,SCH-063,Secondary,South Sudan,2025-05-11,Enrolled
+2795,366,SCH-043,Primary,Ethiopia,2026-01-01,Completed
+2796,3094,SCH-067,Vocational,Somalia,2025-03-25,Enrolled
+2797,3213,SCH-034,Primary,South Sudan,2024-09-30,Dropped
+2798,487,SCH-015,Vocational,Somalia,2025-10-03,Completed
+2799,4318,SCH-080,Secondary,Uganda,2024-10-02,Dropped
+2800,2795,SCH-049,Secondary,South Sudan,2026-01-24,Completed
+2801,1984,SCH-028,Adult Learning,Uganda,2026-05-04,Completed
+2802,4158,SCH-064,Primary,Ethiopia,2025-10-23,Enrolled
+2803,1815,SCH-079,Secondary,Somalia,2025-07-17,Completed
+2804,1032,SCH-006,Vocational,Somalia,2025-12-05,Completed
+2805,1872,SCH-050,Secondary,Ethiopia,2025-02-26,Dropped
+2806,4421,SCH-056,Vocational,Ethiopia,2025-12-13,Completed
+2807,4666,SCH-080,Vocational,Uganda,2026-06-13,Enrolled
+2808,3540,SCH-040,Vocational,Uganda,2026-03-30,Completed
+2809,1274,SCH-066,Secondary,South Sudan,2026-04-18,Completed
+2810,4005,SCH-009,Adult Learning,South Sudan,2025-08-17,Enrolled
+2811,4163,SCH-037,Secondary,Kenya,2025-08-07,Enrolled
+2812,2850,SCH-017,Vocational,Kenya,2025-10-09,Completed
+2813,1501,SCH-048,Secondary,Somalia,2025-04-21,Enrolled
+2814,447,SCH-066,Vocational,Kenya,2025-02-04,Dropped
+2815,3793,SCH-010,Vocational,Kenya,2025-04-04,Enrolled
+2816,3939,SCH-009,Vocational,South Sudan,2024-12-13,Completed
+2817,688,SCH-044,Adult Learning,Somalia,2025-01-18,Enrolled
+2818,2329,SCH-010,Adult Learning,South Sudan,2025-12-31,Enrolled
+2819,4736,SCH-045,Primary,Uganda,2025-07-07,Enrolled
+2820,3853,SCH-076,Adult Learning,Somalia,2026-01-06,Dropped
+2821,198,SCH-033,Secondary,Uganda,2025-02-14,Dropped
+2822,3335,SCH-025,Adult Learning,Kenya,2024-11-28,Dropped
+2823,3117,SCH-039,Adult Learning,South Sudan,2024-09-24,Dropped
+2824,3425,SCH-043,Primary,Ethiopia,2024-11-14,Dropped
+2825,4537,SCH-038,Vocational,Somalia,2025-08-01,Completed
+2826,3418,SCH-045,Secondary,South Sudan,2025-02-18,Enrolled
+2827,4273,SCH-074,Primary,Uganda,2025-04-18,Completed
+2828,2901,SCH-055,Vocational,Uganda,2025-12-11,Enrolled
+2829,3804,SCH-038,Vocational,Uganda,2025-10-19,Completed
+2830,222,SCH-006,Primary,Uganda,2026-04-06,Enrolled
+2831,4749,SCH-061,Primary,Kenya,2026-03-08,Completed
+2832,1577,SCH-014,Secondary,Kenya,2026-05-14,Enrolled
+2833,2114,SCH-006,Vocational,South Sudan,2025-09-13,Enrolled
+2834,2154,SCH-064,Primary,South Sudan,2025-09-01,Enrolled
+2835,4413,SCH-034,Secondary,South Sudan,2024-12-09,Completed
+2836,2239,SCH-008,Primary,Ethiopia,2024-10-23,Dropped
+2837,1534,SCH-046,Adult Learning,South Sudan,2026-02-04,Enrolled
+2838,626,SCH-030,Adult Learning,Uganda,2025-10-02,Completed
+2839,1129,SCH-070,Primary,Uganda,2024-08-20,Completed
+2840,1685,SCH-069,Primary,South Sudan,2026-04-16,Completed
+2841,791,SCH-026,Adult Learning,Kenya,2026-04-06,Dropped
+2842,1966,SCH-065,Secondary,Uganda,2026-02-04,Completed
+2843,1472,SCH-071,Secondary,Kenya,2026-05-18,Completed
+2844,1568,SCH-009,Secondary,Ethiopia,2025-09-10,Completed
+2845,3361,SCH-005,Adult Learning,Uganda,2026-07-03,Dropped
+2846,3929,SCH-073,Adult Learning,Somalia,2024-08-18,Dropped
+2847,3307,SCH-080,Vocational,Kenya,2026-03-16,Completed
+2848,4131,SCH-009,Vocational,Kenya,2026-04-11,Dropped
+2849,489,SCH-012,Primary,Kenya,2025-03-11,Completed
+2850,192,SCH-059,Adult Learning,Somalia,2025-11-27,Dropped
+2851,2363,SCH-058,Adult Learning,Uganda,2025-10-31,Enrolled
+2852,259,SCH-017,Vocational,Uganda,2025-10-01,Completed
+2853,1187,SCH-038,Vocational,Ethiopia,2024-09-21,Enrolled
+2854,4790,SCH-016,Primary,South Sudan,2025-10-01,Dropped
+2855,1910,SCH-063,Adult Learning,South Sudan,2025-06-15,Enrolled
+2856,366,SCH-006,Adult Learning,Kenya,2026-04-06,Dropped
+2857,4907,SCH-046,Primary,Somalia,2024-09-04,Enrolled
+2858,3732,SCH-006,Vocational,Somalia,2026-07-06,Dropped
+2859,2374,SCH-036,Adult Learning,Kenya,2026-06-05,Enrolled
+2860,809,SCH-021,Adult Learning,Kenya,2026-01-07,Dropped
+2861,3583,SCH-061,Primary,Kenya,2026-05-05,Completed
+2862,4834,SCH-070,Primary,Uganda,2024-10-26,Enrolled
+2863,4196,SCH-019,Primary,Uganda,2025-10-08,Enrolled
+2864,1694,SCH-007,Primary,Uganda,2024-09-25,Dropped
+2865,4710,SCH-058,Vocational,Kenya,2025-05-02,Enrolled
+2866,2345,SCH-043,Vocational,Ethiopia,2026-06-28,Enrolled
+2867,1781,SCH-057,Vocational,Ethiopia,2024-12-12,Completed
+2868,3199,SCH-029,Adult Learning,Uganda,2025-10-09,Enrolled
+2869,4274,SCH-009,Vocational,Kenya,2025-01-28,Dropped
+2870,3848,SCH-080,Adult Learning,Ethiopia,2025-01-10,Completed
+2871,4630,SCH-004,Adult Learning,Ethiopia,2025-08-23,Enrolled
+2872,1307,SCH-014,Vocational,Somalia,2025-05-14,Completed
+2873,951,SCH-004,Secondary,Uganda,2024-12-29,Enrolled
+2874,836,SCH-057,Secondary,Somalia,2026-04-05,Enrolled
+2875,2414,SCH-005,Vocational,South Sudan,2024-10-24,Enrolled
+2876,58,SCH-064,Adult Learning,Uganda,2025-09-07,Enrolled
+2877,612,SCH-075,Secondary,Kenya,2026-04-25,Enrolled
+2878,1449,SCH-006,Secondary,Ethiopia,2024-09-08,Dropped
+2879,2605,SCH-070,Secondary,Somalia,2025-03-20,Dropped
+2880,299,SCH-056,Vocational,South Sudan,2026-01-26,Completed
+2881,1786,SCH-014,Adult Learning,South Sudan,2025-08-15,Dropped
+2882,1069,SCH-062,Primary,Somalia,2024-10-05,Dropped
+2883,1116,SCH-053,Primary,Somalia,2024-09-19,Enrolled
+2884,2578,SCH-034,Adult Learning,Ethiopia,2025-01-03,Enrolled
+2885,4515,SCH-008,Adult Learning,Ethiopia,2026-06-23,Completed
+2886,1900,SCH-072,Secondary,Kenya,2026-04-10,Dropped
+2887,4854,SCH-048,Vocational,Kenya,2026-06-27,Enrolled
+2888,2817,SCH-048,Vocational,Kenya,2024-12-18,Enrolled
+2889,451,SCH-069,Secondary,Somalia,2025-03-29,Completed
+2890,1648,SCH-032,Secondary,Ethiopia,2025-07-04,Enrolled
+2891,3355,SCH-033,Secondary,Ethiopia,2025-11-27,Completed
+2892,2764,SCH-006,Vocational,Somalia,2026-06-11,Enrolled
+2893,402,SCH-050,Adult Learning,South Sudan,2025-08-29,Completed
+2894,1079,SCH-004,Primary,Ethiopia,2025-09-20,Enrolled
+2895,4729,SCH-073,Secondary,Somalia,2024-07-25,Completed
+2896,3879,SCH-044,Primary,Uganda,2025-04-15,Completed
+2897,2087,SCH-027,Secondary,Uganda,2026-02-21,Dropped
+2898,2909,SCH-059,Secondary,Uganda,2025-01-21,Dropped
+2899,4333,SCH-067,Primary,Ethiopia,2025-09-20,Enrolled
+2900,323,SCH-026,Vocational,Uganda,2025-02-15,Completed
+2901,4415,SCH-054,Vocational,Uganda,2025-01-31,Dropped
+2902,2163,SCH-049,Vocational,Kenya,2025-07-17,Dropped
+2903,249,SCH-013,Secondary,Ethiopia,2025-05-25,Dropped
+2904,327,SCH-070,Vocational,South Sudan,2025-04-03,Enrolled
+2905,4983,SCH-046,Adult Learning,Uganda,2025-10-04,Completed
+2906,4021,SCH-031,Vocational,Ethiopia,2025-09-06,Enrolled
+2907,2821,SCH-068,Vocational,Somalia,2024-08-25,Enrolled
+2908,2780,SCH-074,Vocational,South Sudan,2025-10-22,Dropped
+2909,1909,SCH-079,Adult Learning,South Sudan,2024-08-17,Enrolled
+2910,1899,SCH-028,Vocational,South Sudan,2024-07-19,Enrolled
+2911,2409,SCH-026,Primary,Kenya,2025-12-07,Enrolled
+2912,34,SCH-057,Primary,Kenya,2026-06-10,Enrolled
+2913,2544,SCH-032,Secondary,Ethiopia,2025-02-08,Dropped
+2914,4959,SCH-066,Adult Learning,Kenya,2026-02-17,Dropped
+2915,2719,SCH-069,Vocational,Kenya,2025-12-04,Enrolled
+2916,183,SCH-055,Vocational,South Sudan,2025-06-02,Enrolled
+2917,277,SCH-018,Adult Learning,Ethiopia,2025-12-04,Completed
+2918,416,SCH-069,Secondary,Uganda,2024-09-18,Enrolled
+2919,2331,SCH-018,Primary,Kenya,2025-01-11,Dropped
+2920,3517,SCH-005,Primary,Kenya,2025-12-13,Dropped
+2921,2528,SCH-057,Vocational,Somalia,2025-11-12,Enrolled
+2922,3281,SCH-072,Primary,Somalia,2025-06-01,Completed
+2923,1130,SCH-056,Primary,Kenya,2024-08-06,Enrolled
+2924,3607,SCH-065,Vocational,Ethiopia,2025-05-18,Completed
+2925,2663,SCH-051,Primary,Somalia,2024-11-28,Enrolled
+2926,2129,SCH-036,Primary,Somalia,2025-12-06,Dropped
+2927,1545,SCH-055,Secondary,Ethiopia,2025-09-29,Completed
+2928,1676,SCH-029,Secondary,Somalia,2025-01-24,Completed
+2929,2641,SCH-066,Primary,South Sudan,2025-09-28,Dropped
+2930,1041,SCH-076,Vocational,South Sudan,2025-11-19,Completed
+2931,3748,SCH-036,Primary,Ethiopia,2026-02-25,Completed
+2932,4754,SCH-027,Secondary,Uganda,2025-04-07,Completed
+2933,1423,SCH-074,Secondary,Somalia,2025-08-02,Enrolled
+2934,4801,SCH-004,Vocational,South Sudan,2026-03-21,Enrolled
+2935,1083,SCH-002,Primary,South Sudan,2024-09-01,Enrolled
+2936,4936,SCH-052,Primary,Ethiopia,2025-09-27,Enrolled
+2937,372,SCH-007,Primary,South Sudan,2024-11-17,Dropped
+2938,1637,SCH-010,Vocational,Uganda,2024-11-01,Dropped
+2939,85,SCH-003,Vocational,Kenya,2025-10-02,Dropped
+2940,801,SCH-041,Adult Learning,Ethiopia,2025-05-16,Dropped
+2941,4974,SCH-062,Primary,Kenya,2024-08-06,Dropped
+2942,318,SCH-019,Vocational,South Sudan,2025-01-28,Completed
+2943,2300,SCH-046,Adult Learning,South Sudan,2025-09-08,Enrolled
+2944,3698,SCH-067,Primary,Uganda,2025-07-24,Completed
+2945,2554,SCH-066,Adult Learning,Somalia,2025-09-29,Dropped
+2946,444,SCH-031,Vocational,Uganda,2024-11-07,Enrolled
+2947,3207,SCH-065,Secondary,South Sudan,2025-09-06,Dropped
+2948,806,SCH-013,Vocational,Somalia,2025-05-17,Completed
+2949,1622,SCH-024,Vocational,Ethiopia,2025-12-16,Enrolled
+2950,1170,SCH-063,Secondary,Kenya,2026-06-07,Dropped
+2951,4589,SCH-014,Primary,Uganda,2024-08-14,Completed
+2952,1327,SCH-013,Adult Learning,Somalia,2024-10-23,Enrolled
+2953,2196,SCH-052,Primary,Uganda,2025-11-11,Enrolled
+2954,323,SCH-041,Secondary,Ethiopia,2024-09-01,Enrolled
+2955,126,SCH-003,Secondary,Ethiopia,2026-05-07,Dropped
+2956,1600,SCH-072,Secondary,Kenya,2024-08-24,Completed
+2957,83,SCH-036,Vocational,Somalia,2025-06-04,Enrolled
+2958,1606,SCH-076,Adult Learning,Ethiopia,2024-12-16,Enrolled
+2959,2871,SCH-055,Adult Learning,Somalia,2025-08-19,Enrolled
+2960,504,SCH-059,Adult Learning,Ethiopia,2024-08-05,Dropped
+2961,4313,SCH-034,Adult Learning,Ethiopia,2025-07-18,Completed
+2962,1945,SCH-080,Primary,Ethiopia,2024-09-03,Completed
+2963,94,SCH-079,Adult Learning,Ethiopia,2024-10-13,Completed
+2964,1418,SCH-021,Primary,Ethiopia,2025-03-11,Dropped
+2965,2716,SCH-001,Primary,Uganda,2024-12-31,Enrolled
+2966,3125,SCH-036,Vocational,Somalia,2026-06-17,Completed
+2967,72,SCH-054,Vocational,Ethiopia,2025-05-01,Enrolled
+2968,2839,SCH-062,Primary,Kenya,2025-09-20,Dropped
+2969,1471,SCH-079,Secondary,Somalia,2025-02-14,Completed
+2970,4095,SCH-044,Adult Learning,Uganda,2025-07-24,Enrolled
+2971,4280,SCH-077,Secondary,Uganda,2024-09-20,Dropped
+2972,939,SCH-077,Vocational,Uganda,2025-11-29,Completed
+2973,3109,SCH-058,Secondary,South Sudan,2026-01-02,Completed
+2974,2025,SCH-030,Secondary,Kenya,2025-03-24,Completed
+2975,3308,SCH-031,Adult Learning,Uganda,2025-08-23,Dropped
+2976,638,SCH-069,Vocational,Somalia,2024-09-06,Completed
+2977,3849,SCH-034,Primary,Uganda,2024-09-01,Completed
+2978,1247,SCH-079,Secondary,Kenya,2025-11-22,Dropped
+2979,522,SCH-016,Adult Learning,Somalia,2024-12-12,Dropped
+2980,4414,SCH-024,Vocational,Ethiopia,2024-08-27,Dropped
+2981,1534,SCH-019,Secondary,Somalia,2024-10-06,Completed
+2982,3321,SCH-043,Vocational,South Sudan,2025-10-31,Completed
+2983,1547,SCH-076,Secondary,Ethiopia,2025-04-03,Enrolled
+2984,2605,SCH-014,Vocational,Somalia,2025-04-05,Completed
+2985,4789,SCH-052,Vocational,Kenya,2025-04-26,Completed
+2986,1933,SCH-038,Vocational,Somalia,2026-04-19,Enrolled
+2987,3379,SCH-076,Vocational,Uganda,2024-10-16,Enrolled
+2988,4573,SCH-035,Secondary,Ethiopia,2024-12-30,Dropped
+2989,1768,SCH-023,Primary,Uganda,2025-10-17,Dropped
+2990,3985,SCH-036,Vocational,Kenya,2026-05-28,Enrolled
+2991,387,SCH-014,Vocational,Somalia,2024-11-14,Completed
+2992,284,SCH-066,Primary,Somalia,2024-08-01,Completed
+2993,3152,SCH-054,Primary,South Sudan,2025-02-22,Dropped
+2994,2606,SCH-080,Vocational,Somalia,2026-01-03,Enrolled
+2995,1387,SCH-019,Primary,Ethiopia,2025-10-17,Enrolled
+2996,2321,SCH-038,Primary,Somalia,2026-04-09,Dropped
+2997,885,SCH-054,Secondary,South Sudan,2026-04-07,Enrolled
+2998,863,SCH-004,Vocational,Ethiopia,2024-08-17,Completed
+2999,848,SCH-070,Primary,Kenya,2025-08-28,Enrolled
+3000,1084,SCH-050,Primary,Ethiopia,2026-03-07,Dropped
