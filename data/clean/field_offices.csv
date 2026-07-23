@@ -1,16 +1,16 @@
-office_id,office_code,country,city
-1,FO-001,South Sudan, Nairobi 
-2,FO-002,Kenya,Mogadishu
-3,FO-003,Burundi,Addis Ababa
-4,FO-004,South Sudan,Nairobi
-5,FO-005,Ethiopia,Addis Ababa
-6,FO-006,Kenya,Kampala
-7,FO-007,Somalia,Goma
-8,FO-008,Sudan,Mogadishu
-9,FO-009,Sudan,Kampala
-10,FO-010,Somalia,Addis Ababa
-11,FO-011,DR Congo,Goma
-12,FO-012,Somalia,Juba
-13,FO-013,Burundi,Addis Ababa
-14,FO-014,Tanzania,Goma
-15,FO-015,Sudan,Addis Ababa
+office_id,office_code,country_id,city
+1,FO-001,3,Juba
+2,FO-002,1,Nairobi
+3,FO-003,8,Bujumbura
+4,FO-004,3,Juba
+5,FO-005,4,Addis Ababa
+6,FO-006,1,Nairobi
+7,FO-007,5,Mogadishu
+8,FO-008,10,Khartoum
+9,FO-009,10,Khartoum
+10,FO-010,5,Mogadishu
+11,FO-011,6,Goma
+12,FO-012,5,Kismayo
+13,FO-013,8,Ngozi
+14,FO-014,9,Dodoma
+15,FO-015,10,Omdurman
