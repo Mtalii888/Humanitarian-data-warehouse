@@ -1,11 +1,11 @@
-country_code,country_name,region
-KEN,Kenya,East Africa
-UGA, Uganda ,East Africa
-SSD,South Sudan,East Africa
-ETH,ETHIOPIA,East Africa
-SOM,Somalia,East Africa
-COD,DR Congo,Central Africa
-RWA,Rwanda,East Africa
-BDI,Burundi,East Africa
-TZA,Tanzania,East Africa
-SDN,Sudan,North Africa
+country_code,country_name,region,country_id
+KEN,Kenya,East Africa,1
+UGA,Uganda,East Africa,2
+SSD,South Sudan,East Africa,3
+ETH,Ethiopia,East Africa,4
+SOM,Somalia,East Africa,5
+COD,Dr Congo,Central Africa,6
+RWA,Rwanda,East Africa,7
+BDI,Burundi,East Africa,8
+TZA,Tanzania,East Africa,9
+SDN,Sudan,North Africa,10
