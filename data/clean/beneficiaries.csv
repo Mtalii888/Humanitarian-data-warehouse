@@ -1,4 +1,4 @@
-beneficiary_id,beneficiary_code,full_name,gender,age,country_id,status
+ben_id,ben_code,full_name,gender,age,country_id,status
 1,BEN000001,Diamond Ramos,Female,65,5,Refugee
 2,BEN000002,Matthew Werner,Male,67,9,IDP
 3,BEN000003,Susan Hull,Female,15,10,Refugee

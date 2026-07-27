@@ -1,0 +1,8 @@
+2026-07-27 09:45:46,070 INFO ========== ETL STARTED ==========
+2026-07-27 09:45:46,071 INFO Loading countries.csv
+2026-07-27 09:45:47,566 WARNING 10 invalid rows removed because of country_id
+2026-07-27 09:45:47,574 INFO 0 rows loaded into dim_country
+2026-07-27 09:45:47,574 INFO Loading donors.csv
+2026-07-27 09:45:47,622 WARNING 7 invalid rows removed because of donor_id
+2026-07-27 09:45:47,631 INFO 0 rows loaded into dim_donors
+2026-07-27 09:45:47,635 INFO Loading inventory.csv

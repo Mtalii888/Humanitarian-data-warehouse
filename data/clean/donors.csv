@@ -1,6 +1,7 @@
 donor_id,donor_name,donor_type
 1,USAID,NGO
 2,ECHO,NGO
+3,Unknown,NGO
 4,UNHCR,Government
 5,WFP,Government
 6,DFID,UN Agency
